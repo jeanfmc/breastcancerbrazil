@@ -1,0 +1,4 @@
+# ignore nodejs modules
+/loader/node_modules/*
+/loader/package-lock.json
+
