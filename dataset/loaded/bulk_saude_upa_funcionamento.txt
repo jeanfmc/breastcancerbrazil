@@ -1,0 +1,932 @@
+{"index":{"_id":"102000"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MOACIR ELIAS FADEL","endereco":{"logradouro":"PROLONGAMENTO DA RUA ANTONIO MENARIM","numero":"S/N","bairro":"RIO BRANCO","cidade":"Castro","uf":"PR","cep":""},"telefone":"42-2122-5607","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.9947,"lon":-24.78745}}
+{"index":{"_id":"102001"}}
+{"dataset":"upa_funcionamento","nome":"UPA MAGINI CENTRO","endereco":{"logradouro":"WASHINGTON LUIS","numero":"3890","bairro":"VILA MAGINI","cidade":"Mauá","uf":"SP","cep":""},"telefone":"(11)4518-1988","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.450881958008,"lon":-23.659933853312}}
+{"index":{"_id":"102002"}}
+{"dataset":"upa_funcionamento","nome":"UPA JARDIM PAINEIRAS","endereco":{"logradouro":"RUA JAVARI","numero":"635","bairro":"JARDIM PAINEIRAS","cidade":"Diadema","uf":"SP","cep":"45980-000"},"telefone":"40915467","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.62692,"lon":-23.69041}}
+{"index":{"_id":"102003"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR JOAO BATISTA DE SOUSA JUNIOR","endereco":{"logradouro":"AVENIDA RIO VERMELHO","numero":"S/N","bairro":"RESIDENCIAL ITAIPU","cidade":"Goiânia","uf":"GO","cep":""},"telefone":"062 - 32884522","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.368653297424,"lon":-16.780870822794}}
+{"index":{"_id":"102004"}}
+{"dataset":"upa_funcionamento","nome":"UPA II ANTONIO DE JESUS","endereco":{"logradouro":"RUA EUTIQUIO LOPES","numero":"S/N","bairro":"SANTA LUZIA","cidade":"Penedo","uf":"AL","cep":"57200-000"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-36.594257354736,"lon":-10.181132434057}}
+{"index":{"_id":"102005"}}
+{"dataset":"upa_funcionamento","nome":"UPA JARDIM SANTO ANDRE","endereco":{"logradouro":"RUA DOS DOMINICANOS","numero":"2011","bairro":"JARDIM SANTO ANDRE","cidade":"Santo André","uf":"SP","cep":"09132-150"},"telefone":"4451-2689","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.495792758942,"lon":-23.707316289152}}
+{"index":{"_id":"102006"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA RIO BONITO","endereco":{"logradouro":"RODOVIA BR 101","numero":"S/N","bairro":"PRACA CRUZEIRO","cidade":"Rio Bonito","uf":"RJ","cep":""},"telefone":"2127349818","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.64882,"lon":-22.71044}}
+{"index":{"_id":"102007"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO AUTRAN NUNES","endereco":{"logradouro":"AV FERNANDES TAVORA","numero":"S/N","bairro":"AUTRAN NUNES","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"85 32906724","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.51367,"lon":-3.74539}}
+{"index":{"_id":"102008"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H NOVA IGUACU II","endereco":{"logradouro":"ESTRADA DE ADRIANOPOLIS","numero":"S/N","bairro":"TRES CORACOES","cidade":"Nova Iguaçu","uf":"RJ","cep":"26041-271"},"telefone":"26572908","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.45155,"lon":-22.75976}}
+{"index":{"_id":"102009"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H ITABORAI","endereco":{"logradouro":"RODOVIA BR 493","numero":"S/N","bairro":"MANILHA","cidade":"Itaboraí","uf":"RJ","cep":"24800-000"},"telefone":"26359511","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.859,"lon":-22.744}}
+{"index":{"_id":"102010"}}
+{"dataset":"upa_funcionamento","nome":"UPA ENSEADA PAULO FLAVIO AFONSO PIASENTI GUARUJA","endereco":{"logradouro":"AVENIDA D PEDRO I","numero":"S/N","bairro":"ENSEADA","cidade":"Guarujá","uf":"SP","cep":""},"telefone":"33513661","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.222486495972,"lon":-23.976332263667}}
+{"index":{"_id":"102011"}}
+{"dataset":"upa_funcionamento","nome":"UPA NOVA DESCOBERTA","endereco":{"logradouro":"AVENIDA VEREADOR OTACILIO DE AZEVEDO","numero":"S/N","bairro":"BREJO DA GUABIRABA","cidade":"Recife","uf":"PE","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.92512,"lon":-7.99769}}
+{"index":{"_id":"102012"}}
+{"dataset":"upa_funcionamento","nome":"UPA DE ROMA","endereco":{"logradouro":"R BARAO DE COTEGIPE","numero":"1153","bairro":"ROMA","cidade":"Salvador","uf":"BA","cep":"40411-900"},"telefone":"(71) 3316-8600","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.51238,"lon":-12.97038}}
+{"index":{"_id":"102013"}}
+{"dataset":"upa_funcionamento","nome":"UPA SABARA","endereco":{"logradouro":"AV ARTHUR THOMAS","numero":"2390","bairro":"NOVO SABARA","cidade":"Londrina","uf":"PR","cep":"86066-000"},"telefone":"43 3372 3900","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.209684741974,"lon":-23.315039775281}}
+{"index":{"_id":"102014"}}
+{"dataset":"upa_funcionamento","nome":"UPA II DR JAIR DINOAH DE ARAUJO","endereco":{"logradouro":"AV BERNARDO SAYAO","numero":"1425","bairro":"CENTRO","cidade":"Ceres","uf":"GO","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.59248,"lon":-15.30508}}
+{"index":{"_id":"102015"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO CAPIM GROSSO","endereco":{"logradouro":"AV JOAO DAMASCENDO","numero":"S/N","bairro":"NOVO OESTE","cidade":"Capim Grosso","uf":"BA","cep":"44695-000"},"telefone":"36511509","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.013,"lon":-11.381}}
+{"index":{"_id":"102016"}}
+{"dataset":"upa_funcionamento","nome":"SMS COORD DE EMERGENCIA REGIONAL CER CENTRO AP 10","endereco":{"logradouro":"RUA FREI CANECA","numero":"S/N","bairro":"CENTRO","cidade":"Rio de Janeiro","uf":"RJ","cep":"20211-030"},"telefone":"21-25071311","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.190779611468,"lon":-22.909495617568}}
+{"index":{"_id":"102017"}}
+{"dataset":"upa_funcionamento","nome":"UPA VALDEMAR DE ASSIS BARCELOS","endereco":{"logradouro":"MG 040","numero":"30","bairro":"KM30","cidade":"Brumadinho","uf":"MG","cep":"35.460-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.2,"lon":-20.143}}
+{"index":{"_id":"102018"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H MARECHAL HERMES","endereco":{"logradouro":"RUA XAVIER CURADO","numero":"S/N","bairro":"MAL HERMES","cidade":"Rio de Janeiro","uf":"RJ","cep":"21610-330"},"telefone":"30165844","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.37668,"lon":-22.86855}}
+{"index":{"_id":"102019"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA TUPA","endereco":{"logradouro":"RUA COMERCIANTE JOSE DA MOTA","numero":"55","bairro":"VILA INDEPENDENCIA","cidade":"Tupã","uf":"SP","cep":"17605-400"},"telefone":"(14) 3441-4292","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.51305,"lon":-21.94069}}
+{"index":{"_id":"102020"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA SUL DA ILHA","endereco":{"logradouro":"RODOVIA FRANCISCO MAGNO VIEIRA SC 405","numero":"682","bairro":"RIO TAVARES","cidade":"Florianópolis","uf":"SC","cep":"88065-000"},"telefone":"(48) 32391701","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.549,"lon":-27.597}}
+{"index":{"_id":"102021"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE MUNICIPAL DE PRONTO ATENDIMENTO DE IBIRITE","endereco":{"logradouro":"RUA NELSON PINHEIRO","numero":"S/N","bairro":"MACAUBAS","cidade":"Ibirité","uf":"MG","cep":"32400-000"},"telefone":"(31)35336110","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.06751,"lon":-20.01841}}
+{"index":{"_id":"102022"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO DR HUMBERTO FERREIRA UPA MIRANTE","endereco":{"logradouro":"AV LEOPOLDINO DE OLIVEIRA","numero":"534","bairro":"PARQUE DO MIRANTE","cidade":"Uberaba","uf":"MG","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.932,"lon":-19.748}}
+{"index":{"_id":"102023"}}
+{"dataset":"upa_funcionamento","nome":"PRONTO ATENDIMENTO DR SERGIO AROUCA CAMPO GRANDE","endereco":{"logradouro":"R DIRCE DE OLIVEIRA SANTOS","numero":"280","bairro":"CAMPO GRANDE","cidade":"Campinas","uf":"SP","cep":"13100-000"},"telefone":"32218505","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.06323,"lon":-22.9071}}
+{"index":{"_id":"102024"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE JALES","endereco":{"logradouro":"RUA SEBASTIAO MARTINS","numero":"2373","bairro":"JD SAMAMBAIA","cidade":"Jales","uf":"SP","cep":"15700-202"},"telefone":"17-3632-8765","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.543159540653,"lon":-20.266838640215}}
+{"index":{"_id":"102025"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA II","endereco":{"logradouro":"ESTRADA DO ICUI GUAJARA","numero":"S/N","bairro":"ICUI GUAJARA","cidade":"Ananindeua","uf":"PA","cep":"670000-000"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.410122236729,"lon":-1.3354286324151}}
+{"index":{"_id":"102026"}}
+{"dataset":"upa_funcionamento","nome":"UPA ARACAGY","endereco":{"logradouro":"AV DOS HOLANDESES","numero":"S/N","bairro":"ARACAGY","cidade":"São Luís","uf":"MA","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.054,"lon":-2.562}}
+{"index":{"_id":"102027"}}
+{"dataset":"upa_funcionamento","nome":"UPA PINHEIRINHO","endereco":{"logradouro":"RUA LEON NICOLAS","numero":"S/N","bairro":"CAPAO RASO","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"041 32121470","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.3026,"lon":-25.51528}}
+{"index":{"_id":"102028"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO JOAO SAMEK","endereco":{"logradouro":"RUA IACANGA ESQUINA COM AVENIDA AMERICO SASDELI","numero":"S/N","bairro":"JARDIM PALMEIRA","cidade":"Foz do Iguaçu","uf":"PR","cep":""},"telefone":"45-3521-9500","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.543567895889,"lon":-25.494785740307}}
+{"index":{"_id":"102029"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS MARANGUAPE","endereco":{"logradouro":"RODOVIA SENADOR ALMIR PINTO","numero":"0000000","bairro":"NOVO MARANGUAPE","cidade":"Maranguape","uf":"CE","cep":""},"telefone":"08533415088","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.68187,"lon":-3.89066}}
+{"index":{"_id":"102030"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO SAO BENEDITO","endereco":{"logradouro":"R MAJOR EUSTAQUIO","numero":"1030","bairro":"SAO BENEDITO","cidade":"Uberaba","uf":"MG","cep":"38022-000"},"telefone":"(34)33332900","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.94003,"lon":-19.75274}}
+{"index":{"_id":"102031"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"AVENIDA GRECIA","numero":"229","bairro":"VILA PRADO","cidade":"São Carlos","uf":"SP","cep":"13574-140"},"telefone":"16-33712100","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.89116,"lon":-22.01269}}
+{"index":{"_id":"102032"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS ROSA MARIA OLIVEIRA BASTOS","endereco":{"logradouro":"RUA RIO SOLIMOES","numero":"130","bairro":"ASA SUL","cidade":"Irecê","uf":"BA","cep":"44900-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.856,"lon":-11.304}}
+{"index":{"_id":"102033"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24 H JOAO XXIII AP 53","endereco":{"logradouro":"AV JOAO XXIII","numero":"S/N","bairro":"SANTA CRUZ","cidade":"Rio de Janeiro","uf":"RJ","cep":"23570-000"},"telefone":"24165719/31575411","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.703856021166,"lon":-22.90689624902}}
+{"index":{"_id":"102034"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA ITAGUAI","endereco":{"logradouro":"AVENIDA DEPUTADO OTAVIO CABRAL","numero":"00","bairro":"JARDIM AMERICA","cidade":"Itaguaí","uf":"RJ","cep":"23810-302"},"telefone":"26879794","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.77795,"lon":-22.86236}}
+{"index":{"_id":"102035"}}
+{"dataset":"upa_funcionamento","nome":"UPA BAETA NEVES","endereco":{"logradouro":"RUA DOS VIANAS","numero":"933","bairro":"BAETA NEVES","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"4125-2100/4125-9139","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.544046583176,"lon":-23.699941198159}}
+{"index":{"_id":"102036"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24 H SEPETIBA AP 53","endereco":{"logradouro":"RUA RAFAEL FERREIRA","numero":"S/N","bairro":"SEPETIBA","cidade":"Rio de Janeiro","uf":"RJ","cep":"23535-808"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.67113,"lon":-22.92296}}
+{"index":{"_id":"102037"}}
+{"dataset":"upa_funcionamento","nome":"UPA SANTA LUZIA","endereco":{"logradouro":"RUA IBITIGUAIA","numero":"1130","bairro":"SANTA LUZIA","cidade":"Juiz de Fora","uf":"MG","cep":"36070-060"},"telefone":"(32)2102-0898","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.35271,"lon":-21.788}}
+{"index":{"_id":"102038"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA ZONA NORTE","endereco":{"logradouro":"AV SOPHIA RASGULAEFF X R HIPOCRATESX R ANA NERI","numero":"S/N","bairro":"JARDIM ALVORADA","cidade":"Maringá","uf":"PR","cep":"87035-260"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.913318634033,"lon":-23.397329673067}}
+{"index":{"_id":"102039"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOSE SABINO NETO TERESOPOLIS","endereco":{"logradouro":"AVENIDA BELO HORIZONTE","numero":"154","bairro":"JARDIM TERESOPOLIS","cidade":"Betim","uf":"MG","cep":"32381-778"},"telefone":"(31)3597.8273/8270","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.12244,"lon":-19.94906}}
+{"index":{"_id":"102040"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"AV VITOR ROCHA","numero":"10","bairro":"PARQUE BURLE","cidade":"Cabo Frio","uf":"RJ","cep":""},"telefone":"2226489679","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.04381,"lon":-22.8897}}
+{"index":{"_id":"102041"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE VERA CRUZ","endereco":{"logradouro":"AVENIDA JUVENAL JOAO VINAGRE","numero":"S/N","bairro":"MAR GRANDE","cidade":"Vera Cruz","uf":"BA","cep":"44470-000"},"telefone":"7136333305","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.609,"lon":-12.96}}
+{"index":{"_id":"102042"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24HS DE ITATIBA","endereco":{"logradouro":"RUA BENEDITA CARRA CORRADINE","numero":"S/N","bairro":"PQ EMPRESARIAL","cidade":"Itatiba","uf":"SP","cep":"13257-570"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.839,"lon":-23.006}}
+{"index":{"_id":"102043"}}
+{"dataset":"upa_funcionamento","nome":"UPA RUDGE RAMOS","endereco":{"logradouro":"RUA ANGELA TOME","numero":"256","bairro":"RUDGE RAMOS","cidade":"São Bernardo do Campo","uf":"SP","cep":"09624-070"},"telefone":"4368-1222","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.574087324142,"lon":-23.655514435287}}
+{"index":{"_id":"102044"}}
+{"dataset":"upa_funcionamento","nome":"UPA I UNIDADE DE PRONTO ATENDIMENTO DE CORONEL VIVIDA","endereco":{"logradouro":"RUA ROMARIO MARTINS","numero":"154","bairro":"CENTRO","cidade":"Coronel Vivida","uf":"PR","cep":"85550-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.56869,"lon":-25.98027}}
+{"index":{"_id":"102045"}}
+{"dataset":"upa_funcionamento","nome":"UPA IPIRANGA","endereco":{"logradouro":"RUA JOSE MIGUEL","numero":"11","bairro":"VILA NIPONICA","cidade":"Bauru","uf":"SP","cep":"17052-170"},"telefone":"3106-1121","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.10343,"lon":-22.35017}}
+{"index":{"_id":"102046"}}
+{"dataset":"upa_funcionamento","nome":"UPA SACADURA CABRAL","endereco":{"logradouro":"RUA LAURO MULLER","numero":"354","bairro":"SACADURA CABRAL","cidade":"Santo André","uf":"SP","cep":"09061-260"},"telefone":"44211224","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.557773244858,"lon":-23.656452875462}}
+{"index":{"_id":"102047"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO JOAO DOS PATOS","endereco":{"logradouro":"RUA SAO JORGE","numero":"01","bairro":"SANTIAGO","cidade":"São João dos Patos","uf":"MA","cep":"65665000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.702,"lon":-6.495}}
+{"index":{"_id":"102048"}}
+{"dataset":"upa_funcionamento","nome":"UPA COROATA","endereco":{"logradouro":"AVENIDA DA BANDEIRA","numero":"S/N","bairro":"CENTRO","cidade":"Coroatá","uf":"MA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.13041,"lon":-4.12516}}
+{"index":{"_id":"102049"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA ALFREDO DELL VIGNA","numero":"253","bairro":"JORDANESIA","cidade":"Cajamar","uf":"SP","cep":""},"telefone":"(11)44474058","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.839053928852,"lon":-23.338219437899}}
+{"index":{"_id":"102050"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIAO ALVARENGA","endereco":{"logradouro":"ESTRADA DOS ALVARENGA","numero":"5779","bairro":"ALVARENGA","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"11 4129-2744","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.598270120621,"lon":-23.740657771544}}
+{"index":{"_id":"102051"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H TIJUCA","endereco":{"logradouro":"RUA CONDE DE BONFIM","numero":"S/N","bairro":"TIJUCA","cidade":"Rio de Janeiro","uf":"RJ","cep":"20520-054"},"telefone":"23341921","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.23752,"lon":-22.93017}}
+{"index":{"_id":"102052"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H SAO GONCALO I","endereco":{"logradouro":"RODOVIA AMARAL PEIXOTO","numero":"S/N","bairro":"COLUMBANDE","cidade":"São Gonçalo","uf":"RJ","cep":"24744-560"},"telefone":"27017397","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.054,"lon":-22.827}}
+{"index":{"_id":"102053"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H MESQUITA","endereco":{"logradouro":"AVENIDA PRESIDENTE COSTA E SILVA","numero":"S/N","bairro":"EDSON PASSOS","cidade":"Mesquita","uf":"RJ","cep":"26.584-001"},"telefone":"37632426","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.42869,"lon":-22.7815}}
+{"index":{"_id":"102054"}}
+{"dataset":"upa_funcionamento","nome":"UPA VASSOURAL","endereco":{"logradouro":"RUA LUIZ GONZAGA","numero":"00","bairro":"VASSOURAL","cidade":"Caruaru","uf":"PE","cep":""},"telefone":"37011504","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.93743,"lon":-8.27833}}
+{"index":{"_id":"102055"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS TUCURUI EROSTACIO CORREA FILOCREAO IOIO","endereco":{"logradouro":"RUA PEDRO VIGIA","numero":"S/N","bairro":"SANTA MONICA","cidade":"Tucuruí","uf":"PA","cep":"68.696-000"},"telefone":"94 3787 3289","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.679083250046,"lon":-3.7864349230254}}
+{"index":{"_id":"102056"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE CAUCAIA","endereco":{"logradouro":"GERONIMO AMARAL","numero":"S/N","bairro":"CENTRO","cidade":"Caucaia","uf":"CE","cep":""},"telefone":"988001515","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.656811714172,"lon":-3.7330295035595}}
+{"index":{"_id":"102057"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"RUA BARAO DE PASSOS","numero":"1629","bairro":"SANTA LUZIA","cidade":"Passos","uf":"MG","cep":"37900-048"},"telefone":"(35)3522 7171","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.6086,"lon":-20.73101}}
+{"index":{"_id":"102058"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO OESTE","endereco":{"logradouro":"AV BARAO HOMEM DE MELO","numero":"1710","bairro":"JARDIM AMERICA","cidade":"Belo Horizonte","uf":"MG","cep":"30130-007"},"telefone":"(31)32777044","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.97755,"lon":-19.92744}}
+{"index":{"_id":"102059"}}
+{"dataset":"upa_funcionamento","nome":"UPA DE PENTECOSTE","endereco":{"logradouro":"RUA GONSALO SALES PESSOA","numero":"14","bairro":"SAO FRANCISCO","cidade":"Pentecoste","uf":"CE","cep":""},"telefone":"85 33522619","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.257937669754,"lon":-3.7893630392351}}
+{"index":{"_id":"102060"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HS VOLTA REDONDA","endereco":{"logradouro":"RUA MIL E DEZESSETE","numero":"660","bairro":"STO AGOSTINHO","cidade":"Volta Redonda","uf":"RJ","cep":"27210-240"},"telefone":"2433384576","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.07017,"lon":-22.4887}}
+{"index":{"_id":"102061"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE OLIMPIA","endereco":{"logradouro":"AVENIDA WALDEMAR LOPES FERRAZ","numero":"288","bairro":"CENTRO","cidade":"Olímpia","uf":"SP","cep":"15400000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.915,"lon":-20.737}}
+{"index":{"_id":"102062"}}
+{"dataset":"upa_funcionamento","nome":"UPA NILOPOLIS","endereco":{"logradouro":"RUA ZEZINHO","numero":"111","bairro":"CENTRO","cidade":"Nilópolis","uf":"RJ","cep":"26540-005"},"telefone":"2137629182","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.41399,"lon":-22.81168}}
+{"index":{"_id":"102063"}}
+{"dataset":"upa_funcionamento","nome":"UPA TIPO III SAMAMBAIA","endereco":{"logradouro":"QS 107 CONJUNTO 04 AE","numero":"09","bairro":"SUL","cidade":"Brasília","uf":"DF","cep":"72322-700"},"telefone":"61-34593435","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.11108,"lon":-15.88708}}
+{"index":{"_id":"102064"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO LOURENCO DA MATA","endereco":{"logradouro":"AVENIDA SR FRANCISCO CORREIA","numero":"2009","bairro":"PIXETE","cidade":"São Lourenço da Mata","uf":"PE","cep":"725000-000"},"telefone":"8131844378","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.04746,"lon":-7.99136}}
+{"index":{"_id":"102065"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO CENTRO SUL","endereco":{"logradouro":"RUA DOMINGOS VIEIRA","numero":"488","bairro":"SANTA EFIGENIA","cidade":"Belo Horizonte","uf":"MG","cep":"31150-000"},"telefone":"32385900","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.92537,"lon":-19.92235}}
+{"index":{"_id":"102066"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA ZONA SUL","endereco":{"logradouro":"AVENIDA NILDO RIBEIRO DA ROCHA","numero":"865","bairro":"JARDIM IPANEMA","cidade":"Maringá","uf":"PR","cep":""},"telefone":"32214812","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.94586,"lon":-23.42564}}
+{"index":{"_id":"102067"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H CIDADE DE DEUS AP 40","endereco":{"logradouro":"RUA EDGAR WERNECK","numero":"S/N","bairro":"CIDADES DE DEUS","cidade":"Rio de Janeiro","uf":"RJ","cep":"22763-011"},"telefone":"21 22323173","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.359157964587,"lon":-22.949504175715}}
+{"index":{"_id":"102068"}}
+{"dataset":"upa_funcionamento","nome":"SES UPA 24H ILHA DO GOVERNADOR AP 31","endereco":{"logradouro":"PARQUE POETA MANUEL BANDEIRA","numero":"S/N","bairro":"COCOTA ILHA DO GOVER","cidade":"Rio de Janeiro","uf":"RJ","cep":"21910-296"},"telefone":"23346346","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.20958,"lon":-22.90353}}
+{"index":{"_id":"102069"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H DE SEABRA JORGE ALVES DE OLIVEIRA","endereco":{"logradouro":"RUA EDVALDO SANTOS","numero":"S/N","bairro":"TAMBORIL","cidade":"Seabra","uf":"BA","cep":"46900-000"},"telefone":"7533313919","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.774906516075,"lon":-12.411964703408}}
+{"index":{"_id":"102070"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO VENDA NOVA","endereco":{"logradouro":"RUA PADRE PEDRO PINTO","numero":"322","bairro":"VENDA NOVA","cidade":"Belo Horizonte","uf":"MG","cep":"31515-000"},"telefone":"(31)32775438","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.95405,"lon":-19.81775}}
+{"index":{"_id":"102071"}}
+{"dataset":"upa_funcionamento","nome":"UPA PIRACICAMIRIM DR FORTUNATO LOSSO NETO PIRACICABA","endereco":{"logradouro":"RUA RIO GRANDE DO NORTE","numero":"135","bairro":"VILA PRUDENTE","cidade":"Piracicaba","uf":"SP","cep":""},"telefone":"(19) 3426-5973","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.62742,"lon":-22.73946}}
+{"index":{"_id":"102072"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO NORDESTE","endereco":{"logradouro":"RUA JOAQUIM GOUVEIA","numero":"560","bairro":"SAO PAULO","cidade":"Belo Horizonte","uf":"MG","cep":""},"telefone":"32467501","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.93079,"lon":-19.88421}}
+{"index":{"_id":"102073"}}
+{"dataset":"upa_funcionamento","nome":"UPA CURADO","endereco":{"logradouro":"RUA LEONARDO DA VINCE","numero":"68","bairro":"CURADO II","cidade":"Jaboatão dos Guararapes","uf":"PE","cep":""},"telefone":"81 31844465","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.005359649658,"lon":-8.0765657867848}}
+{"index":{"_id":"102074"}}
+{"dataset":"upa_funcionamento","nome":"UPA IMPERATRIZ","endereco":{"logradouro":"AVENIDA BERNARDO SAYAO","numero":"968","bairro":"NOV IMPERATRIZ","cidade":"Imperatriz","uf":"MA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.47267,"lon":-5.5208}}
+{"index":{"_id":"102075"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE SENADOR CANEDO","endereco":{"logradouro":"RUA BV 15 ESQ AV GERONIMO VIEIRA","numero":"S/N","bairro":"RESIDENCILA BOA VIST","cidade":"Senador Canedo","uf":"GO","cep":"75250-000"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.117375915527,"lon":-16.688269272007}}
+{"index":{"_id":"102076"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"AVENIDA AURELIO JOSE FREDIANI","numero":"45","bairro":"JARDIM SANTA ROSA","cidade":"Vinhedo","uf":"SP","cep":""},"telefone":"(19) 3886-4472","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.975,"lon":-23.03}}
+{"index":{"_id":"102077"}}
+{"dataset":"upa_funcionamento","nome":"UPA CAMPO COMPRIDO","endereco":{"logradouro":"RUA MONS IVO ZANLORENZI","numero":"3495","bairro":"CAMPO COMPRIDO","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"(41)3373-1332","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.33896,"lon":-25.44207}}
+{"index":{"_id":"102078"}}
+{"dataset":"upa_funcionamento","nome":"UPA ITAPERUNA","endereco":{"logradouro":"RUA E","numero":"01","bairro":"CIDADE NOVA","cidade":"Itaperuna","uf":"RJ","cep":""},"telefone":"22 38224657","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.88956,"lon":-21.20652}}
+{"index":{"_id":"102079"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H BATATAIS JOSE ANTONIO DA SILVA NETO","endereco":{"logradouro":"AV MOACIR DIAS DE MORAIS","numero":"525","bairro":"JOAQUIM MARINHEIRO","cidade":"Batatais","uf":"SP","cep":"14300000"},"telefone":"(16)37619499","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.58564,"lon":-20.89163}}
+{"index":{"_id":"102080"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS IRMA DULCE MARECHAL DEODORO AL","endereco":{"logradouro":"RUA CORIMA","numero":"S/N","bairro":"FRANCES","cidade":"Marechal Deodoro","uf":"AL","cep":"57160-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.850671231747,"lon":-9.7741937355274}}
+{"index":{"_id":"102081"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MORADA DO OURO","endereco":{"logradouro":"RUA 17","numero":"S/N","bairro":"MORADA DO OURO","cidade":"Cuiabá","uf":"MT","cep":"78053-739"},"telefone":"3645 - 5700","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-56.055114624023,"lon":-15.569833114436}}
+{"index":{"_id":"102082"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H JARDIM IRIS","endereco":{"logradouro":"AVENIDA COMENDADOR TELES","numero":"S/N","bairro":"JARDIM IRIS","cidade":"São João de Meriti","uf":"RJ","cep":"25561-162"},"telefone":"21 3757-3176","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.35563,"lon":-22.77563}}
+{"index":{"_id":"102083"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR DEVID DISRAELI TORRES","endereco":{"logradouro":"RUA PEDRO BARRETO","numero":"20","bairro":"CENTRO","cidade":"Viçosa","uf":"AL","cep":""},"telefone":"32831279","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-36.241,"lon":-9.371}}
+{"index":{"_id":"102084"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H ROCHA MIRANDA AP 33","endereco":{"logradouro":"ESTRADA DO BARRO VERMELHO","numero":"S/N","bairro":"ROCHA MIRANDA","cidade":"Rio de Janeiro","uf":"RJ","cep":"21540-520"},"telefone":"35141487","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.346592485905,"lon":-22.851375524685}}
+{"index":{"_id":"102085"}}
+{"dataset":"upa_funcionamento","nome":"UPA OLINDA","endereco":{"logradouro":"RODOVIA PE 15 AVENIDA JOAQUIM NABUCO","numero":"S/N","bairro":"CIDADE TABAJARA","cidade":"Olinda","uf":"PE","cep":"53350-005"},"telefone":"(81) 31844309","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.8535,"lon":-8.0205}}
+{"index":{"_id":"102086"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS UNIDADE DE PRONTO ATENDIMENTO NATHAN GARCIA LEITAO","endereco":{"logradouro":"RUA TENENTE LUIZ MEIRELLES","numero":"S/N","bairro":"VARZEA","cidade":"Teresópolis","uf":"RJ","cep":"25950-000"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.97096,"lon":-22.41676}}
+{"index":{"_id":"102087"}}
+{"dataset":"upa_funcionamento","nome":"UPA REGIAO NORTE","endereco":{"logradouro":"R MANOEL MORENO ESQ R JOSEPHA VOLTARELLI SANFELICE","numero":"130","bairro":"JARDIM ANTUNES","cidade":"São José do Rio Preto","uf":"SP","cep":"15047050"},"telefone":"17-32375315","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.41049,"lon":-20.78085}}
+{"index":{"_id":"102088"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA JOAO DE BARRO","numero":"S/N","bairro":"PARAISO DO VALE","cidade":"Bom Princípio","uf":"RS","cep":""},"telefone":"51 3634 1191","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.35844,"lon":-29.49119}}
+{"index":{"_id":"102089"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H MAGALHAES BASTOS AP 51","endereco":{"logradouro":"ESTRADA MANOEL NOGUEIRA DE SA","numero":"S/N","bairro":"MAGALHAES BASTOS","cidade":"Rio de Janeiro","uf":"RJ","cep":"22745-290"},"telefone":"35507080","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.417534902692,"lon":-22.89259292427}}
+{"index":{"_id":"102090"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO VARGEM DAS FLORES UPA","endereco":{"logradouro":"RUA RETIRO DOS IMIGRANTES","numero":"80","bairro":"RETIRO","cidade":"Contagem","uf":"MG","cep":"32.050-310"},"telefone":"(31)39117419","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.05302,"lon":-19.96417}}
+{"index":{"_id":"102091"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO MESSEJANA","endereco":{"logradouro":"RUA MIGUEL GURGEL","numero":"S/N","bairro":"MESSEJANA","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"85 34740535","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.54732,"lon":-3.7618}}
+{"index":{"_id":"102092"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO LAGOMAR","endereco":{"logradouro":"AVENIDA JOSE FERREIRA MACHADO","numero":"S/N","bairro":"LAGOMAR","cidade":"Macaé","uf":"RJ","cep":"27971-430"},"telefone":"(22) 2796-1279","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.78572,"lon":-22.37172}}
+{"index":{"_id":"102093"}}
+{"dataset":"upa_funcionamento","nome":"UPA DEMARCHI BATISTINI","endereco":{"logradouro":"RUA VALDOMIRO LUIZ","numero":"303","bairro":"DEMARCHI","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"4368-4333","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.564176561832,"lon":-23.744571353847}}
+{"index":{"_id":"102094"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR JOAO OLIVEIRA","endereco":{"logradouro":"RODOVIA LOMANTO JUNIOR","numero":"S/N","bairro":"CASTELO BRANCO","cidade":"Juazeiro","uf":"BA","cep":"48904-060"},"telefone":"7436134288","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.50223,"lon":-9.4234}}
+{"index":{"_id":"102095"}}
+{"dataset":"upa_funcionamento","nome":"UPA DE HORIZONTE","endereco":{"logradouro":"RUA CIRO BILHAR","numero":"1285","bairro":"CENTRO","cidade":"Horizonte","uf":"CE","cep":""},"telefone":"8533366043","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.65085,"lon":-4.08486}}
+{"index":{"_id":"102096"}}
+{"dataset":"upa_funcionamento","nome":"UPA PORTE II 24HS JD CEREJEIRAS ATIBAIA","endereco":{"logradouro":"PRACA ORIENTAL","numero":"50","bairro":"JD CEREJEIRAS","cidade":"Atibaia","uf":"SP","cep":"12940-000"},"telefone":"11 4412-2969","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.55,"lon":-23.117}}
+{"index":{"_id":"102097"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA ARNALDO HORACIO FERREIRA","numero":"165","bairro":"MIMOSO DO OESTE","cidade":"Luís Eduardo Magalhães","uf":"BA","cep":"47850-000"},"telefone":"36285885","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.803674988747,"lon":-12.084278667153}}
+{"index":{"_id":"102098"}}
+{"dataset":"upa_funcionamento","nome":"UPA GEISEL","endereco":{"logradouro":"RUA ANTONIO MANOEL DA COSTA","numero":"S/N","bairro":"JARDIM OLIMPICO","cidade":"Bauru","uf":"SP","cep":"17033-841"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.061,"lon":-22.315}}
+{"index":{"_id":"102099"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RODOVIA DUQUE DE CAXIAS","numero":"S/N","bairro":"UBATUBA","cidade":"São Francisco do Sul","uf":"SC","cep":"89240-000"},"telefone":"47-34446277","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.58288,"lon":-26.23098}}
+{"index":{"_id":"102100"}}
+{"dataset":"upa_funcionamento","nome":"UPA FAZENDINHA","endereco":{"logradouro":"RUA CARLOS KLEMTZ","numero":"S/N","bairro":"FAZENDINHA","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"3329-4324","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.32043,"lon":-25.47624}}
+{"index":{"_id":"102101"}}
+{"dataset":"upa_funcionamento","nome":"UPA SANTA LUZIA","endereco":{"logradouro":"ESTRADA DA COLONIA","numero":"2959","bairro":"SANTA LUZIA","cidade":"Ribeirão Pires","uf":"SP","cep":"09405-390"},"telefone":"48228000","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.413,"lon":-23.711}}
+{"index":{"_id":"102102"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PROTO ATENDIMENTO 24 H PEDRO VALADARES","endereco":{"logradouro":"RUA JULIO MANOEL DE OLIVEIRA","numero":"S/N","bairro":"CENTRO","cidade":"Simão Dias","uf":"SE","cep":""},"telefone":"(079)3611-2221","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.81446,"lon":-10.73227}}
+{"index":{"_id":"102103"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO ZONA NORTE MOACYR SCLIAR","endereco":{"logradouro":"JERONYMO ZELMANOVITZ","numero":"001","bairro":"SAO SEBASTIAO","cidade":"Porto Alegre","uf":"RS","cep":""},"telefone":"51 33681626","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.1465,"lon":-30.0079}}
+{"index":{"_id":"102104"}}
+{"dataset":"upa_funcionamento","nome":"UPA IBURA","endereco":{"logradouro":"RUA VALE DO TAJAI","numero":"S/N","bairro":"IBURA","cidade":"Recife","uf":"PE","cep":""},"telefone":"81 31844594","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.8996,"lon":-8.12692}}
+{"index":{"_id":"102105"}}
+{"dataset":"upa_funcionamento","nome":"UPA NUCLEO BANDEIRANTE","endereco":{"logradouro":"DF 075 KM 180 PLACA DAS MERCEDES","numero":"180","bairro":"NUCLEO BANDEIRANTE","cidade":"Brasília","uf":"DF","cep":"71732-010"},"telefone":"33862109","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.88586,"lon":-15.7958}}
+{"index":{"_id":"102106"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO JOSE WALTER","endereco":{"logradouro":"AV PRESIDENTE COSTA E SILVA","numero":"S/N","bairro":"JOSE WALTER","cidade":"Fortaleza","uf":"CE","cep":"60750-022"},"telefone":"85 32168316","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.543,"lon":-3.717}}
+{"index":{"_id":"102107"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H RICARDO DE ALBUQUERQUE","endereco":{"logradouro":"ESTR MAL ALENCASTRO","numero":"S/N","bairro":"RICARDO DE ALBUQUERQ","cidade":"Rio de Janeiro","uf":"RJ","cep":"21625-130"},"telefone":"33394819","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.4042,"lon":-22.82395}}
+{"index":{"_id":"102108"}}
+{"dataset":"upa_funcionamento","nome":"UPA VILA SONIA NESTOR LONGATTO PIRACICABA","endereco":{"logradouro":"RUA BRIGADEIRO EDUARDO GOMES","numero":"106","bairro":"VILA SONIA","cidade":"Piracicaba","uf":"SP","cep":""},"telefone":"(19) 3425-3284","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.69336,"lon":-22.67106}}
+{"index":{"_id":"102109"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"RUA FREDERICO DOLABELA","numero":"S/N","bairro":"CENTRO","cidade":"Manhuaçu","uf":"MG","cep":"32900-000"},"telefone":"33 3332 3310","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.16765,"lon":-20.23128}}
+{"index":{"_id":"102110"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS VACARIA","endereco":{"logradouro":"RUA CAMPOS SALES","numero":"1100","bairro":"GLORIA","cidade":"Vacaria","uf":"RS","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.94264,"lon":-28.49955}}
+{"index":{"_id":"102111"}}
+{"dataset":"upa_funcionamento","nome":"UPA ALEXANDRE SILVA ARAUJO DINIZ ALTEROSAS","endereco":{"logradouro":"AVENIDA CAMPOS DE OURIQUE","numero":"520","bairro":"JARDIM ALTEROSAS","cidade":"Betim","uf":"MG","cep":"32670-778"},"telefone":"(31)35922933","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.15644,"lon":-19.95012}}
+{"index":{"_id":"102112"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA PORTE 1","endereco":{"logradouro":"PRACA ESPIRIDIAO LUCIO MARTINS","numero":"S/N","bairro":"CENTRO","cidade":"Itapeva","uf":"SP","cep":"18400-020"},"telefone":"15 35213242","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.877231133938,"lon":-23.987170794015}}
+{"index":{"_id":"102113"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO PEDRO","endereco":{"logradouro":"DOM PEDRO DE ALCANTARA","numero":"273","bairro":"VILA SAO PEDRO","cidade":"São Bernardo do Campo","uf":"SP","cep":"09711-280"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.526939454079,"lon":-23.718760165723}}
+{"index":{"_id":"102114"}}
+{"dataset":"upa_funcionamento","nome":"UPA DO SUBURBIO","endereco":{"logradouro":"LADEIRA DA TEREZINHA","numero":"S/N","bairro":"ESCADA","cidade":"Salvador","uf":"BA","cep":"40720-460"},"telefone":"71 3401-8585","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.51238,"lon":-12.97038}}
+{"index":{"_id":"102115"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE XINGUARA","endereco":{"logradouro":"BR 155 ESQUINA COM AVENIDA HERMES DANTAS","numero":"S/N","bairro":"CENTRO","cidade":"Xinguara","uf":"PA","cep":"68555-280"},"telefone":"34264736","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.937604685783,"lon":-7.1072435217962}}
+{"index":{"_id":"102116"}}
+{"dataset":"upa_funcionamento","nome":"UPA CONCHECITA CIARLINI","endereco":{"logradouro":"RUA SEIS DE JANEIRO","numero":"289","bairro":"SANTO ANTONIO","cidade":"Mossoró","uf":"RN","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.34573,"lon":-5.18404}}
+{"index":{"_id":"102117"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE ARAUCARIA","endereco":{"logradouro":"AVENIDA MANOEL RIBAS","numero":"2600","bairro":"JARDIM PLANALTO","cidade":"Araucária","uf":"PR","cep":"83708-695"},"telefone":"3905-6315","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.41,"lon":-25.593}}
+{"index":{"_id":"102118"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS RIO BRANCO","endereco":{"logradouro":"CAIRU","numero":"600","bairro":"RIO BRANCO","cidade":"Canoas","uf":"RS","cep":""},"telefone":"(51)3415-4500","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.184,"lon":-29.918}}
+{"index":{"_id":"102119"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO PETROLANDIA UPA","endereco":{"logradouro":"RUA REFINARIA UNIAO","numero":"137","bairro":"PETROLANDIA","cidade":"Contagem","uf":"MG","cep":"32072-180"},"telefone":"(31)3352-3312/5692","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.114,"lon":-19.9304}}
+{"index":{"_id":"102120"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA DRA ANA OLIVIA BENTIVOGLIO","endereco":{"logradouro":"AV ANTONIO PINTO CATAO","numero":"1222","bairro":"JD PLANALTO","cidade":"Jaguariúna","uf":"SP","cep":"13820-000"},"telefone":"38671122","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.986,"lon":-22.706}}
+{"index":{"_id":"102121"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR DIORANDI FIGUEIRA DA COSTA","endereco":{"logradouro":"RUA JOAO RODRIGUES AGOSTINHO","numero":"2701","bairro":"PARQUE VILA SAUDE","cidade":"Votuporanga","uf":"SP","cep":""},"telefone":"(17)34051446","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.97829,"lon":-20.42034}}
+{"index":{"_id":"102122"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24H UPA I","endereco":{"logradouro":"AVENIDA CARMELITO BARBOSA ALVES","numero":"110","bairro":"ITAPICURU","cidade":"Cruz das Almas","uf":"BA","cep":"44380-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.114538460954,"lon":-12.66346964428}}
+{"index":{"_id":"102123"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H PENHA AP 31","endereco":{"logradouro":"AVENIDA LOBO JUNIOR","numero":"S/N","bairro":"PENHA","cidade":"Rio de Janeiro","uf":"RJ","cep":"21070-061"},"telefone":"2334-7859","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.27917,"lon":-22.83169}}
+{"index":{"_id":"102124"}}
+{"dataset":"upa_funcionamento","nome":"UPA RIACHO GRANDE","endereco":{"logradouro":"RUA MARCILIO CONRADO","numero":"333","bairro":"RIACHO GRANDE","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"4101-8264 / 4357-235","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.52998644352,"lon":-23.782014509003}}
+{"index":{"_id":"102125"}}
+{"dataset":"upa_funcionamento","nome":"UPA ENGENHO VELHO","endereco":{"logradouro":"AVENIDA MANOEL RABELO","numero":"S/N","bairro":"ENGENHO VELHO","cidade":"Jaboatão dos Guararapes","uf":"PE","cep":""},"telefone":"8131844520","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.00392,"lon":-8.10929}}
+{"index":{"_id":"102126"}}
+{"dataset":"upa_funcionamento","nome":"UPA ALVES DIAS ASSUNCAO","endereco":{"logradouro":"AV HUMBERTO DE ALENCAR CASTELO BRANCO","numero":"4220","bairro":"ALVES DIAS","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"4104-4018","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.576984109879,"lon":-23.724255784161}}
+{"index":{"_id":"102127"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H BOM JESUS DA LAPA","endereco":{"logradouro":"RUA L","numero":"244","bairro":"SAO MIGUEL","cidade":"Bom Jesus da Lapa","uf":"BA","cep":"47600-000"},"telefone":"77 3481 7907","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.41591,"lon":-13.2575}}
+{"index":{"_id":"102128"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS DR MAIA","endereco":{"logradouro":"AV MANOEL TAVARES","numero":"S/N","bairro":"ALTO BRANCO","cidade":"Campina Grande","uf":"PB","cep":""},"telefone":"83 33412079","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.881,"lon":-7.231}}
+{"index":{"_id":"102129"}}
+{"dataset":"upa_funcionamento","nome":"UPA CENTRAL AMELIA BERNARDINI CUTRALE","endereco":{"logradouro":"AVENIDA MARIA ANTONIA CAMARGO DE OLIVEIRA","numero":"S/N","bairro":"VILA FERROVIARIA","cidade":"Araraquara","uf":"SP","cep":"14806-150"},"telefone":"016 33346900","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.17213,"lon":-21.78706}}
+{"index":{"_id":"102130"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H CAMPO GRANDE","endereco":{"logradouro":"ESTRADA DO MENDANHA","numero":"S/N","bairro":"CAMPO GRANDE","cidade":"Rio de Janeiro","uf":"RJ","cep":"23087-286"},"telefone":"23336809","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.54198,"lon":-22.86162}}
+{"index":{"_id":"102131"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS CARAPINA","endereco":{"logradouro":"AVENIDA NORTE SUL","numero":"S/N","bairro":"MANOEL PLAZA","cidade":"Serra","uf":"ES","cep":""},"telefone":"(27)3341 - 1171","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.31982421875,"lon":-20.135891626115}}
+{"index":{"_id":"102132"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24H","endereco":{"logradouro":"RUA QUINTINO BOCAIUVA","numero":"S/N","bairro":"FUNDOS","cidade":"Biguaçu","uf":"SC","cep":""},"telefone":"(48)30398460","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.658059936523,"lon":-27.494609093518}}
+{"index":{"_id":"102133"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR LUIS ATILIO LOSI VIANA RIBEIRAO PRETO","endereco":{"logradouro":"AVENIDA TREZE DE MAIO","numero":"353","bairro":"JARDIM PAULISTANO","cidade":"Ribeirão Preto","uf":"SP","cep":"14090-270"},"telefone":"(16)39722868","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.791052875519,"lon":-21.176219234876}}
+{"index":{"_id":"102134"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H FONSECA","endereco":{"logradouro":"RUA SA BARRETO","numero":"107","bairro":"FONSECA","cidade":"Niterói","uf":"RJ","cep":"24120-395"},"telefone":"21-26257807","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.104,"lon":-22.883}}
+{"index":{"_id":"102135"}}
+{"dataset":"upa_funcionamento","nome":"UPA CARUARU","endereco":{"logradouro":"AVENIDA JOSE MARQUES FONTES","numero":"S/N","bairro":"INDIANOPOLIS","cidade":"Caruaru","uf":"PE","cep":""},"telefone":"08737277814","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.96166,"lon":-8.30264}}
+{"index":{"_id":"102136"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H COSTA BARROS AP 33","endereco":{"logradouro":"EST DE BOTAFOGO","numero":"S/N","bairro":"COSTA BARROS","cidade":"Rio de Janeiro","uf":"RJ","cep":"21532-200"},"telefone":"25086998","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.368807211518,"lon":-22.821810279127}}
+{"index":{"_id":"102137"}}
+{"dataset":"upa_funcionamento","nome":"UPA ITAQUI BACANGA","endereco":{"logradouro":"AVENIDA DOS PORTUGUESES","numero":"S/N","bairro":"ITAQUI BACANGA","cidade":"São Luís","uf":"MA","cep":""},"telefone":"(98)32720346","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.30782,"lon":-2.55194}}
+{"index":{"_id":"102138"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24 HORAS ARARANGUA","endereco":{"logradouro":"AVENIDA 15 DE NOVEMBRO","numero":"344","bairro":"CIDADE ALTA","cidade":"Araranguá","uf":"SC","cep":"88900-000"},"telefone":"48-39031922","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.495857059956,"lon":-28.948795183461}}
+{"index":{"_id":"102139"}}
+{"dataset":"upa_funcionamento","nome":"UPA IMBIRIBEIRA","endereco":{"logradouro":"AV MASCARENHAS DE MORAES","numero":"4223","bairro":"IMBIRIBEIRA","cidade":"Recife","uf":"PE","cep":"51200-000"},"telefone":"81 31844328","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.91293,"lon":-8.1145}}
+{"index":{"_id":"102140"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO JOSUE RODRIGUES MARTINS","endereco":{"logradouro":"RUA LAUDELINO VALENTE","numero":"S/N","bairro":"SAO CRISTOVAO","cidade":"Capanema","uf":"PA","cep":""},"telefone":"(91)34622155","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.186794281006,"lon":-1.2338066111992}}
+{"index":{"_id":"102141"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H DE PAJUCARA","endereco":{"logradouro":"RUA MOEMIA TINOCO DA CUNHA LIMA","numero":"S/N","bairro":"PAJUCARA","cidade":"Natal","uf":"RN","cep":""},"telefone":"843614 5280","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.242740511894,"lon":-5.7226906514507}}
+{"index":{"_id":"102142"}}
+{"dataset":"upa_funcionamento","nome":"UPA VILA REZENDE DR ALFREDO J DE C NEVES PIRACICABA","endereco":{"logradouro":"AVENIDA CONCEICAO","numero":"350","bairro":"VILA REZENDE","cidade":"Piracicaba","uf":"SP","cep":""},"telefone":"(19) 3421-1439","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.65828,"lon":-22.70447}}
+{"index":{"_id":"102143"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA III","endereco":{"logradouro":"CIDADE NOVA II WE 16","numero":"S/N","bairro":"COQUEIRO","cidade":"Ananindeua","uf":"PA","cep":"67.130-440"},"telefone":"32730281","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.40813203764,"lon":-1.3684025750982}}
+{"index":{"_id":"102144"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H SAO GONCALO II","endereco":{"logradouro":"AVENIDA BISPO DOM JOAO DA MATA","numero":"S/N","bairro":"SAO GONCALO","cidade":"São Gonçalo","uf":"RJ","cep":"24722-525"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.05591,"lon":-22.8278}}
+{"index":{"_id":"102145"}}
+{"dataset":"upa_funcionamento","nome":"UPA II DR JOAO BATISTA DE ALMEIDA NETO","endereco":{"logradouro":"RUA CACHOEIRO DE ITAPEMIRIM","numero":"S/N","bairro":"IPIRANGA","cidade":"Guarapari","uf":"ES","cep":""},"telefone":"27-32616989 33627395","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.5057,"lon":-20.67684}}
+{"index":{"_id":"102146"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H REALENGO","endereco":{"logradouro":"RUA MARECHAL JOAQUIM INACIO","numero":"S/N","bairro":"REALENGO","cidade":"Rio de Janeiro","uf":"RJ","cep":"21735-320"},"telefone":"24019382","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.43149,"lon":-22.87418}}
+{"index":{"_id":"102147"}}
+{"dataset":"upa_funcionamento","nome":"UPA NILDA NOGUEIRA DO A ANDRADE GUANABARA","endereco":{"logradouro":"RUA JOVELINO GREGORIO DA SILVA","numero":"225","bairro":"GUANABARA","cidade":"Betim","uf":"MG","cep":"32667-005"},"telefone":"(31)35922930","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.14801,"lon":-19.97988}}
+{"index":{"_id":"102148"}}
+{"dataset":"upa_funcionamento","nome":"MATEUS LEME UPA 24 HORAS TIAGO CARDOSO SANTOS","endereco":{"logradouro":"RUA LEVINDO DA SILVA","numero":"15","bairro":"VALE VERDE","cidade":"Mateus Leme","uf":"MG","cep":"35.670-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.428,"lon":-19.990839623766}}
+{"index":{"_id":"102149"}}
+{"dataset":"upa_funcionamento","nome":"UPA JAGUARE","endereco":{"logradouro":"AVENIDA DANILO GALEAZZI","numero":"2450","bairro":"JARDIM JAGUARE","cidade":"São José do Rio Preto","uf":"SP","cep":"15051-000"},"telefone":"17-32151192","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.366404346466,"lon":-20.777223400136}}
+{"index":{"_id":"102150"}}
+{"dataset":"upa_funcionamento","nome":"UPA TARCISIO DE VASCONCELOS MAIA","endereco":{"logradouro":"RUA MARIAZINHA MENDES","numero":"S/N","bairro":"SAO MANOEL","cidade":"Mossoró","uf":"RN","cep":""},"telefone":"84 3315-4745","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.3376,"lon":-5.20973}}
+{"index":{"_id":"102151"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO JOAO LAVRAS","endereco":{"logradouro":"ESTRADA GUARULHOS NAZARE","numero":"4130","bairro":"CIDADE SOBERANA","cidade":"Guarulhos","uf":"SP","cep":"7172000"},"telefone":"1122292240","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.44682598877,"lon":-23.405039077548}}
+{"index":{"_id":"102152"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H ROCINHA AP 21","endereco":{"logradouro":"ESTRADA DA GAVEA","numero":"522","bairro":"ROCINHA","cidade":"Rio de Janeiro","uf":"RJ","cep":"22451-265"},"telefone":"33227039","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.2639,"lon":-22.99731}}
+{"index":{"_id":"102153"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS GUAJUVIRAS","endereco":{"logradouro":"AVENIDA BOQUEIRAO","numero":"2901","bairro":"ESTANCIA VELHA","cidade":"Canoas","uf":"RS","cep":""},"telefone":"51 21021129","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.184,"lon":-29.918}}
+{"index":{"_id":"102154"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H SENADOR CAMARA AP 51","endereco":{"logradouro":"AVENIDA SANTA CRUZ","numero":"6486","bairro":"SENADOR CAMARA","cidade":"Rio de Janeiro","uf":"RJ","cep":"21830-007"},"telefone":"21-38393226","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.483270481229,"lon":-22.882513558353}}
+{"index":{"_id":"102155"}}
+{"dataset":"upa_funcionamento","nome":"UPA BARAO DE MAUA","endereco":{"logradouro":"AV BARAO DE MAUA","numero":"3567","bairro":"JARDIM MARINGA","cidade":"Mauá","uf":"SP","cep":"09330-350"},"telefone":"(11)4546-2872","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.424639225005,"lon":-23.669410943984}}
+{"index":{"_id":"102156"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H COPACABANA","endereco":{"logradouro":"RUA SIQUEIRA CAMPOS","numero":"129","bairro":"COPACABANA","cidade":"Rio de Janeiro","uf":"RJ","cep":"22031-071"},"telefone":"30426945","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.34183,"lon":-22.93916}}
+{"index":{"_id":"102157"}}
+{"dataset":"upa_funcionamento","nome":"UPA BOQUEIRAO","endereco":{"logradouro":"RUA PROFA MARIA ASSUMPCAO","numero":"2590","bairro":"BOQUEIRAO","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"41- 3217-1201","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.24547,"lon":-25.49342}}
+{"index":{"_id":"102158"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR ALESSANDRO MARTINS DE SOUZA E SILVA VILA ALMEIDA","endereco":{"logradouro":"RUA MINISTRO JOSE LINHARES","numero":"1079","bairro":"VILA ALMEIDA","cidade":"Campo Grande","uf":"MS","cep":""},"telefone":"67-33147471/33147329","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.6553,"lon":-20.44372}}
+{"index":{"_id":"102159"}}
+{"dataset":"upa_funcionamento","nome":"UPA ZONA LESTE","endereco":{"logradouro":"AV MAMORE COM RIO DE JANEIRO","numero":"S/N","bairro":"TANCREDO NEVES","cidade":"Porto Velho","uf":"RO","cep":""},"telefone":"69 39013349","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-63.843939900398,"lon":-8.7631848898665}}
+{"index":{"_id":"102160"}}
+{"dataset":"upa_funcionamento","nome":"SABARA UPA III 24 HORAS PADRE LAZARO PEREIRA CRISPIM","endereco":{"logradouro":"RODOVIA MGT 262 KM 07","numero":"7000","bairro":"NACOES UNIDAS","cidade":"Sabará","uf":"MG","cep":"34505-010"},"telefone":"31 35081962","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.869405984879,"lon":-19.877163112098}}
+{"index":{"_id":"102161"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS SERRA","endereco":{"logradouro":"AVENIDA JONES DOS SANTOS NEVES","numero":"S/N","bairro":"CENTRO SERRA","cidade":"Serra","uf":"ES","cep":"29176-206"},"telefone":"(27) 3291- 8837","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.308001041412,"lon":-20.129031710385}}
+{"index":{"_id":"102162"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DR CHARLES ANTUNES BECHAR","endereco":{"logradouro":"AV CORRETOR DE IMOVEIS","numero":"S/N","bairro":"SAMAMBAIA","cidade":"Praia Grande","uf":"SP","cep":"11714-630"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.521273851395,"lon":-24.039002805903}}
+{"index":{"_id":"102163"}}
+{"dataset":"upa_funcionamento","nome":"UPA FRANCISCO CORREA DE CARVALHO","endereco":{"logradouro":"AVENIDA FARMACEUTICO JAIR SANTANA","numero":"113","bairro":"PADRE VITOR","cidade":"Varginha","uf":"MG","cep":"37048-360"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.43,"lon":-21.551}}
+{"index":{"_id":"102164"}}
+{"dataset":"upa_funcionamento","nome":"SESDEC RJ UPA 24H BOTAFOGO","endereco":{"logradouro":"SAO CLEMENTE","numero":"S/N","bairro":"BOTAFOGO","cidade":"Rio de Janeiro","uf":"RJ","cep":"22260-000"},"telefone":"21 22992577","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.19509,"lon":-22.95158}}
+{"index":{"_id":"102165"}}
+{"dataset":"upa_funcionamento","nome":"UPA PAULISTA","endereco":{"logradouro":"ESTRADA DO FRIO","numero":"10000","bairro":"AURORA","cidade":"Paulista","uf":"PE","cep":"53401-030"},"telefone":"(81) 31844253","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.89042,"lon":-7.91846}}
+{"index":{"_id":"102166"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO JOAO DEL REI","endereco":{"logradouro":"R MARECHAL CIRO ESPIRITO SANTO CARDOSO","numero":"173","bairro":"JARDIM CENTRAL","cidade":"São João del Rei","uf":"MG","cep":""},"telefone":"(32)3373-4111","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.26209,"lon":-21.1336}}
+{"index":{"_id":"102167"}}
+{"dataset":"upa_funcionamento","nome":"SESDEC RJ UPA 24H JACAREPAGUA","endereco":{"logradouro":"ANDRE ROCHA","numero":"20","bairro":"TAQUARA JACAREPAGU","cidade":"Rio de Janeiro","uf":"RJ","cep":"22730-522"},"telefone":"21 22992577","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.36905,"lon":-22.92353}}
+{"index":{"_id":"102168"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H CABUCU","endereco":{"logradouro":"AVENIDA ABILIO AUGUSTO TAVORA","numero":"1600","bairro":"CABUCU","cidade":"Nova Iguaçu","uf":"RJ","cep":"26291-200"},"telefone":"971833450","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.47169,"lon":-22.76021}}
+{"index":{"_id":"102169"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO RESSACA UPA","endereco":{"logradouro":"PRACA 21 DE ABRIL GUANABARA","numero":"S/N","bairro":"GUANABARA","cidade":"Contagem","uf":"MG","cep":"32145-000"},"telefone":"3357-6002","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.03045,"lon":-19.88522}}
+{"index":{"_id":"102170"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO BARREIRO","endereco":{"logradouro":"RUA AURELIO LOPES","numero":"20","bairro":"DIAMANTE","cidade":"Belo Horizonte","uf":"MG","cep":"30626-002"},"telefone":"(31)32775821","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.03565,"lon":-19.98497}}
+{"index":{"_id":"102171"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO BARRA","endereco":{"logradouro":"AVENIDA AMARAL PEIXOTO","numero":"S/N","bairro":"BARRA DE MACAE","cidade":"Macaé","uf":"RJ","cep":""},"telefone":"22 27623260","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.78033,"lon":-22.36942}}
+{"index":{"_id":"102172"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H DUQUE DE CAXIAS","endereco":{"logradouro":"RUA JOAQUIM PECANHA","numero":"1532","bairro":"PQ LAFAIETE","cidade":"Duque de Caxias","uf":"RJ","cep":"25025-095"},"telefone":"27827211","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.32451,"lon":-22.78614}}
+{"index":{"_id":"102173"}}
+{"dataset":"upa_funcionamento","nome":"UPA CENTRO UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA WASHINGTON LUIZ","numero":"600","bairro":"CENTRO","cidade":"Petrópolis","uf":"RJ","cep":"25655-006"},"telefone":"2243-6706","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.17804,"lon":-22.50474}}
+{"index":{"_id":"102174"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE APUCARANA PR","endereco":{"logradouro":"RUA CLOTARIO PORTUGAL","numero":"1755","bairro":"CENTRO","cidade":"Apucarana","uf":"PR","cep":""},"telefone":"4339011058","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.457214355469,"lon":-23.563987128451}}
+{"index":{"_id":"102175"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24 H DR B MITIDIERI","endereco":{"logradouro":"AV ANTONIO FERNANDES VIANA DE ASSIS","numero":"280","bairro":"CENTRO","cidade":"Boquim","uf":"SE","cep":"49360-000"},"telefone":"(79) 3645 -3285","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.61606,"lon":-11.14446}}
+{"index":{"_id":"102176"}}
+{"dataset":"upa_funcionamento","nome":"UPA TORROES","endereco":{"logradouro":"RUA MIRABELA","numero":"30","bairro":"TORROES","cidade":"Recife","uf":"PE","cep":"50720-635"},"telefone":"81 - 31844440","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.91405,"lon":-8.06259}}
+{"index":{"_id":"102177"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR JOSE POVOA MENDES","endereco":{"logradouro":"RUA AUGUSTA BASTOS","numero":"1900","bairro":"JARDIM GOIAS","cidade":"Rio Verde","uf":"GO","cep":""},"telefone":"6436202040","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.931930541992,"lon":-17.795112005178}}
+{"index":{"_id":"102178"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H MADUREIRA AP 33","endereco":{"logradouro":"PRACA DOS LAVRADORES","numero":"S/N","bairro":"MADUREIRA","cidade":"Rio de Janeiro","uf":"RJ","cep":"21310-190"},"telefone":"33582994","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.349255248904,"lon":-22.881680784915}}
+{"index":{"_id":"102179"}}
+{"dataset":"upa_funcionamento","nome":"UPA VILA ASSIS","endereco":{"logradouro":"AVENIDA DOM JOSE GASPAR","numero":"2129","bairro":"JARDIM ANCHIETA","cidade":"Mauá","uf":"SP","cep":""},"telefone":"(11)4512-7759","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.470580101013,"lon":-23.693655790973}}
+{"index":{"_id":"102180"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA PROFESSOR JOSINO BRETAS ESQ C R","numero":"0001","bairro":"CENTRO","cidade":"Caldas Novas","uf":"GO","cep":"75690-000"},"telefone":"(64) 3453-0022","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.625771254301,"lon":-17.744042431692}}
+{"index":{"_id":"102181"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H SANTA CRUZ","endereco":{"logradouro":"AVENIDA CESARIO DE MELO","numero":"13655","bairro":"SANTA CRUZ","cidade":"Rio de Janeiro","uf":"RJ","cep":"23590-060"},"telefone":"23337286","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.66196,"lon":-22.93348}}
+{"index":{"_id":"102182"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO SILVIA MANTOVANI","endereco":{"logradouro":"RUA CARAJAS","numero":"479","bairro":"JD TUPI","cidade":"Cambé","uf":"PR","cep":"87035-260"},"telefone":"3174-0552","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.278343322754,"lon":-23.27694613783}}
+{"index":{"_id":"102183"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO EM BARRA MANSA RJ UPA","endereco":{"logradouro":"RUA LUIZ PONCE","numero":"263","bairro":"CENTRO","cidade":"Barra Mansa","uf":"RJ","cep":"21063-400"},"telefone":"02433229298","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.16984,"lon":-22.54535}}
+{"index":{"_id":"102184"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR ANTONIO ALONSO MARTINEZ VILA XAVIER","endereco":{"logradouro":"RUA JOSE DO PATROCINIO","numero":"660","bairro":"VILA XAVIER","cidade":"Araraquara","uf":"SP","cep":"33051-500"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.15989,"lon":-21.78586}}
+{"index":{"_id":"102185"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE EUSEBIO","endereco":{"logradouro":"RUA IRMA AMBROSINA","numero":"395","bairro":"CENTRO","cidade":"Eusébio","uf":"CE","cep":""},"telefone":"32605303","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.449683487415,"lon":-3.8935575244003}}
+{"index":{"_id":"102186"}}
+{"dataset":"upa_funcionamento","nome":"UPA CABO DE SANTO AGOSTINHO","endereco":{"logradouro":"RUA 27","numero":"S/N","bairro":"COHAB","cidade":"Cabo de Santo Agostinho","uf":"PE","cep":""},"telefone":"81 31844543","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.03284,"lon":-8.28109}}
+{"index":{"_id":"102187"}}
+{"dataset":"upa_funcionamento","nome":"UPA SILVINA","endereco":{"logradouro":"AVENIDA DR JOSE FORNARI","numero":"509","bairro":"FERRAZOPOLIS","cidade":"São Bernardo do Campo","uf":"SP","cep":"09790-400"},"telefone":"11 43388536","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.548708262444,"lon":-23.727256421748}}
+{"index":{"_id":"102188"}}
+{"dataset":"upa_funcionamento","nome":"VESPASIANO UPA 24 HORAS PREFEITO LUIZ ISSA","endereco":{"logradouro":"AV PREFEITO SEBASTIAO FERNANDES","numero":"S/N","bairro":"CENTRO","cidade":"Vespasiano","uf":"MG","cep":"33.200-000"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.926,"lon":-19.68639}}
+{"index":{"_id":"102189"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE SAO SEBASTIAO","endereco":{"logradouro":"QD 102 CJ 1 LT 1","numero":"1","bairro":"RESIDENCIAL OESTE","cidade":"Brasília","uf":"DF","cep":"71.692-100"},"telefone":"6133396426","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.0735,"lon":-15.86048}}
+{"index":{"_id":"102190"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS ANGRA DOS REIS","endereco":{"logradouro":"RUA FRANCELINO ALVES DE LIMA","numero":"S/N","bairro":"JAPUIBA","cidade":"Angra dos Reis","uf":"RJ","cep":""},"telefone":"2433671667","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.29617,"lon":-22.98432}}
+{"index":{"_id":"102191"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA I SANTA ISABEL","endereco":{"logradouro":"RUA PRESIDENTE CASTELO BRANCO","numero":"320","bairro":"JAGUARI","cidade":"Santa Isabel","uf":"SP","cep":"07500-000"},"telefone":"1146568152","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.221,"lon":-23.316}}
+{"index":{"_id":"102192"}}
+{"dataset":"upa_funcionamento","nome":"UPA CASCATINHA PRONTO ATENDIMENTO 24H PETROPOLIS II","endereco":{"logradouro":"RUA BERNARDO PROENCA","numero":"500","bairro":"ITAMARATI","cidade":"Petrópolis","uf":"RJ","cep":"25710-082"},"telefone":"2246-8932","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.19359,"lon":-22.51924}}
+{"index":{"_id":"102193"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS DR OLAVO NARKEVITZ","endereco":{"logradouro":"AV 29","numero":"1313","bairro":"CIDADE JARDIM","cidade":"Rio Claro","uf":"SP","cep":"13501-130"},"telefone":"(19) 3524-9577","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.561,"lon":-22.411}}
+{"index":{"_id":"102194"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H CAMPO GRANDE II","endereco":{"logradouro":"AVENIDA CESARIO DE MELO","numero":"S/N","bairro":"CAMPO GRANDE","cidade":"Rio de Janeiro","uf":"RJ","cep":"23055-002"},"telefone":"23336802","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.53738,"lon":-22.89346}}
+{"index":{"_id":"102195"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H VILA KENNEDY AP 51","endereco":{"logradouro":"PRACA DOLOMITAS","numero":"S/N","bairro":"VILA KENNEDY","cidade":"Rio de Janeiro","uf":"RJ","cep":"21852-370"},"telefone":"21 2405 0303","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.20958,"lon":-22.90353}}
+{"index":{"_id":"102196"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE ARARUAMA","endereco":{"logradouro":"AV GETULIO VARGAS","numero":"S/N","bairro":"CENTRO","cidade":"Araruama","uf":"RJ","cep":""},"telefone":"26657300","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.3332,"lon":-22.86663}}
+{"index":{"_id":"102197"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DRA ANETE MARIA MOTA MARIA","endereco":{"logradouro":"AVENIDA ANDRE MAGGI","numero":"S/N","bairro":"JARDIM DAS ACACIAS","cidade":"Sinop","uf":"MT","cep":"78553-252"},"telefone":"66 3520 3400","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-55.510260164738,"lon":-11.823338619829}}
+{"index":{"_id":"102198"}}
+{"dataset":"upa_funcionamento","nome":"UPA ANTONIO JOSE DOS SANTOS","endereco":{"logradouro":"RUA PADRE JOSE LUIZ","numero":"440","bairro":"SAO MARCOS","cidade":"Nova Serrana","uf":"MG","cep":"35.519-000"},"telefone":"037-3226.6166","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.959624084473,"lon":-19.901827592886}}
+{"index":{"_id":"102199"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H COMPLEXO DO ALEMAO AP 31","endereco":{"logradouro":"ESTRADA DO ITARARE","numero":"221","bairro":"BONSUCESSO","cidade":"Rio de Janeiro","uf":"RJ","cep":"21061-600"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.26675,"lon":-22.86453}}
+{"index":{"_id":"102200"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"JOSE MUNHOZ","numero":"286","bairro":"JD CASTELO","cidade":"Sarandi","uf":"PR","cep":"87112610"},"telefone":"(44) 3126-8150","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.87697,"lon":-23.43665}}
+{"index":{"_id":"102201"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE PERUIBE UPA24H","endereco":{"logradouro":"AVENIDADE TEREZINHA RODRIGUES KALLIL","numero":"S/N","bairro":"PARQUE DAVILLE","cidade":"Peruíbe","uf":"SP","cep":"11750-000"},"telefone":"13 34541589","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.998,"lon":-24.32}}
+{"index":{"_id":"102202"}}
+{"dataset":"upa_funcionamento","nome":"UPA DAICO","endereco":{"logradouro":"RODOVIA AUGUSTO MONTENEGRO KM 11","numero":"0","bairro":"PARQUE GUAJARA","cidade":"Belém","uf":"PA","cep":"66821-000"},"telefone":"(091) 3247-8334","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.454647354126,"lon":-1.31610745182}}
+{"index":{"_id":"102203"}}
+{"dataset":"upa_funcionamento","nome":"UPA SITIO CERCADO","endereco":{"logradouro":"RUA LEVY BUQUERA","numero":"700","bairro":"SITIO CERCADO","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"041-3378-6405","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.26863,"lon":-25.52866}}
+{"index":{"_id":"102204"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS NOVA FRIBURGO","endereco":{"logradouro":"AVENIDA GOVERNADOR ROBERTO SILVEIRA","numero":"3456","bairro":"CONSELHEIRO PAULINO","cidade":"Nova Friburgo","uf":"RJ","cep":"28635-000"},"telefone":"25803662","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.53157,"lon":-22.2852}}
+{"index":{"_id":"102205"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24H","endereco":{"logradouro":"RUA ENEDINA DAVILA FERREIRA","numero":"S/N","bairro":"CORDEIROS","cidade":"Itajaí","uf":"SC","cep":"88310-690"},"telefone":"04732495500","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.67497,"lon":-26.90941}}
+{"index":{"_id":"102206"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24 H DR FRANCISCO ROLLEMBERG","endereco":{"logradouro":"PRACA ANTONIO PINTO DE REZENDE","numero":"226","bairro":"CENTRO","cidade":"Porto da Folha","uf":"SE","cep":"49000-800"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.278,"lon":-9.90948}}
+{"index":{"_id":"102207"}}
+{"dataset":"upa_funcionamento","nome":"UPA CODO","endereco":{"logradouro":"RUA SANTA RITA","numero":"S/N","bairro":"SANTA TEREZINHA","cidade":"Codó","uf":"MA","cep":"65400-000"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.87886,"lon":-4.45494}}
+{"index":{"_id":"102208"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H SARAPUI","endereco":{"logradouro":"RUA REPUBLICA DO PARAGUAI","numero":"S/N","bairro":"VILA SARAPUI","cidade":"Duque de Caxias","uf":"RJ","cep":"25050-100"},"telefone":"37775344","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.29879,"lon":-22.74952}}
+{"index":{"_id":"102209"}}
+{"dataset":"upa_funcionamento","nome":"UPA BARRA DE JANGADA","endereco":{"logradouro":"RUA CRUZ ALTA","numero":"S/N","bairro":"BARRA DE JANGADA","cidade":"Jaboatão dos Guararapes","uf":"PE","cep":""},"telefone":"81 31844494","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.93426,"lon":-8.2188}}
+{"index":{"_id":"102210"}}
+{"dataset":"upa_funcionamento","nome":"UPA DRA MARCIA MUCKY","endereco":{"logradouro":"AVENIDA FERNANDO DE NORONHA","numero":"99","bairro":"JARDIM SAO LUCAS","cidade":"Gurupi","uf":"TO","cep":""},"telefone":"(63)3315-0027","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.084875583649,"lon":-11.726621159897}}
+{"index":{"_id":"102211"}}
+{"dataset":"upa_funcionamento","nome":"UPA PAULICEIA TABOAO","endereco":{"logradouro":"RUA PEDRO DE TOLEDO","numero":"326","bairro":"PAULICEIA","cidade":"São Bernardo do Campo","uf":"SP","cep":""},"telefone":"4178-4309","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.583013715744,"lon":-23.670989121951}}
+{"index":{"_id":"102212"}}
+{"dataset":"upa_funcionamento","nome":"UPA RECANTO DAS EMAS","endereco":{"logradouro":"EQ 400 600 AREA ESPECIAL RECANTO DAS EMAS","numero":"01","bairro":"RECANTO DAS EMAS","cidade":"Brasília","uf":"DF","cep":"72630-250"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.93,"lon":-15.78}}
+{"index":{"_id":"102213"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO CONJUNTO CEARA","endereco":{"logradouro":"RUA 860","numero":"S/N","bairro":"CONJUNTO CEARA","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"3216 8316","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.543,"lon":-3.717}}
+{"index":{"_id":"102214"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 H SANTA MARIA RS","endereco":{"logradouro":"RUA ARY LAGRANHA DOMINGUES","numero":"188","bairro":"PERPETUO SOCORRO","cidade":"Santa Maria","uf":"RS","cep":"97045070"},"telefone":"5530261900","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.80643,"lon":-29.67172}}
+{"index":{"_id":"102215"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO OURINHOS","endereco":{"logradouro":"RUA CELESTINO LOPES BAHIA","numero":"545","bairro":"VILA SAO LUIZ","cidade":"Ourinhos","uf":"SP","cep":"19.911-205"},"telefone":"14 33262494","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.871,"lon":-22.979}}
+{"index":{"_id":"102216"}}
+{"dataset":"upa_funcionamento","nome":"UPA CAXANGA","endereco":{"logradouro":"AV CAXANGA","numero":"S/N","bairro":"VARZEA","cidade":"Recife","uf":"PE","cep":"50980-000"},"telefone":"81 31844355","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.96145,"lon":-8.02541}}
+{"index":{"_id":"102217"}}
+{"dataset":"upa_funcionamento","nome":"UPA BOA VISTA","endereco":{"logradouro":"AVN PARANA","numero":"3654","bairro":"BOA VISTA","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"041- 32511002","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.23285,"lon":-25.38533}}
+{"index":{"_id":"102218"}}
+{"dataset":"upa_funcionamento","nome":"UPA TIMON","endereco":{"logradouro":"RUA SAO SEBASTIAO","numero":"S/N","bairro":"SANTO ANTONIO","cidade":"Timon","uf":"MA","cep":"65630000"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.82399,"lon":-5.09944}}
+{"index":{"_id":"102219"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR WALFRIDO ARRUDA CORONEL ANTONINO","endereco":{"logradouro":"RUA DOUTOR MEIRELES","numero":"1239","bairro":"CORONEL ANTONINO","cidade":"Campo Grande","uf":"MS","cep":""},"telefone":"67-33144195/33144191","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.60354,"lon":-20.4322}}
+{"index":{"_id":"102220"}}
+{"dataset":"upa_funcionamento","nome":"UPA PERIMETRAL","endereco":{"logradouro":"RUA AGENOR DE CARMARGO","numero":"129","bairro":"CENTRO","cidade":"Santo André","uf":"SP","cep":"09020-000"},"telefone":"49947651","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.526166093826,"lon":-23.663130334026}}
+{"index":{"_id":"102221"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MACAIBA UPA","endereco":{"logradouro":"AVENIDA JUNDIAI","numero":"100","bairro":"ESTRADA DE JUNDIAI","cidade":"Macaíba","uf":"RN","cep":""},"telefone":"(84)3271-4204","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.347652435303,"lon":-5.863305139945}}
+{"index":{"_id":"102222"}}
+{"dataset":"upa_funcionamento","nome":"UPA ACRIZIO MENEZES","endereco":{"logradouro":"AVENIDA DENISE CRISTINA DA ROCHA","numero":"600","bairro":"CEREJEIRAS","cidade":"Ribeirão das Neves","uf":"MG","cep":""},"telefone":"3136273670","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.08702,"lon":-19.76593}}
+{"index":{"_id":"102223"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO SAO JOSE","endereco":{"logradouro":"RUA BERTOLDO FERNANDES DE CASTRO","numero":"S/N","bairro":"JD BANDEIRA 2","cidade":"Campinas","uf":"SP","cep":"13051-114"},"telefone":"(19)32676400","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.09625,"lon":-22.96068}}
+{"index":{"_id":"102224"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS AVENTUREIRO","endereco":{"logradouro":"RUA MAFALDA LAURINDO","numero":"0","bairro":"AVENTUREIRO","cidade":"Joinville","uf":"SC","cep":"89226-205"},"telefone":"4734354221","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.81985,"lon":-26.24315}}
+{"index":{"_id":"102225"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR FABIO AUGUSTO CARMO ZACURA SCRPARDO","endereco":{"logradouro":"R GASTAO VIDIGAL ESQ C FRANCISCO DE ABREU SODRE","numero":"S/N","bairro":"ESTACAO","cidade":"Santa Cruz do Rio Pardo","uf":"SP","cep":"18900-000"},"telefone":"(014)3332-2790","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.633,"lon":-22.899}}
+{"index":{"_id":"102226"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UNIDADE XVI UPA XVI","endereco":{"logradouro":"JOAQUIM CAMARGO","numero":"47","bairro":"CENTRO","cidade":"Contagem","uf":"MG","cep":"32041-440"},"telefone":"33987036","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.08074,"lon":-19.91056}}
+{"index":{"_id":"102227"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO CANINDEZINHO","endereco":{"logradouro":"RUA 15","numero":"S/N","bairro":"PLANALTO VITORIO","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"85 32168316","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.50838,"lon":-3.80735}}
+{"index":{"_id":"102228"}}
+{"dataset":"upa_funcionamento","nome":"UPA CIDADE OPERARIA","endereco":{"logradouro":"AV PRICIPAL AV OESTE","numero":"S/N","bairro":"CIDADE OPERARIA","cidade":"São Luís","uf":"MA","cep":""},"telefone":"(098)32474558","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.303,"lon":-2.53}}
+{"index":{"_id":"102229"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H PROF ADROALDO ALBERGARIA","endereco":{"logradouro":"RUA DAS PEDRINHAS","numero":"S/N","bairro":"PERIPERI","cidade":"Salvador","uf":"BA","cep":"41200-020"},"telefone":"3611-5721/5719/5718","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.46792,"lon":-12.86939}}
+{"index":{"_id":"102230"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24 HORAS","endereco":{"logradouro":"RENATO NUNES RIBAS","numero":"731","bairro":"CENTRO","cidade":"Pinhais","uf":"PR","cep":"83323-390"},"telefone":"(41)3059-9292","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.192098777771,"lon":-25.434516999153}}
+{"index":{"_id":"102231"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HS RESENDE","endereco":{"logradouro":"AVENIDA ADAUTO EMILIANO SOARES","numero":"S/N","bairro":"COMERCIAL NOVA RESEN","cidade":"Resende","uf":"RJ","cep":"27.521-750"},"telefone":"(24) 3354-5075","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.45747,"lon":-22.46966}}
+{"index":{"_id":"102232"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO OCEANIA","endereco":{"logradouro":"AV GOV FLAVIO RIBEIRO COUTINHO","numero":"70","bairro":"AEROCLUBE","cidade":"João Pessoa","uf":"PB","cep":""},"telefone":"3218-9896","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.83943,"lon":-7.09752}}
+{"index":{"_id":"102233"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"PITIMBU","numero":"S/N","bairro":"TIBIRI I","cidade":"Santa Rita","uf":"PB","cep":""},"telefone":"83 32187355","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.96524,"lon":-7.15296}}
+{"index":{"_id":"102234"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24 H PACIENCIA AP 53","endereco":{"logradouro":"ESTRADA SANTA EUGENIA","numero":"S/N","bairro":"PACIENCIA","cidade":"Rio de Janeiro","uf":"RJ","cep":"23.585-430"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.34236,"lon":-22.93932}}
+{"index":{"_id":"102235"}}
+{"dataset":"upa_funcionamento","nome":"UPA IGARASSU","endereco":{"logradouro":"RODOVIA BR 101 NORTE KM 47","numero":"S/N","bairro":"CENTRO","cidade":"Igarassu","uf":"PE","cep":"53600-000"},"telefone":"(81) 31844278/4280","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.90635,"lon":-7.83437}}
+{"index":{"_id":"102236"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS","endereco":{"logradouro":"AVENIDA GETULIO VARGAS","numero":"1284","bairro":"CENTRO","cidade":"Teófilo Otoni","uf":"MG","cep":"39803-013"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.51409,"lon":-17.85211}}
+{"index":{"_id":"102237"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE GUARABIRA","endereco":{"logradouro":"PB 57","numero":"S/N","bairro":"CONJUNTO PRO MORADIA","cidade":"Guarabira","uf":"PB","cep":""},"telefone":"83 32187355","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.49,"lon":-6.855}}
+{"index":{"_id":"102238"}}
+{"dataset":"upa_funcionamento","nome":"UPA JARDIM BOA ESPERANCA JORGE DE JESUS ALMEIDA GUARUJA","endereco":{"logradouro":"RUA MARIO DAIGE","numero":"S/N","bairro":"JD BOA ESPERANCA","cidade":"Guarujá","uf":"SP","cep":"11471020"},"telefone":"33551935","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.277165651409,"lon":-23.962092828172}}
+{"index":{"_id":"102239"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H CAMPOS DOS GOYTACAZES","endereco":{"logradouro":"SOUZA MOTA","numero":"200","bairro":"PARQUE VERA CRUZ","cidade":"Campos dos Goytacazes","uf":"RJ","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.30985,"lon":-21.70481}}
+{"index":{"_id":"102240"}}
+{"dataset":"upa_funcionamento","nome":"UPA CIDADE INDUSTRIAL","endereco":{"logradouro":"RUA SENADOR ACCIOLY FILHO","numero":"3370","bairro":"CIC","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"041-33145058","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.3402,"lon":-25.49764}}
+{"index":{"_id":"102241"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24 HORAS","endereco":{"logradouro":"AVENIDA GERSON DE OLIVEIRA","numero":"S/N","bairro":"NOVA ITAPETINGA","cidade":"Itapetinga","uf":"BA","cep":"45700-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.248,"lon":-15.249}}
+{"index":{"_id":"102242"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H BOM PASTOR BELFORD ROXO","endereco":{"logradouro":"ESTR DE BELFORD ROXO","numero":"0","bairro":"BOM PASTOR","cidade":"Belford Roxo","uf":"RJ","cep":"26110-260"},"telefone":"20709119","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.36849,"lon":-22.75852}}
+{"index":{"_id":"102243"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HS","endereco":{"logradouro":"AV ZOELLO SOLA","numero":"2100","bairro":"TRIANGULO","cidade":"Três Rios","uf":"RJ","cep":"25820-185"},"telefone":"024 22551998","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.20953,"lon":-22.11827}}
+{"index":{"_id":"102244"}}
+{"dataset":"upa_funcionamento","nome":"UPA VILA CRISTINA FREI SIGRIST PIRACICABA","endereco":{"logradouro":"AVENIDA RAPOSO TAVARES","numero":"1737","bairro":"VILA CRISTINA","cidade":"Piracicaba","uf":"SP","cep":""},"telefone":"(19) 3434-2296","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.66133,"lon":-22.74587}}
+{"index":{"_id":"102245"}}
+{"dataset":"upa_funcionamento","nome":"UPA ZONA SUL","endereco":{"logradouro":"RUA URTIGA VERMELHA COM JATUARANA","numero":"S/N","bairro":"COHAB FLORESTA","cidade":"Porto Velho","uf":"RO","cep":""},"telefone":"69 3901 3335","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-63.877950310707,"lon":-8.7876174146671}}
+{"index":{"_id":"102246"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO PRAIA DO FUTURO","endereco":{"logradouro":"AV SENADOR CARLOS JEREISSATI","numero":"S/N","bairro":"PRAIA DO FUTURO","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"85 32168316","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.52014,"lon":-3.73498}}
+{"index":{"_id":"102247"}}
+{"dataset":"upa_funcionamento","nome":"UPA PARQUE VITORIA","endereco":{"logradouro":"AVENIDA JOSE SANTANA QUADRA 38","numero":"20","bairro":"TURU","cidade":"São José de Ribamar","uf":"MA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.30682,"lon":-2.53073}}
+{"index":{"_id":"102248"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA DE MOGI GUACU","endereco":{"logradouro":"RUA ORLANDA PEREIRA BUENO","numero":"S/N","bairro":"JARDIM SANTA MARTA","cidade":"Mogi Guaçu","uf":"SP","cep":""},"telefone":"1938185556","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.952412128448,"lon":-22.335587675424}}
+{"index":{"_id":"102249"}}
+{"dataset":"upa_funcionamento","nome":"UPA BELA VISTA","endereco":{"logradouro":"RUA MARCAL DE ARRUDA CAMPOS","numero":"4","bairro":"VILA LEMOS","cidade":"Bauru","uf":"SP","cep":"17063-060"},"telefone":"3102-1213","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.08925,"lon":-22.3087}}
+{"index":{"_id":"102250"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24 H ENGENHO DE DENTRO AP 32","endereco":{"logradouro":"RUA BERNARDO","numero":"S/N","bairro":"ENGENHO DE DENTRO","cidade":"Rio de Janeiro","uf":"RJ","cep":"20730-460"},"telefone":"25920-502","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.300374671817,"lon":-22.90297668041}}
+{"index":{"_id":"102251"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA NORTE DA ILHA","endereco":{"logradouro":"ROD FRANCISCO FAUSTINO MARTINS","numero":"0","bairro":"CANASVIEIRAS","cidade":"Florianópolis","uf":"SC","cep":"88052-800"},"telefone":"(48) 32610623","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.38723,"lon":-27.44014}}
+{"index":{"_id":"102252"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR DARCY COSTA","endereco":{"logradouro":"AVENIDA JUSCELINO KUBITSCHEK OLIVEIRA","numero":"515","bairro":"VILA DO PRINCIPE","cidade":"Lapa","uf":"PR","cep":""},"telefone":"4135475077","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.727866092682,"lon":-25.767333308789}}
+{"index":{"_id":"102253"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS CANUDOS NH IRMAO ANTONIO BORTOLINI","endereco":{"logradouro":"RUA BARTOLOMEU DE GUSMAO","numero":"12","bairro":"CANUDOS","cidade":"Novo Hamburgo","uf":"RS","cep":""},"telefone":"51 30971317","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.13254,"lon":-29.68951}}
+{"index":{"_id":"102254"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE POMBAL","endereco":{"logradouro":"RUA JAIRO VIEIRA FEITOSA","numero":"S/N","bairro":"PEREIROS","cidade":"Pombal","uf":"PB","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.79572,"lon":-6.76885}}
+{"index":{"_id":"102255"}}
+{"dataset":"upa_funcionamento","nome":"UPA NORTE","endereco":{"logradouro":"AVENIDA PRESIDENTE JUSCELINO KUBITSCHEK","numero":"6145","bairro":"NOVA ERA","cidade":"Juiz de Fora","uf":"MG","cep":"36090-000"},"telefone":"(32)3222-0430","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.34941,"lon":-21.76277}}
+{"index":{"_id":"102256"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO LEONARDO WESSHEIMER","endereco":{"logradouro":"RUA OIAPOC","numero":"1","bairro":"AGOSTINI","cidade":"São Miguel do Oeste","uf":"SC","cep":"89900-000"},"telefone":"(49) 3621-2991","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.539627790451,"lon":-26.724511074951}}
+{"index":{"_id":"102257"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HS UNIDADE DE PRONTO ATENDIMENTO DR MARIO NUNES MIRAN","endereco":{"logradouro":"RUA DR ORLANDO THIAGO DOS SANTOS","numero":"120","bairro":"WILLIANS","cidade":"Garça","uf":"SP","cep":"17400-000"},"telefone":"14-3406.4564","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.656,"lon":-22.211}}
+{"index":{"_id":"102258"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"VIA 26 A","numero":"S/N","bairro":"SETOR SUL","cidade":"Formosa","uf":"GO","cep":""},"telefone":"61 3631-7681","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.33929,"lon":-15.54311}}
+{"index":{"_id":"102259"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO PEDRO","endereco":{"logradouro":"RUA MAJOR LINO LIMA","numero":"129","bairro":"SAO PEDRO","cidade":"Juiz de Fora","uf":"MG","cep":"36070-060"},"telefone":"(32)3250-1402","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.38468,"lon":-21.77431}}
+{"index":{"_id":"102260"}}
+{"dataset":"upa_funcionamento","nome":"UPA ANATOLIO DIAS CARNEIRO ARAGUAINA","endereco":{"logradouro":"RUA DOS PINHEIROS","numero":"S/N","bairro":"ARAGUAINA SUL","cidade":"Araguaína","uf":"TO","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.185758888721,"lon":-7.1926886339806}}
+{"index":{"_id":"102261"}}
+{"dataset":"upa_funcionamento","nome":"UPA APARECIDA GONCALVES SARAIVA UNIVERSITARIO","endereco":{"logradouro":"AVENIDA GUAICURUS","numero":"3757","bairro":"UNIVERSITARIO","cidade":"Campo Grande","uf":"MS","cep":""},"telefone":"67-33045602/33045601","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.59871,"lon":-20.51967}}
+{"index":{"_id":"102262"}}
+{"dataset":"upa_funcionamento","nome":"UPA BRASICON","endereco":{"logradouro":"RUA DAS ACASIA","numero":"S/N","bairro":"RESIDENCIAL BRASICON","cidade":"Aparecida de Goiânia","uf":"GO","cep":"74975-385"},"telefone":"3545 9953","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.24249,"lon":-16.82468}}
+{"index":{"_id":"102263"}}
+{"dataset":"upa_funcionamento","nome":"UPA SETE DE SETEMBRO","endereco":{"logradouro":"AVENIDA BANDEIRANTES","numero":"441","bairro":"CHACARA","cidade":"Betim","uf":"MG","cep":"32670-505"},"telefone":"(31)3531.3930","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.18887,"lon":-19.96376}}
+{"index":{"_id":"102264"}}
+{"dataset":"upa_funcionamento","nome":"SMS COORD DE EMERGENCIA REGIONAL CER BARRA AP 40","endereco":{"logradouro":"AVENIDA AYRTON SENNA","numero":"2000","bairro":"BARRA DA TIJUCA","cidade":"Rio de Janeiro","uf":"RJ","cep":"22775-002"},"telefone":"35507060","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.365314304829,"lon":-22.994761930028}}
+{"index":{"_id":"102265"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"RUA DOS TRES PODERES","numero":"01","bairro":"OURO NEGRO","cidade":"Candeias","uf":"BA","cep":"43815-360"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.5509,"lon":-12.668}}
+{"index":{"_id":"102266"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE JUINA DR SANTOS","endereco":{"logradouro":"RUA DAS ANDORINHAS","numero":"S/N","bairro":"MODULO 04","cidade":"Juína","uf":"MT","cep":"78320-000"},"telefone":"66-3566-2009","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-58.741,"lon":-11.378}}
+{"index":{"_id":"102267"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS SANTA MARIA DA VITORIA","endereco":{"logradouro":"RUA JEREMIAS RODRIGUES DA SILVA","numero":"S/N","bairro":"AABB","cidade":"Santa Maria da Vitória","uf":"BA","cep":"47640-000"},"telefone":"77 3483 4884","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.19038,"lon":-13.37309}}
+{"index":{"_id":"102268"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO SUL","endereco":{"logradouro":"RUA PERIMENTRAL 2","numero":"04","bairro":"AURENY II","cidade":"Palmas","uf":"TO","cep":""},"telefone":"(63)32185569","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.33171,"lon":-10.16889}}
+{"index":{"_id":"102269"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H ENGENHO NOVO AP 32","endereco":{"logradouro":"RUA SOUZA BARROS","numero":"70","bairro":"ENGENHO NOVO","cidade":"Rio de Janeiro","uf":"RJ","cep":"20961-150"},"telefone":"2332-2349","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.26387,"lon":-22.89956}}
+{"index":{"_id":"102270"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO SARA AKEMI ICHICAVA","endereco":{"logradouro":"AVENIDA PORTO ALEGRE","numero":"S/N","bairro":"CENTRO","cidade":"Sorriso","uf":"MT","cep":"78890-000"},"telefone":"66 35445989","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-55.7278,"lon":-12.54657}}
+{"index":{"_id":"102271"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE CAETITE","endereco":{"logradouro":"RODOVIA CAETITE GUANAMBI","numero":"S/N","bairro":"RANCHO ALEGRE","cidade":"Caetité","uf":"BA","cep":"46400-000"},"telefone":"(77)34548061","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.50154,"lon":-14.06207}}
+{"index":{"_id":"102272"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA II","endereco":{"logradouro":"AV AMARAL PEIXOTO KM 136","numero":"136","bairro":"SAMBURA","cidade":"Cabo Frio","uf":"RJ","cep":"28927-000"},"telefone":"22 26461736","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.01312,"lon":-22.87722}}
+{"index":{"_id":"102273"}}
+{"dataset":"upa_funcionamento","nome":"UPA CAJURU","endereco":{"logradouro":"RUA ENGENHEIRO BENEDITO MARIO DA SILVA","numero":"S/N","bairro":"CAJURU","cidade":"Curitiba","uf":"PR","cep":""},"telefone":"041-32674319","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.20422,"lon":-25.46917}}
+{"index":{"_id":"102274"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H BANGU","endereco":{"logradouro":"RUA FIGUEIREDO CAMARGO","numero":"S/N","bairro":"BANGU","cidade":"Rio de Janeiro","uf":"RJ","cep":"21870-210"},"telefone":"24195816","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.45795,"lon":-22.87133}}
+{"index":{"_id":"102275"}}
+{"dataset":"upa_funcionamento","nome":"SMS UPA 24H MANGUINHOS AP 31","endereco":{"logradouro":"AV DOM HELDER CAMARA","numero":"1390","bairro":"BENFICA","cidade":"Rio de Janeiro","uf":"RJ","cep":"20973-011"},"telefone":"2332-2405","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.25177,"lon":-22.88575}}
+{"index":{"_id":"102276"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS DO 2 DISTRITO","endereco":{"logradouro":"RODOVIA BR 364 KM 125","numero":"0020","bairro":"LOTEAMENTO SANTA HEL","cidade":"Rio Branco","uf":"AC","cep":"69900-977"},"telefone":"(68) 3221 6775","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-67.81928,"lon":-9.96641}}
+{"index":{"_id":"102277"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO ZULMIRA SOARES","endereco":{"logradouro":"RUA ALTO DO GADO MANSO","numero":"S/N","bairro":"LIDIA SOUZA CRUZ","cidade":"Poço Redondo","uf":"SE","cep":""},"telefone":"07933371415","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.69028,"lon":-9.79847}}
+{"index":{"_id":"102278"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H QUEIMADOS","endereco":{"logradouro":"RUA MARIO FERREIRA DOS REIS","numero":"S/N","bairro":"NOSSA SENHORA DA GLO","cidade":"Queimados","uf":"RJ","cep":"26311-020"},"telefone":"26659493","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.56864,"lon":-22.7131}}
+{"index":{"_id":"102279"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR GERALDO C P REIS","endereco":{"logradouro":"GABRIEL JOSE DO VALE","numero":"235","bairro":"JD ROMULO MONTANARI","cidade":"Serrana","uf":"SP","cep":"14150-000"},"telefone":"(16) 3987-1513","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.602643966675,"lon":-21.208098872715}}
+{"index":{"_id":"102280"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H MARE AP 31","endereco":{"logradouro":"AV BRASIL","numero":"4880","bairro":"MANGUINHOS","cidade":"Rio de Janeiro","uf":"RJ","cep":"21040-361"},"telefone":"2334-7830 2334-7832","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.24091,"lon":-22.87776}}
+{"index":{"_id":"102281"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H IRAJA AP 33","endereco":{"logradouro":"AV MONSENHOR FELIX","numero":"380","bairro":"IRAJA","cidade":"Rio de Janeiro","uf":"RJ","cep":"21361-132"},"telefone":"23339822","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.32547,"lon":-22.8493}}
+{"index":{"_id":"102282"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS PRADO","endereco":{"logradouro":"RODOVIA PRADO ITAMARAJU QUADRA 17 LOTE 7 A 12","numero":"S/N","bairro":"PORTAL DO PRADO","cidade":"Prado","uf":"BA","cep":"45980-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.221,"lon":-17.341}}
+{"index":{"_id":"102283"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24 HORAS FREI CALIXTO","endereco":{"logradouro":"RUA DA MATA","numero":"S/N","bairro":"MERCADO DO POVO","cidade":"Porto Seguro","uf":"BA","cep":"45810-000"},"telefone":"(73) 3268-2032","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.07032251358,"lon":-16.426576601258}}
+{"index":{"_id":"102284"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOAQUINA PIRES BARBOSA HENRIQUE","endereco":{"logradouro":"LOTEAMENTO RESIDENCE ALTIPLANO","numero":"S/N","bairro":"CENTRO","cidade":"Monteiro","uf":"PB","cep":""},"telefone":"83 88298453","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.110416293144,"lon":-7.8977405553748}}
+{"index":{"_id":"102285"}}
+{"dataset":"upa_funcionamento","nome":"UPA SANTO ANTONIO","endereco":{"logradouro":"AL 101","numero":"S/N","bairro":"AL NORTE","cidade":"Maragogi","uf":"AL","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.223014831543,"lon":-9.015456199646}}
+{"index":{"_id":"102286"}}
+{"dataset":"upa_funcionamento","nome":"UPA CAMPO LIMPO","endereco":{"logradouro":"THEREZA MOUCO DE OLIVEIRA","numero":"121","bairro":"VILA MARACANA","cidade":"São Paulo","uf":"SP","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.63503,"lon":-23.54198}}
+{"index":{"_id":"102287"}}
+{"dataset":"upa_funcionamento","nome":"UPA AFONSO PENA","endereco":{"logradouro":"RUA FRANCISCA DE SOUZA CORTES","numero":"460","bairro":"AFONSO PENA","cidade":"São José dos Pinhais","uf":"PR","cep":""},"telefone":"41 3385 - 3502","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.169886737824,"lon":-25.497955288501}}
+{"index":{"_id":"102288"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO CENTRAL DE CARAGUATATUBA","endereco":{"logradouro":"AVENIDA MARANHAO","numero":"451","bairro":"JARDIM PRIMAVERA","cidade":"Caraguatatuba","uf":"SP","cep":"11660690"},"telefone":"12 38972100","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.41937,"lon":-23.62599}}
+{"index":{"_id":"102289"}}
+{"dataset":"upa_funcionamento","nome":"UPA CENTRAL EMILIO PIRES MAGALHAES","endereco":{"logradouro":"PRC IV CENTENARIO","numero":"08","bairro":"VILA BASTOS","cidade":"Santo André","uf":"SP","cep":""},"telefone":"44366844","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.53466,"lon":-23.65716}}
+{"index":{"_id":"102290"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE ITINGA","endereco":{"logradouro":"AVENIDA SAO CRISTOVAO","numero":"S/N","bairro":"ITINGA","cidade":"Lauro de Freitas","uf":"BA","cep":"42700000"},"telefone":"32518110/8112","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.353119351387,"lon":-12.889508118207}}
+{"index":{"_id":"102291"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO REMI A MASCARELLO","endereco":{"logradouro":"RUA SANTOS DUMONT","numero":"1400","bairro":"SAO VICENTE","cidade":"Herval d'Oeste","uf":"SC","cep":""},"telefone":"04935227432","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.50123745203,"lon":-27.181775700871}}
+{"index":{"_id":"102292"}}
+{"dataset":"upa_funcionamento","nome":"UPA II UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"PROLONGAMENTO AVENIDA MARIPA","numero":"7964","bairro":"VILA BECKER","cidade":"Toledo","uf":"PR","cep":""},"telefone":"3378-2388","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.7106523,"lon":-24.7431559}}
+{"index":{"_id":"102293"}}
+{"dataset":"upa_funcionamento","nome":"UPA ZAIRA","endereco":{"logradouro":"AVENIDA WASHINGTON LUIZ","numero":"1952","bairro":"JARDIM ZAIRA","cidade":"Mauá","uf":"SP","cep":"09390-140"},"telefone":"(11)4519-4533","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.43611907959,"lon":-23.650814072805}}
+{"index":{"_id":"102294"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO PALMEIRA DOS INDIOS","endereco":{"logradouro":"RUA BRAULIO MONTINEGRO","numero":"S/N","bairro":"VILA MARIA","cidade":"Palmeira dos Índios","uf":"AL","cep":""},"telefone":"82 34292037","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-36.62328,"lon":-9.40441}}
+{"index":{"_id":"102295"}}
+{"dataset":"upa_funcionamento","nome":"","endereco":{"logradouro":"","numero":"","bairro":"","cidade":"Lagoa da Prata","uf":"MG","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.54619,"lon":-20.02217}}
+{"index":{"_id":"102296"}}
+{"dataset":"upa_funcionamento","nome":"UPA ATALAIA DRA RITA DE CASSIA SORIO","endereco":{"logradouro":"ESTRADA DO MORRO GRANDE","numero":"623","bairro":"ATALAIA","cidade":"Cotia","uf":"SP","cep":""},"telefone":"1146164055","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.922607421875,"lon":-23.606778606524}}
+{"index":{"_id":"102297"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO CRISTO REDENTOR","endereco":{"logradouro":"AV PRESIDENTE CASTELO BRANCO","numero":"S/N","bairro":"JACARECANGA","cidade":"Fortaleza","uf":"CE","cep":"60055-000"},"telefone":"31952768","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.53926,"lon":-3.71701}}
+{"index":{"_id":"102298"}}
+{"dataset":"upa_funcionamento","nome":"UPA MARICA 24H","endereco":{"logradouro":"RUA EUCLIDES DE PAULO DA SILVA","numero":"S/N","bairro":"INOA","cidade":"Maricá","uf":"RJ","cep":"24943-195"},"telefone":"21-26367228","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.819,"lon":-22.919}}
+{"index":{"_id":"102299"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H DR HELIO MACHADO","endereco":{"logradouro":"RUA DA CACIMBA","numero":"97","bairro":"ITAPUA","cidade":"Salvador","uf":"BA","cep":"41610-640"},"telefone":"(71) 3611-7118","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.36644,"lon":-12.94725}}
+{"index":{"_id":"102300"}}
+{"dataset":"upa_funcionamento","nome":"SECRETARIA MUNICIPAL DE SAUDE","endereco":{"logradouro":"RUA ADAMASTOR ANTONIO DA SILVA","numero":"S/N","bairro":"MUQUICABA","cidade":"Guarapari","uf":"ES","cep":""},"telefone":"(27)3361 4970","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.49939,"lon":-20.67564}}
+{"index":{"_id":"102301"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"AVENIDA PRESIDENTE GETULIO VARGAS","numero":"S/N","bairro":"JARDIM LIBERDADE","cidade":"Teixeira de Freitas","uf":"BA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.744518280029,"lon":-17.537750244141}}
+{"index":{"_id":"102302"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H ZAID ABRAO GERAIGE","endereco":{"logradouro":"AVENIDA CONSELHEIRO ANTONIO PRADO","numero":"1355","bairro":"IBIRAPUERA","cidade":"Barretos","uf":"SP","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.57324,"lon":-20.55501}}
+{"index":{"_id":"102303"}}
+{"dataset":"upa_funcionamento","nome":"UPA III DR ALAIR MAFRA ANAPOLIS GOIAS","endereco":{"logradouro":"RUA 29 DE DEZEMBRO","numero":"S/N","bairro":"VILA ESPERANCA","cidade":"Anápolis","uf":"GO","cep":""},"telefone":"62 39022165","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.95169,"lon":-16.32277}}
+{"index":{"_id":"102304"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE IBITINGA","endereco":{"logradouro":"AVENIDA DOM PEDRO II","numero":"1779","bairro":"SAO JOAO","cidade":"Ibitinga","uf":"SP","cep":""},"telefone":"33418359","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.825700432062,"lon":-21.745798046048}}
+{"index":{"_id":"102305"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE LAJEADO UPA 24H","endereco":{"logradouro":"ROD ERS 413","numero":"3480","bairro":"MOINHOS DAGUA","cidade":"Lajeado","uf":"RS","cep":""},"telefone":"(51) 3982-1473","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.005071640015,"lon":-29.461122634021}}
+{"index":{"_id":"102306"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAO JOSE","endereco":{"logradouro":"AV DE CILLO","numero":"2310","bairro":"JD SAO JOSE","cidade":"Americana","uf":"SP","cep":""},"telefone":"19 34612517","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.341476708412,"lon":-22.763314650315}}
+{"index":{"_id":"102307"}}
+{"dataset":"upa_funcionamento","nome":"SECRETARIA MUNICIPAL DE SAUDE PALHOCA","endereco":{"logradouro":"AV ILZE TEREZINHA PAGANI","numero":"289","bairro":"PAGANI","cidade":"Palhoça","uf":"SC","cep":""},"telefone":"48 30475564","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.668,"lon":-27.645}}
+{"index":{"_id":"102308"}}
+{"dataset":"upa_funcionamento","nome":"UPA DA MANGABEIRA JAIRO DE JESUS SANTOS","endereco":{"logradouro":"LOTEAMENTO JARDIM DOS NAMORADOS","numero":"12","bairro":"MANGABEIRA","cidade":"Feira de Santana","uf":"BA","cep":""},"telefone":"7536038532","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.96667,"lon":-12.26667}}
+{"index":{"_id":"102309"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO CELIO PIRES DE SA","endereco":{"logradouro":"RUA ESTEVAM LOPES GALVAO","numero":"1","bairro":"VALENTINA","cidade":"João Pessoa","uf":"PB","cep":""},"telefone":"3237-7880","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-34.846204007149,"lon":-7.1986077601744}}
+{"index":{"_id":"102310"}}
+{"dataset":"upa_funcionamento","nome":"UPA PORTE II","endereco":{"logradouro":"AV ESAU ALVES","numero":"S/N","bairro":"FAZENDINHA","cidade":"Itapipoca","uf":"CE","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.571208953857,"lon":-3.5069101510333}}
+{"index":{"_id":"102311"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24 HORAS","endereco":{"logradouro":"AV GESSY LEVER","numero":"550","bairro":"LENHEIRO","cidade":"Valinhos","uf":"SP","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.980972290039,"lon":-22.950568933901}}
+{"index":{"_id":"102312"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS TIMBAUBA PE","endereco":{"logradouro":"BR 408 KM 29","numero":"S/N","bairro":"ARARUNA","cidade":"Timbaúba","uf":"PE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.31768,"lon":-7.50322}}
+{"index":{"_id":"102313"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA LIMOEIRO","endereco":{"logradouro":"CAPITAO DOMINGOS","numero":"S/N","bairro":"LIMOEIRO","cidade":"Juazeiro do Norte","uf":"CE","cep":""},"telefone":"8835124696","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.30932,"lon":-7.20796}}
+{"index":{"_id":"102314"}}
+{"dataset":"upa_funcionamento","nome":"UPA VENEZA","endereco":{"logradouro":"RUA CAFE FILHO","numero":"1460","bairro":"JARDIM VENEZA","cidade":"Cascavel","uf":"PR","cep":""},"telefone":"(45) 3392-6200","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.48721,"lon":-24.9701}}
+{"index":{"_id":"102315"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24H MAGE","endereco":{"logradouro":"RUA A","numero":"S/N","bairro":"PIABETA","cidade":"Magé","uf":"RJ","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.03774,"lon":-22.65169}}
+{"index":{"_id":"102316"}}
+{"dataset":"upa_funcionamento","nome":"ITABIRITO UPA CELSO MATOS SILVA","endereco":{"logradouro":"RODOVIA DOS INCONFIDENTES KM 55 BR 356","numero":"S/N","bairro":"SANTA EFIGENIA","cidade":"Itabirito","uf":"MG","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.781979382038,"lon":-20.264119510206}}
+{"index":{"_id":"102317"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H MUNICIPAL DE COMENDADOR SOARES","endereco":{"logradouro":"RUA DOS QUARTEIS","numero":"221","bairro":"COMENDADOR SOARES","cidade":"Nova Iguaçu","uf":"RJ","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.495908379555,"lon":-22.744003182905}}
+{"index":{"_id":"102318"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS GLEBA A GRAVATA","endereco":{"logradouro":"AVENIDA DO CANAL","numero":"S/N","bairro":"GLEBA A","cidade":"Camaçari","uf":"BA","cep":"42800-100"},"telefone":"71 30408304","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.333784698486,"lon":-12.68832883249}}
+{"index":{"_id":"102319"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24HS ARACOIABA","endereco":{"logradouro":"AV DA INDEPENDENCIA","numero":"S/N","bairro":"CENTRO","cidade":"Aracoiaba","uf":"CE","cep":"62750-000"},"telefone":"85 33375517","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.805247843266,"lon":-4.3685932113859}}
+{"index":{"_id":"102320"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA REGIAO NORTE","endereco":{"logradouro":"RUA JOAO CALIMAN","numero":"110","bairro":"PARQUE DAS NACOES","cidade":"Marília","uf":"SP","cep":""},"telefone":"14-33162236","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.962647,"lon":-22.147624}}
+{"index":{"_id":"102321"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO BOM JARDIM","endereco":{"logradouro":"RUA SARGENTO JOAO PINHEIRO","numero":"S/N","bairro":"BOM JARDIM","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"992289808","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.624973893166,"lon":-3.7911015911659}}
+{"index":{"_id":"102322"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR AKIRA TADA","endereco":{"logradouro":"ESTRADA SAO FRANCISCO","numero":"2400","bairro":"JARDIM HENRIQUETA","cidade":"Taboão da Serra","uf":"SP","cep":"06765-290"},"telefone":"47873020 / 47018153","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.778046467781,"lon":-23.615379792157}}
+{"index":{"_id":"102323"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO ALEGRETE","endereco":{"logradouro":"MESTRE CACAIO","numero":"S/N","bairro":"CANUDOS","cidade":"Alegrete","uf":"RS","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-55.762425963402,"lon":-29.812960548817}}
+{"index":{"_id":"102324"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H MARIA ROSA NEPOMUCENO","endereco":{"logradouro":"BR 226","numero":"S/N","bairro":"TREZIDELA","cidade":"Barra do Corda","uf":"MA","cep":""},"telefone":"9936435269","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.2469136,"lon":-5.4941754}}
+{"index":{"_id":"102325"}}
+{"dataset":"upa_funcionamento","nome":"PRONTO ATENDIMENTO NOSSA SENHORA APARECIDA","endereco":{"logradouro":"RUA ROMANO ZANCHET","numero":"2682","bairro":"CENTRO","cidade":"Realeza","uf":"PR","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.545500487089,"lon":-25.776066339218}}
+{"index":{"_id":"102326"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO LESTE","endereco":{"logradouro":"AVENIDA DOS ANDRADAS","numero":"7260","bairro":"VERA CRUZ","cidade":"Belo Horizonte","uf":"MG","cep":""},"telefone":"32771101","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.90568,"lon":-19.90337}}
+{"index":{"_id":"102327"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE PORTO NACIONAL","endereco":{"logradouro":"RUA MARIA ANGELICA DA SILVA PRADO","numero":"S/N","bairro":"NOVA CAPITAL","cidade":"Porto Nacional","uf":"TO","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.40360504818,"lon":-10.690331070725}}
+{"index":{"_id":"102328"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24 H OEIRAS","endereco":{"logradouro":"AVENIDA TOTONIO FREITAS","numero":"657","bairro":"OEIRAS NOVA","cidade":"Oeiras","uf":"PI","cep":""},"telefone":"89-3462-3969","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.1365627,"lon":-7.0079021}}
+{"index":{"_id":"102329"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE LUZIANIA UPA","endereco":{"logradouro":"AVENIDA JOSE DO PATROCINIO","numero":"S/N","bairro":"PARQUE ESTRELA DALVA","cidade":"Luziânia","uf":"GO","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.952747,"lon":-16.2513167}}
+{"index":{"_id":"102330"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOSE ISABEL DE NASCIMENTO","endereco":{"logradouro":"AVENIDA GERASA","numero":"820","bairro":"CANAA","cidade":"Ipatinga","uf":"MG","cep":"35164-500"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.53537,"lon":-19.46768}}
+{"index":{"_id":"102331"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO NORDESTE","endereco":{"logradouro":"RUA JOAQUIM GOUVEIA","numero":"560","bairro":"SAO PAULO","cidade":"Belo Horizonte","uf":"MG","cep":""},"telefone":"32467501","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.93079,"lon":-19.88421}}
+{"index":{"_id":"102332"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO PRICESA ISABEL","endereco":{"logradouro":"RUA ALFREDO CARLOS DA COSTA","numero":"S/N","bairro":"MAIA","cidade":"Princesa Isabel","uf":"PB","cep":""},"telefone":"83-33457227","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.991580963135,"lon":-7.7246001664865}}
+{"index":{"_id":"102333"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO VILA VELHA","endereco":{"logradouro":"RUA L","numero":"S/N","bairro":"VILA VELHA","cidade":"Fortaleza","uf":"CE","cep":""},"telefone":"32842211","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.5926615,"lon":-3.7126707}}
+{"index":{"_id":"102334"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA SANTA PAULA","endereco":{"logradouro":"RUA NICOLAU KLUPPEL NETO","numero":"S/N","bairro":"SANTA PAULA","cidade":"Ponta Grossa","uf":"PR","cep":""},"telefone":"42-32363339","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.20158940506,"lon":-25.102286855197}}
+{"index":{"_id":"102335"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MACARENKO UPA 24H","endereco":{"logradouro":"RUA VINICIUS DE MORAES","numero":"380","bairro":"JARDIM MACARENKO","cidade":"Sumaré","uf":"SP","cep":"13710-817"},"telefone":"19 33996100","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.26096,"lon":-22.81972}}
+{"index":{"_id":"102336"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS CAMPOS SALES","endereco":{"logradouro":"DONA OTILIA","numero":"649","bairro":"TARUMA","cidade":"Manaus","uf":"AM","cep":""},"telefone":"92 36436300","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-59.9999329,"lon":-2.9644832}}
+{"index":{"_id":"102337"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24H DR ANTONIO MAGALHAES UPA","endereco":{"logradouro":"RUA DOS VOLUNTARIOS","numero":"S/N","bairro":"PLANALTO RENASCER","cidade":"Quixadá","uf":"CE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.034049659967,"lon":-4.9586770935872}}
+{"index":{"_id":"102338"}}
+{"dataset":"upa_funcionamento","nome":"UPA IRMA JUDITE DINIZ","endereco":{"logradouro":"RUA PEDRO MOREIRA","numero":"1496","bairro":"SANTA LUZIA","cidade":"Canindé","uf":"CE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.30712,"lon":-4.35542}}
+{"index":{"_id":"102339"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO MARIA DORIS DE CAMPOS P LOPES","endereco":{"logradouro":"AV JOAO NAVARRO SIQUEROLI","numero":"S/N","bairro":"JARDIM ACAPULCO","cidade":"São Carlos","uf":"SP","cep":""},"telefone":"16 3375-6003","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.88791,"lon":-22.01718}}
+{"index":{"_id":"102340"}}
+{"dataset":"upa_funcionamento","nome":"UPA DE DELMIIRO GOUVEIA","endereco":{"logradouro":"AV ANTONIO JOSE DA COSTA","numero":"S/N","bairro":"NOVO","cidade":"Delmiro Gouveia","uf":"AL","cep":""},"telefone":"8236412414","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.079277033685,"lon":-9.3843934244087}}
+{"index":{"_id":"102341"}}
+{"dataset":"upa_funcionamento","nome":"SES AP UNIDADE DE PRONTO ATENDIMENTO TIPO I UPA ZONA NORTE","endereco":{"logradouro":"RUA FERNANDO ALVES DE OLIVEIRA","numero":"S/N","bairro":"NOVO HORIZONTE","cidade":"Macapá","uf":"AP","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.046978533268,"lon":0.097609830387262}}
+{"index":{"_id":"102342"}}
+{"dataset":"upa_funcionamento","nome":"UPA III","endereco":{"logradouro":"RUA PELUZO","numero":"288","bairro":"JARDIM PELUZZO","cidade":"Patos de Minas","uf":"MG","cep":""},"telefone":"34 3822-9641","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.508193843842,"lon":-18.609282691196}}
+{"index":{"_id":"102343"}}
+{"dataset":"upa_funcionamento","nome":"UPA MARIA NAZARE","endereco":{"logradouro":"AVENIDA ROSA FERNANDES","numero":"S/N","bairro":"NOVA ESPERANCA","cidade":"Parnamirim","uf":"RN","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.2765505,"lon":-5.9389539}}
+{"index":{"_id":"102344"}}
+{"dataset":"upa_funcionamento","nome":"UPA PUTIM","endereco":{"logradouro":"AVENIDA JOAO RODOLFO CASTELLI","numero":"1035","bairro":"PUTIM","cidade":"São José dos Campos","uf":"SP","cep":""},"telefone":"012 39291019","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.832410156727,"lon":-23.245087236763}}
+{"index":{"_id":"102345"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS MARIA ITALIA FREDDO","endereco":{"logradouro":"RUA MARECHAL DEODORO","numero":"221","bairro":"CRISTO REI","cidade":"Pato Branco","uf":"PR","cep":""},"telefone":"46 32131728","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.676101561546,"lon":-26.251359537011}}
+{"index":{"_id":"102346"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE SAO GONCALO DO AMARANTE","endereco":{"logradouro":"RUA DO CAJUEIRO","numero":"S/N","bairro":"PECEM","cidade":"São Gonçalo do Amarante","uf":"CE","cep":""},"telefone":"(85)3315-1111","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.96768,"lon":-3.60441}}
+{"index":{"_id":"102347"}}
+{"dataset":"upa_funcionamento","nome":"UPA DA SOBRAL FRANCO SILVA","endereco":{"logradouro":"ESTRADA DA SOBRAL","numero":"S/N","bairro":"SOBRAL","cidade":"Rio Branco","uf":"AC","cep":""},"telefone":"68 3224-4835","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-67.8304067,"lon":-9.9815886}}
+{"index":{"_id":"102348"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE SAO BENEDITO","endereco":{"logradouro":"AVENIDA TABAJARA","numero":"S/N","bairro":"CORRENTE","cidade":"Ubajara","uf":"CE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.85915,"lon":-4.04265}}
+{"index":{"_id":"102349"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO NORTE","endereco":{"logradouro":"203 NORTE ALAMEDA LO 06 APM 02","numero":"S/N","bairro":"PLANO DIRETOR NORTE","cidade":"Palmas","uf":"TO","cep":""},"telefone":"(63) 32185110","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.33171,"lon":-10.16889}}
+{"index":{"_id":"102350"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO TRAMANDAI","endereco":{"logradouro":"AVENIDA FLORES DA CUNHA","numero":"4400","bairro":"SAO FRANCISCO II","cidade":"Tramandaí","uf":"RS","cep":""},"telefone":"51 36844543","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.132682,"lon":-29.9846393}}
+{"index":{"_id":"102351"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H PARQUE SAO CRISTOVAO","endereco":{"logradouro":"RUA MARCOS MOREIRA SOLTER","numero":"S/N","bairro":"PARQUE SAO CRISTOVAO","cidade":"Salvador","uf":"BA","cep":""},"telefone":"39010080","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.3655705,"lon":-12.9050969}}
+{"index":{"_id":"102352"}}
+{"dataset":"upa_funcionamento","nome":"UPA TANGARA ESTORIL","endereco":{"logradouro":"PRESIDENTE GETULIO VARGAS","numero":"381","bairro":"SAO FRANCISCO","cidade":"São José do Rio Preto","uf":"SP","cep":""},"telefone":"17-32224184","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.374450973511,"lon":-20.839894755701}}
+{"index":{"_id":"102353"}}
+{"dataset":"upa_funcionamento","nome":"SES RJ UPA 24 H SAO PEDRO DA ALDEIA","endereco":{"logradouro":"RODOVIA AMARAL PEIXOTO KM 107","numero":"S/N","bairro":"SAO PEDRO DA ALEDIA","cidade":"São Pedro da Aldeia","uf":"RJ","cep":""},"telefone":"22.2621.12.55","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.10169,"lon":-22.83689}}
+{"index":{"_id":"102354"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO JANGURUSSU","endereco":{"logradouro":"AV CONTORNO SUL","numero":"S/N","bairro":"JANGURUSSU","cidade":"Fortaleza","uf":"CE","cep":"60055-090"},"telefone":"32952768","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.53926,"lon":-3.71701}}
+{"index":{"_id":"102355"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO CEILANDIA","endereco":{"logradouro":"QNN 27 AREA ESPECIAL D","numero":"1","bairro":"CEILANDIA","cidade":"Brasília","uf":"DF","cep":""},"telefone":"34719000","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.92463,"lon":-15.77463}}
+{"index":{"_id":"102356"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"RUA 19","numero":"S/N","bairro":"DONA FIICA","cidade":"Goianésia","uf":"GO","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.117,"lon":-15.317}}
+{"index":{"_id":"102357"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR JOSE ABILIO M DE BARROS","endereco":{"logradouro":"LUIZ FEITOSA RODRIGUES","numero":"S/N","bairro":"GUATOS","cidade":"Corumbá","uf":"MS","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-57.644131073952,"lon":-19.046407300911}}
+{"index":{"_id":"102358"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"RUA NELSON BRIHI BADUR","numero":"605","bairro":"JARDIM SAO NICOLAU","cidade":"Registro","uf":"SP","cep":""},"telefone":"13 38213155","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.851762312889,"lon":-24.503723547554}}
+{"index":{"_id":"102359"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DR ATILIO C CYPRIANO","endereco":{"logradouro":"AVENIDA THEODORO ROSA FILHO","numero":"1500","bairro":"PARQUE IRACEMA","cidade":"Catanduva","uf":"SP","cep":"15809-007"},"telefone":"1735319540","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.9492570858,"lon":-21.148051631999}}
+{"index":{"_id":"102360"}}
+{"dataset":"upa_funcionamento","nome":"UPA DRA LEILA MARIA ALEXANDRINO CIDRAO FEITOSA","endereco":{"logradouro":"AV CHERMONN ALVES DE OLIVEIRA","numero":"494","bairro":"NOVA ALDEOTA","cidade":"Tauá","uf":"CE","cep":""},"telefone":"(88)34372016","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.28909,"lon":-6.00186}}
+{"index":{"_id":"102361"}}
+{"dataset":"upa_funcionamento","nome":"UPA PARQUE BEIRA MAR","endereco":{"logradouro":"ROD WASHINGTON LUIS","numero":"3200","bairro":"VILA SAO LUIS","cidade":"Duque de Caxias","uf":"RJ","cep":"25070-260"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.304231174989,"lon":-22.732103334313}}
+{"index":{"_id":"102362"}}
+{"dataset":"upa_funcionamento","nome":"UPA ELISA S FRANCHOZZA ARARAS","endereco":{"logradouro":"AVENIDA IRINEU CARROCCI","numero":"400","bairro":"JOSE OMETTO II","cidade":"Araras","uf":"SP","cep":""},"telefone":"35435112","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.334920614958,"lon":-22.351422828061}}
+{"index":{"_id":"102363"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H POTENGI","endereco":{"logradouro":"AVENIDA SENHOR DO BOMFIM","numero":"S/N","bairro":"POTENGI","cidade":"Natal","uf":"RN","cep":""},"telefone":"8432324450","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.2511058,"lon":-5.7574385}}
+{"index":{"_id":"102364"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOSE SANTOS SASSO","endereco":{"logradouro":"RUA PERNAMBUCANA","numero":"385","bairro":"JARDIM CONCEICAO","cidade":"Osasco","uf":"SP","cep":"6145245"},"telefone":"(11) 35918062","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.79306,"lon":-23.56944}}
+{"index":{"_id":"102365"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24H VILA DAVI","endereco":{"logradouro":"RUA SEBASTIAO CICERO FRANCO","numero":"S/N","bairro":"VILA DAVID","cidade":"Bragança Paulista","uf":"SP","cep":""},"telefone":"11-40316223","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.53859,"lon":-22.95119}}
+{"index":{"_id":"102366"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR PEDRO T F REIS SERTAOZINHO","endereco":{"logradouro":"RUA PEDRO CARLETO NETO","numero":"120","bairro":"JARDIM GRANDE ALIANC","cidade":"Sertãozinho","uf":"SP","cep":""},"telefone":"16 3947-1590","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.005418777902,"lon":-21.120530494714}}
+{"index":{"_id":"102367"}}
+{"dataset":"upa_funcionamento","nome":"UPA AMBROSINA COIMBRA BUENO","endereco":{"logradouro":"RUA CASTRO ALVES","numero":"S/N","bairro":"BURITI SERENO","cidade":"Aparecida de Goiânia","uf":"GO","cep":"74944-340"},"telefone":"06235370147","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.325686211586,"lon":-16.791246076097}}
+{"index":{"_id":"102368"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DRA ZILDA ARNS","endereco":{"logradouro":"RUA POCOS DE CALDAS","numero":"66","bairro":"JD DOM JOSE","cidade":"Embu das Artes","uf":"SP","cep":""},"telefone":"4149-5995 / 4704-274","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.8040425,"lon":-23.6742733}}
+{"index":{"_id":"102369"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24 HORAS","endereco":{"logradouro":"AV CURUA UNA","numero":"S/N","bairro":"SAO JOSE OPERARIO","cidade":"Santarém","uf":"PA","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.701818227768,"lon":-2.447580999125}}
+{"index":{"_id":"102370"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"AV ELIEZER MAGALHAES","numero":"2520","bairro":"JARDIM MARILU","cidade":"Mirassol","uf":"SP","cep":"15130000"},"telefone":"17-32533285","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.48583,"lon":-20.81128}}
+{"index":{"_id":"102371"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"TICO TICO REI","numero":"S/N","bairro":"JARDIM CARAVELLE","cidade":"Arapongas","uf":"PR","cep":""},"telefone":"43 39021238","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.4679453125,"lon":-23.406397767334}}
+{"index":{"_id":"102372"}}
+{"dataset":"upa_funcionamento","nome":"UPA DE JERICOACOARA","endereco":{"logradouro":"RUA DOS COQUEIROS","numero":"S/N","bairro":"RURAL","cidade":"Jijoca de Jericoacoara","uf":"CE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.492172241211,"lon":-2.8759735146345}}
+{"index":{"_id":"102373"}}
+{"dataset":"upa_funcionamento","nome":"UPA POCOS DE CALDAS","endereco":{"logradouro":"RUA BANDEIRA DO SUL","numero":"0","bairro":"JOSE CARLOS","cidade":"Poços de Caldas","uf":"MG","cep":""},"telefone":"3536975398","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.550863981247,"lon":-21.785698691954}}
+{"index":{"_id":"102374"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS","endereco":{"logradouro":"RUA RANULFO ALVARES","numero":"1681","bairro":"VILA ISA","cidade":"Governador Valadares","uf":"MG","cep":"35044-150"},"telefone":"33 21016151","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-41.94316,"lon":-18.85068}}
+{"index":{"_id":"102375"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR JUVENAL PAIVA","endereco":{"logradouro":"AV TONICO REIS","numero":"1700","bairro":"VAPABUCU","cidade":"Sete Lagoas","uf":"MG","cep":""},"telefone":"31 37748140","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.212594628334,"lon":-19.470532184232}}
+{"index":{"_id":"102376"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE IGUATU UPA","endereco":{"logradouro":"RUA 25 DE MARCO","numero":"S/N","bairro":"PARANA","cidade":"Iguatu","uf":"CE","cep":""},"telefone":"35813107","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-39.29265,"lon":-6.35576}}
+{"index":{"_id":"102377"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24H","endereco":{"logradouro":"RUA IRMAOS SPINELLI","numero":"1855","bairro":"PARQUE SAO CARLOS","cidade":"Três Lagoas","uf":"MS","cep":""},"telefone":"67 3929-1254","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.6796875,"lon":-20.754187621206}}
+{"index":{"_id":"102378"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS","endereco":{"logradouro":"RUA EDGAR TEIXEIRA","numero":"S/N","bairro":"SAO FRANCISCO","cidade":"Guanambi","uf":"BA","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.8247877,"lon":-14.2082066}}
+{"index":{"_id":"102379"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"AVENIDA PREFEITO WANDERLEY LUIS MAIA","numero":"105","bairro":"CIDADE MONTESA","cidade":"Campo Belo","uf":"MG","cep":""},"telefone":"(35)38327114","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.27311,"lon":-20.89181}}
+{"index":{"_id":"102380"}}
+{"dataset":"upa_funcionamento","nome":"UPA ADOLPHO PEREIRA DE REZENDE","endereco":{"logradouro":"AVENIDA TANCREDO NEVES","numero":"243","bairro":"PARANAIBA","cidade":"Carmo do Paranaíba","uf":"MG","cep":"38840000"},"telefone":"34-3851-1742","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.315924898148,"lon":-19.008339205032}}
+{"index":{"_id":"102381"}}
+{"dataset":"upa_funcionamento","nome":"UPA NOVO HORIZONTE","endereco":{"logradouro":"AVENIDA TANCREDO NEVES","numero":"5120","bairro":"PQ NOVO HORIZONTE","cidade":"São José dos Campos","uf":"SP","cep":""},"telefone":"12 3907-1555","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.79662,"lon":-23.18551}}
+{"index":{"_id":"102382"}}
+{"dataset":"upa_funcionamento","nome":"UPA PARAGOMINAS SOLANGE MARIA DO NASCIMENTO MELO","endereco":{"logradouro":"RUA MENESTRITE","numero":"001","bairro":"URAIM II","cidade":"Paragominas","uf":"PA","cep":""},"telefone":"9137298058","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.35569,"lon":-2.992}}
+{"index":{"_id":"102383"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA 24H","endereco":{"logradouro":"RUA SETE DE SETEMBRO","numero":"S/N","bairro":"PRESIDENTE MEDICE","cidade":"Chapecó","uf":"SC","cep":"98801-500"},"telefone":"(49)2049-9024","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.618,"lon":-27.096}}
+{"index":{"_id":"102384"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO EM BARRA MANSA RJ UPA","endereco":{"logradouro":"ANTONIO VINTURELLI NETTO","numero":"123","bairro":"BOA VISTA I","cidade":"Barra Mansa","uf":"RJ","cep":""},"telefone":"02433409813","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.166091557503,"lon":-22.558823062034}}
+{"index":{"_id":"102385"}}
+{"dataset":"upa_funcionamento","nome":"UPA SADAKO SEDOGUTI","endereco":{"logradouro":"RUA DOS CAJUEIROS","numero":"453","bairro":"RESIDENCIAL FLAMBOYA","cidade":"Itaquaquecetuba","uf":"SP","cep":""},"telefone":"(11)4647-0212","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.322320530891,"lon":-23.438345960356}}
+{"index":{"_id":"102386"}}
+{"dataset":"upa_funcionamento","nome":"UPA EDEN SOROCABA","endereco":{"logradouro":"RUA MIGUEL JOSE GIMENES","numero":"75","bairro":"JD PORTO BELLO","cidade":"Sorocaba","uf":"SP","cep":""},"telefone":"15 3333-2166","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.415616214275,"lon":-23.429167407436}}
+{"index":{"_id":"102387"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR MANOEL JOAQUIM DOS REIS","endereco":{"logradouro":"RUA LUIZ BRUNELLI","numero":"00","bairro":"JARDIM JULIA","cidade":"Bebedouro","uf":"SP","cep":"14716038"},"telefone":"(17) 3344-8100","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.47429,"lon":-20.94316}}
+{"index":{"_id":"102388"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR JUSTINO ALVES PEREIRA","endereco":{"logradouro":"AV SOUZA NAVES","numero":"1245","bairro":"JD MORADA DO SOL","cidade":"Ibiporã","uf":"PR","cep":""},"telefone":"43 3178 0348","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.057865619659,"lon":-23.262500121486}}
+{"index":{"_id":"102389"}}
+{"dataset":"upa_funcionamento","nome":"UPA MARIA PIRES PERILLO","endereco":{"logradouro":"RUA JC 22 COM JC 27 E JC 27 A","numero":"S/N","bairro":"JARDIM CURITIBA I","cidade":"Goiânia","uf":"GO","cep":""},"telefone":"62 - 35243461","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.3407925,"lon":-16.6149674}}
+{"index":{"_id":"102390"}}
+{"dataset":"upa_funcionamento","nome":"UPA EUGENIO DE MELO","endereco":{"logradouro":"RUA CORONEL EUGENIO AUGUSTO DE MELO","numero":"101","bairro":"EUGENIO DE MELO","cidade":"São José dos Campos","uf":"SP","cep":"12247-190"},"telefone":"1239052152","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.78352,"lon":-23.13786}}
+{"index":{"_id":"102391"}}
+{"dataset":"upa_funcionamento","nome":"UPA SAN MARINO TAUBATE","endereco":{"logradouro":"RUA ONZE","numero":"S/N","bairro":"AGUA QUENTE","cidade":"Taubaté","uf":"SP","cep":""},"telefone":"12 3608-6788","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.5717963,"lon":-23.0308183}}
+{"index":{"_id":"102392"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR AVELINO G MARTINS NETO","endereco":{"logradouro":"AVENIDA SETE DE SETEMBRO","numero":"750","bairro":"CENTRO","cidade":"Jaboticabal","uf":"SP","cep":""},"telefone":"(16)32023610","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.326524886608,"lon":-21.256719821444}}
+{"index":{"_id":"102393"}}
+{"dataset":"upa_funcionamento","nome":"UPA TIPO 3 NOVA 24 HORAS","endereco":{"logradouro":"RUA EDGAR CASSIANO DOS SANTOS","numero":"152","bairro":"ZEQUINHA AZEVEDO","cidade":"Coruripe","uf":"AL","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-36.17209,"lon":-10.12209}}
+{"index":{"_id":"102394"}}
+{"dataset":"upa_funcionamento","nome":"UPA RUI BARBOSA","endereco":{"logradouro":"AVENIDA RUI BARBOSA","numero":"10471","bairro":"COLONIA RIO GRANDE","cidade":"São José dos Pinhais","uf":"PR","cep":"83025-010"},"telefone":"(41) 3398 - 2710","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.20733,"lon":-25.5493}}
+{"index":{"_id":"102395"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR NEWTON NOVATO","endereco":{"logradouro":"CYRO EDUARDO ROSA FALEIROS","numero":"600","bairro":"AEROPORTO I","cidade":"Franca","uf":"SP","cep":""},"telefone":"1637216807","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.402332305908,"lon":-20.536096572876}}
+{"index":{"_id":"102396"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MUNICIPAL 24 HS UPA","endereco":{"logradouro":"VENANCIO AIRES","numero":"1781","bairro":"CENTRO","cidade":"Cruz Alta","uf":"RS","cep":""},"telefone":"55 33227777","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.606576674938,"lon":-28.647177683431}}
+{"index":{"_id":"102397"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO DE SANTO ANTONIO DO MONTE","endereco":{"logradouro":"RUA PADRE PAULO","numero":"355","bairro":"MAE CHIQUINHA","cidade":"Santo Antônio do Monte","uf":"MG","cep":""},"telefone":"37-3281-7306","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.292325913906,"lon":-20.09216836203}}
+{"index":{"_id":"102398"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR MARIO RUIVO DE CUBATAO","endereco":{"logradouro":"AV JOEL GONCALVES DE OLIVEIRA","numero":"222","bairro":"PQ SAO LUIZ","cidade":"Cubatão","uf":"SP","cep":""},"telefone":"13-3361.6388","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.416596639156,"lon":-23.924703931073}}
+{"index":{"_id":"102399"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR OLAVO CAVALCANTE CARDOSO","endereco":{"logradouro":"RUA JOELSON SILVA BARROS","numero":"S/N","bairro":"CIDADE NOVA","cidade":"Crateús","uf":"CE","cep":""},"telefone":"88-36910515","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.67327,"lon":-5.17378}}
+{"index":{"_id":"102400"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE LENCOIS PAULISTA","endereco":{"logradouro":"RUA SETE DE SETEMBRO","numero":"600","bairro":"CENTRO","cidade":"Lençóis Paulista","uf":"SP","cep":""},"telefone":"(14) 3264 8668","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.795604705811,"lon":-22.600303107353}}
+{"index":{"_id":"102401"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO","endereco":{"logradouro":"AVENIDA MARECHAL FLORIANO PEIXOTO","numero":"2071","bairro":"ALTO DAS OLIVEIRAS","cidade":"Telêmaco Borba","uf":"PR","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.6313992,"lon":-24.3350356}}
+{"index":{"_id":"102402"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS","endereco":{"logradouro":"AV VICENTE JOSE PARISE","numero":"2100","bairro":"CENTRO","cidade":"Taquaritinga","uf":"SP","cep":"15900-000"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.50288,"lon":-21.40373}}
+{"index":{"_id":"102403"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE FRANCO DA ROCHA UPA II","endereco":{"logradouro":"NELSON RODRIGUES","numero":"S/N","bairro":"CENTRO","cidade":"Franco da Rocha","uf":"SP","cep":""},"telefone":"(11)4819-6011","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.72746,"lon":-23.33272}}
+{"index":{"_id":"102404"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24HS TABATINGA","endereco":{"logradouro":"RUA CORONEL BERG","numero":"S/N","bairro":"VILA PARAISO","cidade":"Tabatinga","uf":"AM","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-69.7644353,"lon":-4.049983}}
+{"index":{"_id":"102405"}}
+{"dataset":"upa_funcionamento","nome":"UPA TRAPICHE DA BARRA","endereco":{"logradouro":"RUA CABO REIS","numero":"S/N","bairro":"PONTA GROSSA","cidade":"Maceió","uf":"AL","cep":""},"telefone":"3022 0033","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.7573198,"lon":-9.6630702}}
+{"index":{"_id":"102406"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO CONTAGEM","endereco":{"logradouro":"AVENIDA JOAO DE CASTRO","numero":"780","bairro":"CIDADE JARDIM ELDORA","cidade":"Contagem","uf":"MG","cep":""},"telefone":"(31)21122307","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.037016252518,"lon":-19.942832160149}}
+{"index":{"_id":"102407"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H VILOBALDO MACEDO","endereco":{"logradouro":"RUA SANTO ANTONIO","numero":"590","bairro":"INDAIA","cidade":"Poções","uf":"BA","cep":""},"telefone":"7734315812 998043962","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-40.374908080101,"lon":-14.525393898791}}
+{"index":{"_id":"102408"}}
+{"dataset":"upa_funcionamento","nome":"UPA PADRE HONORINO JOAO MURARO","endereco":{"logradouro":"RUA FELIX CONTREIRAS RODRIGUES","numero":"69","bairro":"GETULIO VARGAS","cidade":"Bagé","uf":"RS","cep":"96413-010"},"telefone":"(53)32475733","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.09131526947,"lon":-31.322003962093}}
+{"index":{"_id":"102409"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 DE ALTAMIRA","endereco":{"logradouro":"RUA IRAPURU","numero":"458","bairro":"JARDIM UIRAPURU","cidade":"Altamira","uf":"PA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.2130557,"lon":-3.210648}}
+{"index":{"_id":"102410"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 H WASFI JOSE DAHER","endereco":{"logradouro":"RUA OTAVIANO DE PAIVA","numero":"S/N","bairro":"SETOR NORTE","cidade":"Cristalina","uf":"GO","cep":""},"telefone":"(61) 3612.1010","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.6135636,"lon":-16.7680642}}
+{"index":{"_id":"102411"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE PRONTO ATENDIMENTO ITAPERI","endereco":{"logradouro":"RUA BETEL","numero":"S/N","bairro":"ITAPERI","cidade":"Fortaleza","uf":"CE","cep":"60055-000"},"telefone":"32952768","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.53926,"lon":-3.71701}}
+{"index":{"_id":"102412"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H PARQUE SAO CRISTOVAO","endereco":{"logradouro":"RUA MARCOS MOREIRA SOLTER","numero":"S/N","bairro":"PARQUE SAO CRISTOVAO","cidade":"Salvador","uf":"BA","cep":""},"telefone":"39010080","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.3655705,"lon":-12.9050969}}
+{"index":{"_id":"102413"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS SANTA ROSA","endereco":{"logradouro":"RUA CAXIAS","numero":"1011","bairro":"CENTRO","cidade":"Santa Rosa","uf":"RS","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.486219578743,"lon":-27.8676567269}}
+{"index":{"_id":"102414"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOEL RODRIGUES DA ROCHA VILA MORENINHA III","endereco":{"logradouro":"AVENIDA ARATICUM","numero":"25","bairro":"MORENINHA III","cidade":"Campo Grande","uf":"MS","cep":""},"telefone":"67-33149029/33149028","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.645982682705,"lon":-20.443111228264}}
+{"index":{"_id":"102415"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO MANOEL FRANCISCO DE AGUIAR","endereco":{"logradouro":"AV BELEM","numero":"S/N","bairro":"CENTRO","cidade":"Breu Branco","uf":"PA","cep":"68448-000"},"telefone":"94737860788","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.459970031738,"lon":-4.0093424825991}}
+{"index":{"_id":"102416"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE PRONTO ATENDIMENTO DE FAZENDA RIO GRANDE","endereco":{"logradouro":"RUA RIO TEJO","numero":"515","bairro":"SANTA TEREZINHA","cidade":"Fazenda Rio Grande","uf":"PR","cep":"83824-141"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-49.30491,"lon":-25.65457}}
+{"index":{"_id":"102417"}}
+{"dataset":"upa_funcionamento","nome":"UPA CENTRO OESTE MARIA ANGELICA CASTOLDO","endereco":{"logradouro":"RUA ABELIO BENATTI","numero":"4000","bairro":"JARDIM DO SOL","cidade":"Londrina","uf":"PR","cep":"86066000"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.15779,"lon":-23.30627}}
+{"index":{"_id":"102418"}}
+{"dataset":"upa_funcionamento","nome":"UPA CATALAO","endereco":{"logradouro":"AV DOUTOR LAMARTINE PINTO DE AVELAR","numero":"1800","bairro":"SETOR UNIVERSITARIO","cidade":"Catalão","uf":"GO","cep":""},"telefone":"64 3411 5134","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.9280043,"lon":-18.149997}}
+{"index":{"_id":"102419"}}
+{"dataset":"upa_funcionamento","nome":"UPA I RODEIO","endereco":{"logradouro":"AVENIDA PEDRO ROMERO","numero":"329","bairro":"RODEIO","cidade":"Mogi das Cruzes","uf":"SP","cep":""},"telefone":"47987411","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.179109811783,"lon":-23.500447744077}}
+{"index":{"_id":"102420"}}
+{"dataset":"upa_funcionamento","nome":"UPA LUCAS EVANGELISTA","endereco":{"logradouro":"RUA BAHIA","numero":"S/N","bairro":"LESSA RIBEIRO","cidade":"Dias d'Ávila","uf":"BA","cep":""},"telefone":"71 36483649","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.334217071533,"lon":-12.607841084852}}
+{"index":{"_id":"102421"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOSE CAMPOS BARRETO ZEQUINHA BARRETO","endereco":{"logradouro":"RUA DR ALBERT JACKSON BYNGTON","numero":"822","bairro":"VILA MENCK","cidade":"Osasco","uf":"SP","cep":"06273-050"},"telefone":"36831725 - 3683-1847","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.768418018341,"lon":-23.497170512935}}
+{"index":{"_id":"102422"}}
+{"dataset":"upa_funcionamento","nome":"UPA PREFEITO OSVALDO CANDIDO DE QUEIROZ","endereco":{"logradouro":"RUA SANTOS DUMONT","numero":"690","bairro":"MARECHAL RONDON","cidade":"Igarapé","uf":"MG","cep":""},"telefone":"31 - 3534-1648","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.30102,"lon":-20.06887}}
+{"index":{"_id":"102423"}}
+{"dataset":"upa_funcionamento","nome":"UPA SOBRADINHO","endereco":{"logradouro":"DF 420 KM2 COMPLEXO DE SAUDE","numero":"1","bairro":"SOBRADINHO II","cidade":"Brasília","uf":"DF","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.92463,"lon":-15.77463}}
+{"index":{"_id":"102424"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS VIAMAO","endereco":{"logradouro":"AVENIDA SENADOR SALGADO FILHO","numero":"2055","bairro":"CECILIA","cidade":"Viamão","uf":"RS","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.024822235107,"lon":-30.081897735596}}
+{"index":{"_id":"102425"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS VENANCIO AIRES","endereco":{"logradouro":"VOLUNTARIOS DA PATRIA","numero":"2500","bairro":"CRUZEIRO","cidade":"Venâncio Aires","uf":"RS","cep":""},"telefone":"5137932100","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-52.18859,"lon":-29.6039}}
+{"index":{"_id":"102426"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24 HORAS UPA","endereco":{"logradouro":"RUA ALBERTO PASQUALINI","numero":"165","bairro":"BOTAFOGO","cidade":"Bento Gonçalves","uf":"RS","cep":""},"telefone":"54 30557303","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.515560150146,"lon":-29.167402267456}}
+{"index":{"_id":"102427"}}
+{"dataset":"upa_funcionamento","nome":"AMBULATORIO 24 HORAS NOVO GAMA","endereco":{"logradouro":"AVENIDA CENTRAL","numero":"1000","bairro":"NOVO GAMA","cidade":"Novo Gama","uf":"GO","cep":"72860016"},"telefone":"(61)6281123","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.03171,"lon":-16.05555}}
+{"index":{"_id":"102428"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS ALTO DA PONTE","endereco":{"logradouro":"RUA ALZIRO LEBRAO","numero":"76","bairro":"ALTO DA PONTE","cidade":"São José dos Campos","uf":"SP","cep":"12212-500"},"telefone":"12 35193700","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.90132,"lon":-23.15325}}
+{"index":{"_id":"102429"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO 24 HORAS UPA RENASCENCA","endereco":{"logradouro":"AV NOE MENDE","numero":"S/N","bairro":"RENASCENCA III","cidade":"Teresina","uf":"PI","cep":"64082110"},"telefone":"8632347074","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-42.734199611137,"lon":-5.0999356392322}}
+{"index":{"_id":"102430"}}
+{"dataset":"upa_funcionamento","nome":"UPA DO CABULA","endereco":{"logradouro":"ESTRADA SABOEIRO","numero":"S/N","bairro":"SABOEIRO","cidade":"Salvador","uf":"BA","cep":"41180900"},"telefone":"(71)33874745","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.45121,"lon":-12.95658}}
+{"index":{"_id":"102431"}}
+{"dataset":"upa_funcionamento","nome":"UPA SIMOES FILHO","endereco":{"logradouro":"AVENIDA ELMO SEREJO DE FARIAS","numero":"S/N","bairro":"CIA I","cidade":"Simões Filho","uf":"BA","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.40237,"lon":-12.78401}}
+{"index":{"_id":"102432"}}
+{"dataset":"upa_funcionamento","nome":"UPA JAD MORADA DO SOL INDAIATUBA","endereco":{"logradouro":"AVENIDA ENGENHEIRO FABIO ROBERTO BARNABE","numero":"6020","bairro":"JAD MORADA DO SOL","cidade":"Indaiatuba","uf":"SP","cep":""},"telefone":"(19)38354900","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.23618,"lon":-23.12484}}
+{"index":{"_id":"102433"}}
+{"dataset":"upa_funcionamento","nome":"UPA UNIDADE DE PRONTO ATENDIMENTO 24 HORAS","endereco":{"logradouro":"RUA PROJETADA","numero":"S/N","bairro":"PIANCOZINHO","cidade":"Piancó","uf":"PB","cep":""},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.92953,"lon":-7.19802}}
+{"index":{"_id":"102434"}}
+{"dataset":"upa_funcionamento","nome":"UPA DR JOSE ROBERTO LOPES FERRAZ","endereco":{"logradouro":"RUA UM","numero":"800","bairro":"CENTRO","cidade":"Santa Fé do Sul","uf":"SP","cep":"15775-000"},"telefone":"17- 36311015","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.928298830986,"lon":-20.214562665916}}
+{"index":{"_id":"102435"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H SAN MARTIN","endereco":{"logradouro":"RUA DO FORNO","numero":"S/N","bairro":"SAN MARTIN","cidade":"Salvador","uf":"BA","cep":""},"telefone":"32562271/999400451","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.484182059765,"lon":-12.943014627788}}
+{"index":{"_id":"102436"}}
+{"dataset":"upa_funcionamento","nome":"UPA JD ROSOLEM JOSE PEREIRA DE AMORIM","endereco":{"logradouro":"RUA ORLANDO PAVAN","numero":"395","bairro":"JD ROSOLEM","cidade":"Hortolândia","uf":"SP","cep":""},"telefone":"19-38456104","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.174694807529,"lon":-22.898248597962}}
+{"index":{"_id":"102437"}}
+{"dataset":"upa_funcionamento","nome":"UPA RUY SILVA","endereco":{"logradouro":"RUA OSMAR LUCHINI","numero":"670","bairro":"JD AEROPORTO","cidade":"Assis","uf":"SP","cep":"19.813-178"},"telefone":"(18)33225619","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-50.408706665039,"lon":-22.664392999949}}
+{"index":{"_id":"102438"}}
+{"dataset":"upa_funcionamento","nome":"UPA JOSE FERNANDO DA SILVA SAO PEDRO","endereco":{"logradouro":"RUA MALAQUIAS GUERRA","numero":"162","bairro":"CENTRO","cidade":"São Pedro","uf":"SP","cep":""},"telefone":"34819270","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.914675916672,"lon":-22.545090987286}}
+{"index":{"_id":"102439"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DRA VALERIA MACAMBIRA GUEDES","endereco":{"logradouro":"RUA DR JOSE MOREIRA","numero":"01","bairro":"COCODE","cidade":"Cajazeiras","uf":"PB","cep":""},"telefone":"8335313607","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.553568124771,"lon":-6.8840997250889}}
+{"index":{"_id":"102440"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DR AFRANIO MARTINS","endereco":{"logradouro":"RUA FREI ANTONIO","numero":"3675","bairro":"TERRA ROCHA","cidade":"Dourados","uf":"MS","cep":""},"telefone":"67 84685029","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.783828860283,"lon":-22.248186288377}}
+{"index":{"_id":"102441"}}
+{"dataset":"upa_funcionamento","nome":"UPA VINHAIS","endereco":{"logradouro":"AVENIDA 02","numero":"S/N","bairro":"VINHAIS","cidade":"São Luís","uf":"MA","cep":""},"telefone":"(98) 2367535","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.30682,"lon":-2.53073}}
+{"index":{"_id":"102442"}}
+{"dataset":"upa_funcionamento","nome":"UPA JD AMANDA PASTOR ENEAS DE CASTRO GAMA","endereco":{"logradouro":"RUA WASHINGTOM LUIS","numero":"1066","bairro":"JD AMANDA","cidade":"Hortolândia","uf":"SP","cep":""},"telefone":"(19)38974485","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.240567178726,"lon":-22.89716389324}}
+{"index":{"_id":"102443"}}
+{"dataset":"upa_funcionamento","nome":"UPA ZONA NORTE","endereco":{"logradouro":"RUA LEOPOLDO SCHERER","numero":"374","bairro":"SCHARLAU","cidade":"São Leopoldo","uf":"RS","cep":""},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.1559259,"lon":-29.7392192}}
+{"index":{"_id":"102444"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS SAPIRANGA","endereco":{"logradouro":"RUA JOSE DE ALENCAR","numero":"71","bairro":"CENTENARIO","cidade":"Sapiranga","uf":"RS","cep":""},"telefone":"51-39591058","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.0204965,"lon":-29.6436629}}
+{"index":{"_id":"102445"}}
+{"dataset":"upa_funcionamento","nome":"UPA VILA SANTA CATARINA","endereco":{"logradouro":"RUA CIDADE DE BAGDA","numero":"529","bairro":"JARDIM MIRA","cidade":"São Paulo","uf":"SP","cep":"04377-036"},"telefone":"11 5671 9200","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.63503,"lon":-23.54198}}
+{"index":{"_id":"102446"}}
+{"dataset":"upa_funcionamento","nome":"UPA NOVA HORTOLANDIA MANOEL GEORGINO LOPES","endereco":{"logradouro":"RUA JOSE MARTIM DOS ANJOS","numero":"185","bairro":"JD NOVA HORTOLANDIA","cidade":"Hortolândia","uf":"SP","cep":""},"telefone":"(19)38654774","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.22,"lon":-22.858}}
+{"index":{"_id":"102447"}}
+{"dataset":"upa_funcionamento","nome":"UPA PORTE III CASTANHAL GOVERNADOR ALMIR GABRIEL","endereco":{"logradouro":"BR 316","numero":"S/N","bairro":"CRISTO REDENTOR","cidade":"Castanhal","uf":"PA","cep":""},"telefone":"91-889 9843","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.945945262909,"lon":-1.2966220360321}}
+{"index":{"_id":"102448"}}
+{"dataset":"upa_funcionamento","nome":"UPA INFANTIL WALTER GARCIA","endereco":{"logradouro":"RUA GENERAL ARGOLO","numero":"S/N","bairro":"CENTRO","cidade":"Duque de Caxias","uf":"RJ","cep":"25210-000"},"telefone":"","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.30798342824,"lon":-22.794799914778}}
+{"index":{"_id":"102449"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H VALE DOS BARRIS","endereco":{"logradouro":"PRACA JOAO MANGABEIRA ROTULA AV VALE DOS BARRIS","numero":"S/N","bairro":"BARRIS","cidade":"Salvador","uf":"BA","cep":""},"telefone":"(71) 3277-5489/5486","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.512630783081,"lon":-12.986974844334}}
+{"index":{"_id":"102450"}}
+{"dataset":"upa_funcionamento","nome":"UPA DA CIDADE DO POVO DR EDILBERTO PARIGOT DE SOUZA FILHO","endereco":{"logradouro":"RUA AFIF ARAO","numero":"1595","bairro":"CIDADE DO POVO","cidade":"Rio Branco","uf":"AC","cep":""},"telefone":"68 3215 4210","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-67.826156616211,"lon":-9.9800090134479}}
+{"index":{"_id":"102451"}}
+{"dataset":"upa_funcionamento","nome":"UPA CAMPO DOS ALEMAES","endereco":{"logradouro":"RUA JOAO BATISTA DO NASCIMENTO","numero":"359","bairro":"CAMPO DOS ALEMAES","cidade":"São José dos Campos","uf":"SP","cep":"12239-290"},"telefone":"12 39661108/39662357","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-45.89961,"lon":-23.27458}}
+{"index":{"_id":"102452"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS PADRE ROBERTO CORDEIRO MARTINS","endereco":{"logradouro":"RUA NILO MACIEL","numero":"241","bairro":"PONTE FUNDA","cidade":"Divinópolis","uf":"MG","cep":""},"telefone":"37-32213662","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-44.862434864044,"lon":-20.156862363904}}
+{"index":{"_id":"102453"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H VALERIA","endereco":{"logradouro":"RUA DO LAVRADOR","numero":"S/N","bairro":"VALERIA","cidade":"Salvador","uf":"BA","cep":""},"telefone":"(71) 3500-2600/02/04","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-38.429417930603,"lon":-12.870987595057}}
+{"index":{"_id":"102454"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H BATEL","endereco":{"logradouro":"RUA BARAO DO CAPANEMA","numero":"1701","bairro":"BATEL","cidade":"Guarapuava","uf":"PR","cep":""},"telefone":"42 36239719","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.476255114555,"lon":-25.398712031699}}
+{"index":{"_id":"102455"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE SAO BENEDITO","endereco":{"logradouro":"RUA SENHOR DO BONFIM","numero":"1052","bairro":"SAO BENEDITO","cidade":"Santa Luzia","uf":"MG","cep":""},"telefone":"(31)36371992","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-43.932802010536,"lon":-19.784441839149}}
+{"index":{"_id":"102456"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE RUSSAS","endereco":{"logradouro":"RUA PROJETADA","numero":"S/N","bairro":"PLANALTO","cidade":"Russas","uf":"CE","cep":""},"telefone":"34116333","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-37.969264984131,"lon":-4.9462754348528}}
+{"index":{"_id":"102457"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO UPA","endereco":{"logradouro":"RUA OSVALDO CRUZ FUNDO DO VALE","numero":"1070","bairro":"CENTRO","cidade":"Guaíra","uf":"PR","cep":""},"telefone":"4436429550","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-54.25356,"lon":-24.0748}}
+{"index":{"_id":"102458"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS","endereco":{"logradouro":"RODOVIA PERIMETRAL NORTE PR 180","numero":"1510","bairro":"LUTHER KING","cidade":"Francisco Beltrão","uf":"PR","cep":"85601000"},"telefone":"3520-2301","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-53.045371770859,"lon":-26.056257594628}}
+{"index":{"_id":"102459"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24 HORAS ANA JACINTA VER JOSE CARLOS ROBERTO CAFE","endereco":{"logradouro":"AVENIDA JOSE ZERIAL","numero":"510","bairro":"CONJUNTO HAB ANA JA","cidade":"Presidente Prudente","uf":"SP","cep":""},"telefone":"(18) 3909-4985","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-51.453889757395,"lon":-22.15010877299}}
+{"index":{"_id":"102460"}}
+{"dataset":"upa_funcionamento","nome":"UPA SUL","endereco":{"logradouro":"RUA WILSON CUNHA","numero":"200","bairro":"PARQUE DAS LARANJEIR","cidade":"Uberlândia","uf":"MG","cep":""},"telefone":"34 32272264","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-48.27311,"lon":-18.91785}}
+{"index":{"_id":"102461"}}
+{"dataset":"upa_funcionamento","nome":"POLICLINICA MUNICIPAL DE SURUBIM","endereco":{"logradouro":"AVENIDA MARILDA ARRUDA GUERRA","numero":"S/N","bairro":"COQUEIRO","cidade":"Surubim","uf":"PE","cep":""},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.75492,"lon":-7.84994}}
+{"index":{"_id":"102462"}}
+{"dataset":"upa_funcionamento","nome":"UPA 24H ESPERANCA","endereco":{"logradouro":"AVENIDA PARAIBA","numero":"S/N","bairro":"CIDADE DA ESPERANCA","cidade":"Natal","uf":"RN","cep":""},"telefone":"32322378","porte":"3","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.236673355103,"lon":-5.8245725427258}}
+{"index":{"_id":"102463"}}
+{"dataset":"upa_funcionamento","nome":"UPA EDUARDO CAMPOS","endereco":{"logradouro":"RUA MARACANA","numero":"31","bairro":"SOTAVE","cidade":"Jaboatão dos Guararapes","uf":"PE","cep":"54340-605"},"telefone":"","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-35.00392,"lon":-8.10929}}
+{"index":{"_id":"102464"}}
+{"dataset":"upa_funcionamento","nome":"UPA D ZILDA ARNS","endereco":{"logradouro":"PRACA KATIA ENTREQUADRAS 25 26 PARQUE MARAJO","numero":"05","bairro":"PARQUE MARAJO","cidade":"Valparaíso de Goiás","uf":"GO","cep":"72874-218"},"telefone":"","porte":"2","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-47.974679768085,"lon":-16.110003611641}}
+{"index":{"_id":"102465"}}
+{"dataset":"upa_funcionamento","nome":"UNIDADE DE PRONTO ATENDIMENTO DE ITANHAEM","endereco":{"logradouro":"RUA JOSE ERNESTO BECHELLI","numero":"S/N","bairro":"SABAUNA","cidade":"Itanhaém","uf":"SP","cep":"11740-000"},"telefone":"1334271111","porte":"1","data_funcionamento":"2016-07-01T03:00:00.000Z","location":{"lat":-46.78672,"lon":-24.17666}}
