@@ -33,7 +33,7 @@ result = {"dataset":datasetname, "grupo":"55_64","idade":{min:55,max:64}}
 mortalidadeCancer(id, url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo65mais.php?output=json";
-result = {"dataset":datasetname, "grupo":"55_64","idade":{min:65,max:99}}
+result = {"dataset":datasetname, "grupo":"65_99","idade":{min:65,max:99}}
 mortalidadeCancer(id, url, result);
 
 function mortalidadeCancer(id, url, result){
