@@ -27,7 +27,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Mortalidade - Câncer de Colo de Útero:
-**Name: mortalidade_cancer_colo \
+**Name:** mortalidade_cancer_colo \
 **File:** /dataset/loaded/bulk_mortalidade_cancer_colo.txt \
 **Source:** http://dados.gov.br/dataset/mspainelsage_59 \
 **Structure:**
@@ -47,8 +47,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 
 ---
 
-#### Saúde -UPAs em funcionamento
-**Name: upa_funcionamento \
+#### Saúde - UPAs em funcionamento
+**Name:** upa_funcionamento \
 **File:** /dataset/loaded/bulk_saude_upa_funcionamento.txt \
 **Source:** http://dados.gov.br/dataset/upa_funcionamento_cnes \
 **Structure:**
@@ -71,6 +71,23 @@ All dataset are provided on the dataset folder and formatted to be used on the b
     "lat" : Number,
     "lon" : Number
   } 
+}
+```
+
+---
+
+#### Saúde - Razão entre exames de mamografia em mulheres de 50 a 69 anos e população feminina da mesma faixa etária e local de residência
+**Name:** mamografia_regiao_50_69 \
+**File:** /dataset/loaded/bulk_mamografia_50_69_regiao.txt \
+**Source:** http://dados.gov.br/dataset/wms_idsus_nt_rzmamogr \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "cidade" : String,
+  "nota" : Float,
+  "data" : Date,
+  "regiao" : Geometry
 }
 ```
 
