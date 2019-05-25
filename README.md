@@ -240,9 +240,33 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   },
   "estado" : String,
   "cidade" : String,
-  "total_medicos" : Number,
-  "estimativa" : Number,
-  "medico_mil_habitante" : Float,
+  "ano" : Number,
+  "total_populacao" : Number,
+  "total_mulher" : Number,
+  "regiao" : Geometry
+}
+```
+
+---
+
+#### Habitantes entre de 0 a 14 anos de idade
+**Name:** razao_pupulacao_0_14 \
+**File:** /dataset/loaded/bulk_razao_pupulacao_0_14.txt \
+**Loader:** /loader/loader_razao_pupulacao_0_14.js \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_per_pessde0a14anos \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "idade" : {
+    "min" : Number,
+    "max" : Number
+  },
+  "estado" : String,
+  "cidade" : String,
+  "ano" : Number,
+  "total_populacao" : Number,
+  "total_idade" : Number,
   "regiao" : Geometry
 }
 ```
