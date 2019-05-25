@@ -135,3 +135,22 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 }
 ```
 
+---
+
+#### Ocorrências entre homens e mulheres por município
+**Name:** razao_sexo_municipio \
+**File:** /dataset/loaded/bulk_razao_sexo_municipio.txt \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_razao_de_sexo \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "estado" : String,
+  "cidade" : String,
+  "total_homem" : Number,
+  "total_mulher" : Number,
+  "total" : Number,
+  "regiao" : Geometry
+}
+```
+
