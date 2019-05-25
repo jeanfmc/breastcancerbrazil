@@ -4,7 +4,7 @@ var fs = require("fs");
 console.log("Mortalidade - Câncer de Mama");
 
 var fileOutputName = "bulk_mortalidade_cancer_mama.txt";
-var id = 100000;
+var id = 1000000;
 var url = "";
 var datasetname = "mortalidade_cancer_mama"
 var result = {};

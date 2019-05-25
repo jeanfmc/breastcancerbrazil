@@ -4,7 +4,7 @@ var fs = require("fs");
 console.log("Mortalidade - Câncer de Colo");
 
 var fileOutputName = "bulk_mortalidade_cancer_colo.txt";
-var id = 101000;
+var id = 1010000;
 var url = "";
 var datasetname = "mortalidade_cancer_colo"
 var result = {};

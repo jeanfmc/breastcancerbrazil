@@ -77,8 +77,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Razão entre exames de mamografia em mulheres de 50 a 69 anos e população feminina da mesma faixa etária e local de residência
-**Name:** mamografia_regiao_50_69 \
-**File:** /dataset/loaded/bulk_mamografia_50_69_regiao.txt \
+**Name:** razao_50_69_mamografia_regiao \
+**File:** /dataset/loaded/bulk_razao_50_69_mamografia_regiao.txt \
 **Source:** http://dados.gov.br/dataset/wms_idsus_nt_rzmamogr \
 **Structure:**
 ```javascript 
@@ -94,8 +94,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Relação de mamografias em mulheres entre 50 e 69 anos por estado
-**Name:** mamografia_50_69_estado \
-**File:** /dataset/loaded/bulk_mamografia_50_69_estado.txt \
+**Name:** exame_50_69_mamografia_estado \
+**File:** /dataset/loaded/bulk_exame_50_69_mamografia_estado.txt \
 **Source:** http://dados.gov.br/dataset/mspainelsage_43 \
 **Structure:**
 ```javascript 
@@ -116,8 +116,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Relação de exames citopatológicos em mulheres entre 50 e 69 anos por estado
-**Name:** citopatologico_estado_50_69 \
-**File:** /dataset/loaded/bulk_citopatologico_50_69_estado.txt \
+**Name:** exame_50_69_citopatologico_estado \
+**File:** /dataset/loaded/bulk_exame_50_69_citopatologico_estado.txt \
 **Source:** http://dados.gov.br/dataset/mspainelsage_43 \
 **Structure:**
 ```javascript 
