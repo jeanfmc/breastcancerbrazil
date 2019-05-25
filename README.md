@@ -295,3 +295,27 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 }
 ```
 
+---
+
+#### Habitantes mais de 65 anos de idade
+**Name:** razao_pupulacao_65_mais \
+**File:** /dataset/loaded/bulk_razao_populacao_65_99.txt \
+**Loader:** /loader/loader_razao_populacao_65_mais.js \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_per_pess65oumais \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "idade" : {
+    "min" : Number,
+    "max" : Number
+  },
+  "estado" : String,
+  "cidade" : String,
+  "ano" : Number,
+  "total_populacao" : Number,
+  "total_idade" : Number,
+  "regiao" : Geometry
+}
+```
+
