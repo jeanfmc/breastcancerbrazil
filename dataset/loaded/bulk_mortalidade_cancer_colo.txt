@@ -1,184 +1,4 @@
 {"index":{"_id":"1010000"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":671,"etnia":"Branca "}
-{"index":{"_id":"1010001"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":17,"etnia":"Amarela "}
-{"index":{"_id":"1010002"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010003"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010004"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010005"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":286,"etnia":"Preta "}
-{"index":{"_id":"1010006"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":693,"etnia":"Branca "}
-{"index":{"_id":"1010007"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010008"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010009"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1010010"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010011"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":388,"etnia":"Preta "}
-{"index":{"_id":"1010012"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":683,"etnia":"Branca "}
-{"index":{"_id":"1010013"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":5,"etnia":"Amarela "}
-{"index":{"_id":"1010014"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010015"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010016"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010017"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":419,"etnia":"Preta "}
-{"index":{"_id":"1010018"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":704,"etnia":"Branca "}
-{"index":{"_id":"1010019"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1010020"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010021"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":6,"etnia":"Indígena "}
-{"index":{"_id":"1010022"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010023"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":467,"etnia":"Preta "}
-{"index":{"_id":"1010024"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":720,"etnia":"Branca "}
-{"index":{"_id":"1010025"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":8,"etnia":"Amarela "}
-{"index":{"_id":"1010026"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010027"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":5,"etnia":"Indígena "}
-{"index":{"_id":"1010028"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010029"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":465,"etnia":"Preta "}
-{"index":{"_id":"1010030"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":771,"etnia":"Branca "}
-{"index":{"_id":"1010031"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010032"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010033"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":7,"etnia":"Indígena "}
-{"index":{"_id":"1010034"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010035"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":510,"etnia":"Preta "}
-{"index":{"_id":"1010036"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":758,"etnia":"Branca "}
-{"index":{"_id":"1010037"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":7,"etnia":"Amarela "}
-{"index":{"_id":"1010038"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010039"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":8,"etnia":"Indígena "}
-{"index":{"_id":"1010040"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010041"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":626,"etnia":"Preta "}
-{"index":{"_id":"1010042"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":759,"etnia":"Branca "}
-{"index":{"_id":"1010043"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":6,"etnia":"Amarela "}
-{"index":{"_id":"1010044"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010045"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":7,"etnia":"Indígena "}
-{"index":{"_id":"1010046"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010047"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":674,"etnia":"Preta "}
-{"index":{"_id":"1010048"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":778,"etnia":"Branca "}
-{"index":{"_id":"1010049"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":11,"etnia":"Amarela "}
-{"index":{"_id":"1010050"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010051"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":8,"etnia":"Indígena "}
-{"index":{"_id":"1010052"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010053"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":675,"etnia":"Preta "}
-{"index":{"_id":"1010054"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":795,"etnia":"Branca "}
-{"index":{"_id":"1010055"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010056"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010057"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":6,"etnia":"Indígena "}
-{"index":{"_id":"1010058"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010059"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":740,"etnia":"Preta "}
-{"index":{"_id":"1010060"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":748,"etnia":"Branca "}
-{"index":{"_id":"1010061"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010062"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010063"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":14,"etnia":"Indígena "}
-{"index":{"_id":"1010064"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010065"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":715,"etnia":"Preta "}
-{"index":{"_id":"1010066"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":785,"etnia":"Branca "}
-{"index":{"_id":"1010067"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010068"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010069"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":7,"etnia":"Indígena "}
-{"index":{"_id":"1010070"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010071"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":778,"etnia":"Preta "}
-{"index":{"_id":"1010072"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":771,"etnia":"Branca "}
-{"index":{"_id":"1010073"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":9,"etnia":"Amarela "}
-{"index":{"_id":"1010074"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":84,"etnia":"Ignorada "}
-{"index":{"_id":"1010075"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":10,"etnia":"Indígena "}
-{"index":{"_id":"1010076"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":691,"etnia":"Parda "}
-{"index":{"_id":"1010077"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":133,"etnia":"Preta "}
-{"index":{"_id":"1010078"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":792,"etnia":"Branca "}
-{"index":{"_id":"1010079"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":12,"etnia":"Amarela "}
-{"index":{"_id":"1010080"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":81,"etnia":"Ignorada "}
-{"index":{"_id":"1010081"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":7,"etnia":"Indígena "}
-{"index":{"_id":"1010082"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":731,"etnia":"Parda "}
-{"index":{"_id":"1010083"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":157,"etnia":"Preta "}
-{"index":{"_id":"1010084"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":816,"etnia":"Branca "}
-{"index":{"_id":"1010085"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":5,"etnia":"Amarela "}
-{"index":{"_id":"1010086"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":68,"etnia":"Ignorada "}
-{"index":{"_id":"1010087"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":6,"etnia":"Indígena "}
-{"index":{"_id":"1010088"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":733,"etnia":"Parda "}
-{"index":{"_id":"1010089"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":135,"etnia":"Preta "}
-{"index":{"_id":"1010000"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"35_44","idade":{"min":35,"max":44},"ano":2000,"mortes":339,"etnia":"Branca "}
 {"index":{"_id":"1010001"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"35_44","idade":{"min":35,"max":44},"ano":2000,"mortes":5,"etnia":"Amarela "}
@@ -370,6 +190,378 @@
 {"dataset":"mortalidade_cancer_colo","grupo":"35_44","idade":{"min":35,"max":44},"ano":2015,"mortes":486,"etnia":"Parda "}
 {"index":{"_id":"1010095"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"35_44","idade":{"min":35,"max":44},"ano":2015,"mortes":75,"etnia":"Preta "}
+{"index":{"_id":"1010000"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":11,"etnia":"Branca "}
+{"index":{"_id":"1010001"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010002"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010003"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010004"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010005"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":6,"etnia":"Preta "}
+{"index":{"_id":"1010006"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":12,"etnia":"Branca "}
+{"index":{"_id":"1010007"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010008"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010009"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010010"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010011"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":8,"etnia":"Preta "}
+{"index":{"_id":"1010012"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":11,"etnia":"Branca "}
+{"index":{"_id":"1010013"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010014"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010015"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010016"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010017"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":11,"etnia":"Preta "}
+{"index":{"_id":"1010018"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":9,"etnia":"Branca "}
+{"index":{"_id":"1010019"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010020"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010021"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010022"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010023"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":7,"etnia":"Preta "}
+{"index":{"_id":"1010024"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":11,"etnia":"Branca "}
+{"index":{"_id":"1010025"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010026"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010027"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010028"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010029"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":13,"etnia":"Preta "}
+{"index":{"_id":"1010030"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":12,"etnia":"Branca "}
+{"index":{"_id":"1010031"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010032"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010033"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010034"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010035"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":12,"etnia":"Preta "}
+{"index":{"_id":"1010036"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":10,"etnia":"Branca "}
+{"index":{"_id":"1010037"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010038"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010039"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010040"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010041"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":15,"etnia":"Preta "}
+{"index":{"_id":"1010042"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":12,"etnia":"Branca "}
+{"index":{"_id":"1010043"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010044"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010045"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010046"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010047"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":7,"etnia":"Preta "}
+{"index":{"_id":"1010048"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":13,"etnia":"Branca "}
+{"index":{"_id":"1010049"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010050"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010051"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010052"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010053"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":10,"etnia":"Preta "}
+{"index":{"_id":"1010054"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":19,"etnia":"Branca "}
+{"index":{"_id":"1010055"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010056"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010057"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1010058"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010059"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":13,"etnia":"Preta "}
+{"index":{"_id":"1010060"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":11,"etnia":"Branca "}
+{"index":{"_id":"1010061"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010062"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010063"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010064"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010065"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":20,"etnia":"Preta "}
+{"index":{"_id":"1010066"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":14,"etnia":"Branca "}
+{"index":{"_id":"1010067"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010068"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010069"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1010070"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010071"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":11,"etnia":"Preta "}
+{"index":{"_id":"1010072"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":16,"etnia":"Branca "}
+{"index":{"_id":"1010073"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010074"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":1,"etnia":"Ignorada "}
+{"index":{"_id":"1010075"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":null,"etnia":"Indígena "}
+{"index":{"_id":"1010076"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":16,"etnia":"Parda "}
+{"index":{"_id":"1010077"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":0,"etnia":"Preta "}
+{"index":{"_id":"1010078"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":15,"etnia":"Branca "}
+{"index":{"_id":"1010079"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010080"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":1,"etnia":"Ignorada "}
+{"index":{"_id":"1010081"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010082"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":16,"etnia":"Parda "}
+{"index":{"_id":"1010083"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":2,"etnia":"Preta "}
+{"index":{"_id":"1010084"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":16,"etnia":"Branca "}
+{"index":{"_id":"1010085"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010086"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":1,"etnia":"Ignorada "}
+{"index":{"_id":"1010087"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1010088"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":15,"etnia":"Parda "}
+{"index":{"_id":"1010089"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":2,"etnia":"Preta "}
+{"index":{"_id":"1010090"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":12,"etnia":"Branca "}
+{"index":{"_id":"1010091"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1010092"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":2,"etnia":"Ignorada "}
+{"index":{"_id":"1010093"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1010094"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":16,"etnia":"Parda "}
+{"index":{"_id":"1010095"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":3,"etnia":"Preta "}
+{"index":{"_id":"1010000"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":671,"etnia":"Branca "}
+{"index":{"_id":"1010001"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":17,"etnia":"Amarela "}
+{"index":{"_id":"1010002"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010003"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1010004"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010005"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2000,"mortes":286,"etnia":"Preta "}
+{"index":{"_id":"1010006"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":693,"etnia":"Branca "}
+{"index":{"_id":"1010007"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010008"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010009"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":3,"etnia":"Indígena "}
+{"index":{"_id":"1010010"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010011"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2001,"mortes":388,"etnia":"Preta "}
+{"index":{"_id":"1010012"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":683,"etnia":"Branca "}
+{"index":{"_id":"1010013"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":5,"etnia":"Amarela "}
+{"index":{"_id":"1010014"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010015"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1010016"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010017"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2002,"mortes":419,"etnia":"Preta "}
+{"index":{"_id":"1010018"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":704,"etnia":"Branca "}
+{"index":{"_id":"1010019"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1010020"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010021"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":6,"etnia":"Indígena "}
+{"index":{"_id":"1010022"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010023"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2003,"mortes":467,"etnia":"Preta "}
+{"index":{"_id":"1010024"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":720,"etnia":"Branca "}
+{"index":{"_id":"1010025"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":8,"etnia":"Amarela "}
+{"index":{"_id":"1010026"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010027"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":5,"etnia":"Indígena "}
+{"index":{"_id":"1010028"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010029"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2004,"mortes":465,"etnia":"Preta "}
+{"index":{"_id":"1010030"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":771,"etnia":"Branca "}
+{"index":{"_id":"1010031"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010032"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010033"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":7,"etnia":"Indígena "}
+{"index":{"_id":"1010034"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010035"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2005,"mortes":510,"etnia":"Preta "}
+{"index":{"_id":"1010036"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":758,"etnia":"Branca "}
+{"index":{"_id":"1010037"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":7,"etnia":"Amarela "}
+{"index":{"_id":"1010038"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010039"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":8,"etnia":"Indígena "}
+{"index":{"_id":"1010040"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010041"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2006,"mortes":626,"etnia":"Preta "}
+{"index":{"_id":"1010042"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":759,"etnia":"Branca "}
+{"index":{"_id":"1010043"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":6,"etnia":"Amarela "}
+{"index":{"_id":"1010044"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010045"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":7,"etnia":"Indígena "}
+{"index":{"_id":"1010046"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010047"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2007,"mortes":674,"etnia":"Preta "}
+{"index":{"_id":"1010048"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":778,"etnia":"Branca "}
+{"index":{"_id":"1010049"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":11,"etnia":"Amarela "}
+{"index":{"_id":"1010050"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010051"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":8,"etnia":"Indígena "}
+{"index":{"_id":"1010052"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010053"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2008,"mortes":675,"etnia":"Preta "}
+{"index":{"_id":"1010054"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":795,"etnia":"Branca "}
+{"index":{"_id":"1010055"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010056"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010057"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":6,"etnia":"Indígena "}
+{"index":{"_id":"1010058"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010059"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2009,"mortes":740,"etnia":"Preta "}
+{"index":{"_id":"1010060"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":748,"etnia":"Branca "}
+{"index":{"_id":"1010061"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010062"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010063"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":14,"etnia":"Indígena "}
+{"index":{"_id":"1010064"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010065"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2010,"mortes":715,"etnia":"Preta "}
+{"index":{"_id":"1010066"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":785,"etnia":"Branca "}
+{"index":{"_id":"1010067"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010068"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1010069"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":7,"etnia":"Indígena "}
+{"index":{"_id":"1010070"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1010071"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2011,"mortes":778,"etnia":"Preta "}
+{"index":{"_id":"1010072"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":771,"etnia":"Branca "}
+{"index":{"_id":"1010073"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":9,"etnia":"Amarela "}
+{"index":{"_id":"1010074"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":84,"etnia":"Ignorada "}
+{"index":{"_id":"1010075"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":10,"etnia":"Indígena "}
+{"index":{"_id":"1010076"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":691,"etnia":"Parda "}
+{"index":{"_id":"1010077"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2012,"mortes":133,"etnia":"Preta "}
+{"index":{"_id":"1010078"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":792,"etnia":"Branca "}
+{"index":{"_id":"1010079"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":12,"etnia":"Amarela "}
+{"index":{"_id":"1010080"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":81,"etnia":"Ignorada "}
+{"index":{"_id":"1010081"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":7,"etnia":"Indígena "}
+{"index":{"_id":"1010082"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":731,"etnia":"Parda "}
+{"index":{"_id":"1010083"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2013,"mortes":157,"etnia":"Preta "}
+{"index":{"_id":"1010084"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":816,"etnia":"Branca "}
+{"index":{"_id":"1010085"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":5,"etnia":"Amarela "}
+{"index":{"_id":"1010086"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":68,"etnia":"Ignorada "}
+{"index":{"_id":"1010087"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":6,"etnia":"Indígena "}
+{"index":{"_id":"1010088"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":733,"etnia":"Parda "}
+{"index":{"_id":"1010089"}}
+{"dataset":"mortalidade_cancer_colo","grupo":"65_99","idade":{"min":65,"max":99},"ano":2014,"mortes":135,"etnia":"Preta "}
 {"index":{"_id":"1010000"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"45_54","idade":{"min":45,"max":54},"ano":2000,"mortes":492,"etnia":"Branca "}
 {"index":{"_id":"1010001"}}
@@ -563,198 +755,6 @@
 {"index":{"_id":"1010095"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"45_54","idade":{"min":45,"max":54},"ano":2015,"mortes":113,"etnia":"Preta "}
 {"index":{"_id":"1010000"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":114,"etnia":"Branca "}
-{"index":{"_id":"1010001"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010002"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010003"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1010004"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010005"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":86,"etnia":"Preta "}
-{"index":{"_id":"1010006"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":115,"etnia":"Branca "}
-{"index":{"_id":"1010007"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010008"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010009"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010010"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010011"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":123,"etnia":"Preta "}
-{"index":{"_id":"1010012"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":118,"etnia":"Branca "}
-{"index":{"_id":"1010013"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010014"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010015"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010016"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010017"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":109,"etnia":"Preta "}
-{"index":{"_id":"1010018"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":124,"etnia":"Branca "}
-{"index":{"_id":"1010019"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010020"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010021"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010022"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010023"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":107,"etnia":"Preta "}
-{"index":{"_id":"1010024"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":135,"etnia":"Branca "}
-{"index":{"_id":"1010025"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010026"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010027"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1010028"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010029"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":117,"etnia":"Preta "}
-{"index":{"_id":"1010030"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":129,"etnia":"Branca "}
-{"index":{"_id":"1010031"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1010032"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010033"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010034"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010035"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":145,"etnia":"Preta "}
-{"index":{"_id":"1010036"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":114,"etnia":"Branca "}
-{"index":{"_id":"1010037"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010038"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010039"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010040"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010041"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":128,"etnia":"Preta "}
-{"index":{"_id":"1010042"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":124,"etnia":"Branca "}
-{"index":{"_id":"1010043"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1010044"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010045"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010046"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010047"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":141,"etnia":"Preta "}
-{"index":{"_id":"1010048"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":143,"etnia":"Branca "}
-{"index":{"_id":"1010049"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1010050"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010051"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010052"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010053"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":166,"etnia":"Preta "}
-{"index":{"_id":"1010054"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":145,"etnia":"Branca "}
-{"index":{"_id":"1010055"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010056"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010057"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":4,"etnia":"Indígena "}
-{"index":{"_id":"1010058"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010059"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":171,"etnia":"Preta "}
-{"index":{"_id":"1010060"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":155,"etnia":"Branca "}
-{"index":{"_id":"1010061"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010062"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010063"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1010064"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010065"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":201,"etnia":"Preta "}
-{"index":{"_id":"1010066"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":152,"etnia":"Branca "}
-{"index":{"_id":"1010067"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1010068"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1010069"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1010070"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1010071"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":206,"etnia":"Preta "}
-{"index":{"_id":"1010072"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":163,"etnia":"Branca "}
-{"index":{"_id":"1010073"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1010074"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":12,"etnia":"Ignorada "}
-{"index":{"_id":"1010075"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010076"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":170,"etnia":"Parda "}
-{"index":{"_id":"1010077"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":20,"etnia":"Preta "}
-{"index":{"_id":"1010078"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":160,"etnia":"Branca "}
-{"index":{"_id":"1010079"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010080"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":12,"etnia":"Ignorada "}
-{"index":{"_id":"1010081"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1010082"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":203,"etnia":"Parda "}
-{"index":{"_id":"1010083"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":26,"etnia":"Preta "}
-{"index":{"_id":"1010084"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":164,"etnia":"Branca "}
-{"index":{"_id":"1010085"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010086"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":15,"etnia":"Ignorada "}
-{"index":{"_id":"1010087"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1010088"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":200,"etnia":"Parda "}
-{"index":{"_id":"1010089"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":24,"etnia":"Preta "}
-{"index":{"_id":"1010090"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":192,"etnia":"Branca "}
-{"index":{"_id":"1010091"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1010092"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":22,"etnia":"Ignorada "}
-{"index":{"_id":"1010093"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":6,"etnia":"Indígena "}
-{"index":{"_id":"1010094"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":201,"etnia":"Parda "}
-{"index":{"_id":"1010095"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":30,"etnia":"Preta "}
-{"index":{"_id":"1010000"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"55_64","idade":{"min":55,"max":64},"ano":2000,"mortes":438,"etnia":"Branca "}
 {"index":{"_id":"1010001"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"55_64","idade":{"min":55,"max":64},"ano":2000,"mortes":5,"etnia":"Amarela "}
@@ -947,194 +947,194 @@
 {"index":{"_id":"1010095"}}
 {"dataset":"mortalidade_cancer_colo","grupo":"55_64","idade":{"min":55,"max":64},"ano":2015,"mortes":117,"etnia":"Preta "}
 {"index":{"_id":"1010000"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":11,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":114,"etnia":"Branca "}
 {"index":{"_id":"1010001"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010002"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010003"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":3,"etnia":"Indígena "}
 {"index":{"_id":"1010004"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010005"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2000,"mortes":6,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2000,"mortes":86,"etnia":"Preta "}
 {"index":{"_id":"1010006"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":12,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":115,"etnia":"Branca "}
 {"index":{"_id":"1010007"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010008"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010009"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010010"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010011"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2001,"mortes":8,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2001,"mortes":123,"etnia":"Preta "}
 {"index":{"_id":"1010012"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":11,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":118,"etnia":"Branca "}
 {"index":{"_id":"1010013"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010014"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010015"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010016"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010017"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2002,"mortes":11,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2002,"mortes":109,"etnia":"Preta "}
 {"index":{"_id":"1010018"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":9,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":124,"etnia":"Branca "}
 {"index":{"_id":"1010019"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010020"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010021"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":1,"etnia":"Indígena "}
 {"index":{"_id":"1010022"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010023"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2003,"mortes":7,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2003,"mortes":107,"etnia":"Preta "}
 {"index":{"_id":"1010024"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":11,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":135,"etnia":"Branca "}
 {"index":{"_id":"1010025"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010026"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010027"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":3,"etnia":"Indígena "}
 {"index":{"_id":"1010028"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010029"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2004,"mortes":13,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2004,"mortes":117,"etnia":"Preta "}
 {"index":{"_id":"1010030"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":12,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":129,"etnia":"Branca "}
 {"index":{"_id":"1010031"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":2,"etnia":"Amarela "}
 {"index":{"_id":"1010032"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010033"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":1,"etnia":"Indígena "}
 {"index":{"_id":"1010034"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010035"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2005,"mortes":12,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2005,"mortes":145,"etnia":"Preta "}
 {"index":{"_id":"1010036"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":10,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":114,"etnia":"Branca "}
 {"index":{"_id":"1010037"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010038"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010039"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010040"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010041"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2006,"mortes":15,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2006,"mortes":128,"etnia":"Preta "}
 {"index":{"_id":"1010042"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":12,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":124,"etnia":"Branca "}
 {"index":{"_id":"1010043"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":2,"etnia":"Amarela "}
 {"index":{"_id":"1010044"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010045"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":1,"etnia":"Indígena "}
 {"index":{"_id":"1010046"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010047"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2007,"mortes":7,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2007,"mortes":141,"etnia":"Preta "}
 {"index":{"_id":"1010048"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":13,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":143,"etnia":"Branca "}
 {"index":{"_id":"1010049"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":2,"etnia":"Amarela "}
 {"index":{"_id":"1010050"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010051"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010052"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010053"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2008,"mortes":10,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2008,"mortes":166,"etnia":"Preta "}
 {"index":{"_id":"1010054"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":19,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":145,"etnia":"Branca "}
 {"index":{"_id":"1010055"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010056"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010057"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":1,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":4,"etnia":"Indígena "}
 {"index":{"_id":"1010058"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010059"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2009,"mortes":13,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2009,"mortes":171,"etnia":"Preta "}
 {"index":{"_id":"1010060"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":11,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":155,"etnia":"Branca "}
 {"index":{"_id":"1010061"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010062"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010063"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":3,"etnia":"Indígena "}
 {"index":{"_id":"1010064"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010065"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2010,"mortes":20,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2010,"mortes":201,"etnia":"Preta "}
 {"index":{"_id":"1010066"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":14,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":152,"etnia":"Branca "}
 {"index":{"_id":"1010067"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":2,"etnia":"Amarela "}
 {"index":{"_id":"1010068"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Ignorada "}
 {"index":{"_id":"1010069"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":1,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Indígena "}
 {"index":{"_id":"1010070"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":0,"etnia":"Parda "}
 {"index":{"_id":"1010071"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2011,"mortes":11,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2011,"mortes":206,"etnia":"Preta "}
 {"index":{"_id":"1010072"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":16,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":163,"etnia":"Branca "}
 {"index":{"_id":"1010073"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":0,"etnia":"Amarela "}
 {"index":{"_id":"1010074"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":1,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":12,"etnia":"Ignorada "}
 {"index":{"_id":"1010075"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":null,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010076"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":16,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":170,"etnia":"Parda "}
 {"index":{"_id":"1010077"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2012,"mortes":0,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2012,"mortes":20,"etnia":"Preta "}
 {"index":{"_id":"1010078"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":15,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":160,"etnia":"Branca "}
 {"index":{"_id":"1010079"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010080"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":1,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":12,"etnia":"Ignorada "}
 {"index":{"_id":"1010081"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":1,"etnia":"Indígena "}
 {"index":{"_id":"1010082"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":16,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":203,"etnia":"Parda "}
 {"index":{"_id":"1010083"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2013,"mortes":2,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2013,"mortes":26,"etnia":"Preta "}
 {"index":{"_id":"1010084"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":16,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":164,"etnia":"Branca "}
 {"index":{"_id":"1010085"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010086"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":1,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":15,"etnia":"Ignorada "}
 {"index":{"_id":"1010087"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":0,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":2,"etnia":"Indígena "}
 {"index":{"_id":"1010088"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":15,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":200,"etnia":"Parda "}
 {"index":{"_id":"1010089"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2014,"mortes":2,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2014,"mortes":24,"etnia":"Preta "}
 {"index":{"_id":"1010090"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":12,"etnia":"Branca "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":192,"etnia":"Branca "}
 {"index":{"_id":"1010091"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":0,"etnia":"Amarela "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":1,"etnia":"Amarela "}
 {"index":{"_id":"1010092"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":2,"etnia":"Ignorada "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":22,"etnia":"Ignorada "}
 {"index":{"_id":"1010093"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":1,"etnia":"Indígena "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":6,"etnia":"Indígena "}
 {"index":{"_id":"1010094"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":16,"etnia":"Parda "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":201,"etnia":"Parda "}
 {"index":{"_id":"1010095"}}
-{"dataset":"mortalidade_cancer_colo","grupo":"15_24","idade":{"min":15,"max":24},"ano":2015,"mortes":3,"etnia":"Preta "}
+{"dataset":"mortalidade_cancer_colo","grupo":"25_34","idade":{"min":25,"max":34},"ano":2015,"mortes":30,"etnia":"Preta "}
