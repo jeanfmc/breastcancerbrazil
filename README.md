@@ -108,8 +108,30 @@ All dataset are provided on the dataset folder and formatted to be used on the b
     "lon" : Number
   },
   "estado" : String,
-  "mamografia_total_" : Number,
-  "mamografia_idade" : Number
+  "exame_total_" : Number,
+  "exame_idade" : Number
+}
+```
+
+---
+
+#### Relação de exames citopatológicos em mulheres entre 50 e 69 anos por estado
+**Name:** citopatologico_estado_50_69 \
+**File:** /dataset/loaded/bulk_citopatologico_50_69_estado.txt \
+**Source:** http://dados.gov.br/dataset/mspainelsage_43 \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "nome" : String,
+  "ano" : Number,
+  "idade" : {
+    "lat" : Number,
+    "lon" : Number
+  },
+  "estado" : String,
+  "exame_total_" : Number,
+  "exame_idade" : Number
 }
 ```
 
