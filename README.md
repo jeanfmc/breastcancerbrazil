@@ -68,8 +68,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "porte" : String,
   "data_funcionamento" : Date,
   "location" : {
-    "lat" : Number,
-    "lon" : Number
+    "lat" : Float,
+    "lon" : Float
   } 
 }
 ```
@@ -150,6 +150,25 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "total_homem" : Number,
   "total_mulher" : Number,
   "total" : Number,
+  "regiao" : Geometry
+}
+```
+
+---
+
+#### Postos de trabalho médicos por mil habitantes por município
+**Name:** razao_mil_medicos_municipio \
+**File:** /dataset/loaded/bulk_razao_mil_medicos_municipio.txt \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_razao_medicos_1000_hab \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "estado" : String,
+  "cidade" : String,
+  "total_medicos" : Number,
+  "estimativa" : Number,
+  "medico_mil_habitante" : Float,
   "regiao" : Geometry
 }
 ```
