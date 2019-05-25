@@ -6,7 +6,7 @@ console.log("Populacao entre 60 e 99 anos");
 var fileOutputName = "bulk_razao_populacao_60_99.txt";
 var id = 1130000;
 var url = ""; 
-var datasetname = "razao_pupulacao_60_mais"
+var datasetname = "razao_populacao_60_mais"
 var result = {};
 
 //create file

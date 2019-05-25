@@ -226,7 +226,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Habitantes entre de 15 a 49 anos de idade - relação por sexo
-**Name:** razao_pupulacao_15_49_sexo \
+**Name:** razao_populacao_15_49_sexo \
 **File:** /dataset/loaded/bulk_razao_pupulacao_15_49_sexo.txt \
 **Loader:** /loader/loader_razao_pupulacao_15_49_sexo.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_per_mulheres_15a49anos \
@@ -250,7 +250,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Habitantes entre de 0 a 14 anos de idade
-**Name:** razao_pupulacao_0_14 \
+**Name:** razao_populacao_0_14 \
 **File:** /dataset/loaded/bulk_razao_pupulacao_0_14.txt \
 **Loader:** /loader/loader_razao_pupulacao_0_14.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_per_pessde0a14anos \
@@ -274,7 +274,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Habitantes mais de 60 anos de idade
-**Name:** razao_pupulacao_60_mais \
+**Name:** razao_populacao_60_mais \
 **File:** /dataset/loaded/bulk_razao_populacao_60_99.txt \
 **Loader:** /loader/loader_razao_populacao_60_mais.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_per_pess60anosoumais \
@@ -298,7 +298,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 ---
 
 #### Habitantes mais de 65 anos de idade
-**Name:** razao_pupulacao_65_mais \
+**Name:** razao_populacao_65_mais \
 **File:** /dataset/loaded/bulk_razao_populacao_65_99.txt \
 **Loader:** /loader/loader_razao_populacao_65_mais.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_per_pess65oumais \
@@ -315,6 +315,26 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "ano" : Number,
   "total_populacao" : Number,
   "total_idade" : Number,
+  "regiao" : Geometry
+}
+```
+
+---
+
+#### Produto Interno Bruto per capita por município
+**Name:** razao_pib_percapita_municipio \
+**File:** /dataset/loaded/bulk_pib_percapita_municipio.txt \
+**Loader:** /loader/loader_pib_municipio.js \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_pib_percapita \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "estado" : String,
+  "cidade" : String,
+  "ano" : Number,
+  "pib" : Float,
+  "pib_percapita" : Float,
   "regiao" : Geometry
 }
 ```
