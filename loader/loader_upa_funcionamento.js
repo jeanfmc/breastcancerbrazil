@@ -3,7 +3,7 @@ var fs = require("fs");
 
 console.log("Saude - UPA em funcionamento");
 
-var fileOutputName = "bulk_saude_upa_funcionamento.txt";
+var fileOutputName = "bulk_upa_funcionamento.txt";
 var id = 1020000;
 var url = "";
 var datasetname = "upa_funcionamento"

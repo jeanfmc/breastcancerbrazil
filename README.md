@@ -8,6 +8,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Mortalidade de Câncer de Mama:
 **Name:** mortalidade_cancer_mama \
 **File:** /dataset/loaded/bulk_mortalidade_cancer_mama.txt \
+**Loader:** /loader/loader_mortalidade_cancer_mama.js \
 **Source:** http://dados.gov.br/dataset/mspainelsage_59 \
 **Structure:**
 ```javascript 
@@ -29,6 +30,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Mortalidade de Câncer de Colo de Útero:
 **Name:** mortalidade_cancer_colo \
 **File:** /dataset/loaded/bulk_mortalidade_cancer_colo.txt \
+**Loader:** /loader/loader_mortalidade_cancer_colo.js \
 **Source:** http://dados.gov.br/dataset/mspainelsage_59 \
 **Structure:**
 ```javascript 
@@ -49,7 +51,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 
 #### UPAs em funcionamento
 **Name:** upa_funcionamento \
-**File:** /dataset/loaded/bulk_saude_upa_funcionamento.txt \
+**File:** /dataset/loaded/bulk_upa_funcionamento.txt \
+**Loader:** /loader/loader_upa_funcionamento.js \
 **Source:** http://dados.gov.br/dataset/upa_funcionamento_cnes \
 **Structure:**
 ```javascript 
@@ -79,6 +82,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Razão entre exames de mamografia em mulheres de 50 a 69 anos e população feminina da mesma faixa etária e local de residência
 **Name:** razao_50_69_mamografia_regiao \
 **File:** /dataset/loaded/bulk_razao_50_69_mamografia_regiao.txt \
+**Loader:** /loader/loader_razao_50_69_mamografia_regiao.js \
 **Source:** http://dados.gov.br/dataset/wms_idsus_nt_rzmamogr \
 **Structure:**
 ```javascript 
@@ -96,6 +100,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Relação de mamografias em mulheres entre 50 e 69 anos por estado
 **Name:** exame_50_69_mamografia_estado \
 **File:** /dataset/loaded/bulk_exame_50_69_mamografia_estado.txt \
+**Loader:** /loader/loader_exame_50_69_mamografia_estado.js \
 **Source:** http://dados.gov.br/dataset/mspainelsage_43 \
 **Structure:**
 ```javascript 
@@ -104,8 +109,8 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "nome" : String,
   "ano" : Number,
   "idade" : {
-    "lat" : Number,
-    "lon" : Number
+    "min" : Number,
+    "max" : Number
   },
   "estado" : String,
   "exame_total_" : Number,
@@ -115,9 +120,10 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 
 ---
 
-#### Relação de exames citopatológicos em mulheres entre 50 e 69 anos por estado
-**Name:** exame_50_69_citopatologico_estado \
-**File:** /dataset/loaded/bulk_exame_50_69_citopatologico_estado.txt \
+#### Relação de exames citopatológicos em mulheres entre 25 e 64 anos por estado
+**Name:** exame_25_64_citopatologico_estado \
+**File:** /dataset/loaded/bulk_exame_25_64_citopatologico_estado.txt \
+**Loader:** /loader/loader_exame_25_64_citopatologico_estado.js \
 **Source:** http://dados.gov.br/dataset/mspainelsage_43 \
 **Structure:**
 ```javascript 
@@ -126,12 +132,54 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "nome" : String,
   "ano" : Number,
   "idade" : {
-    "lat" : Number,
-    "lon" : Number
+    "min" : Number,
+    "max" : Number
   },
   "estado" : String,
   "exame_total_" : Number,
   "exame_idade" : Number
+}
+```
+
+---
+
+####  Relação entre exames citopatológicos totais e exames em mulheres entre 25 e 64 anos por município
+**Name:** rastreamento_25_64_citopatologico_municipio \
+**File:** /dataset/loaded/bulk_rastreamento_25_64_citopatologico_municipio.txt \
+**Loader:** /loader/loader_rastreamento_25_64_citopatologico_municipio.js \
+**Source:** http://dados.gov.br/dataset/combate-ao-cancer-de-mama-e-colo-de-utero \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "idade" : {
+    "min" : Number,
+    "max" : Number
+  },
+  "exame" : Number,
+  "municipio" : String,
+  "ano" : Number
+}
+```
+
+---
+
+####  Relação entre mamografias totais e exames em mulheres entre 50 e 69 anos por município
+**Name:** rastreamento_50_69_mamografia_municipio \
+**File:** /dataset/loaded/bulk_rastreamento_50_69_mamografia_municipio.txt \
+**Loader:** /loader/loader_rastreamento_50_69_mamografia_municipio.js \
+**Source:** http://dados.gov.br/dataset/combate-ao-cancer-de-mama-e-colo-de-utero \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "idade" : {
+    "min" : Number,
+    "max" : Number
+  },
+  "exame" : Number,
+  "municipio" : String,
+  "ano" : Number
 }
 ```
 
