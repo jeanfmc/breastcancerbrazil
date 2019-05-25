@@ -188,6 +188,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Ocorrências entre homens e mulheres por município
 **Name:** razao_sexo_municipio \
 **File:** /dataset/loaded/bulk_razao_sexo_municipio.txt \
+**Loader:** /loader/loader_razao_sexo_municipio.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_razao_de_sexo \
 **Structure:**
 ```javascript 
@@ -207,11 +208,36 @@ All dataset are provided on the dataset folder and formatted to be used on the b
 #### Postos de trabalho médicos por mil habitantes por município
 **Name:** razao_mil_medicos_municipio \
 **File:** /dataset/loaded/bulk_razao_mil_medicos_municipio.txt \
+**Loader:** /loader/loader_razao_mil_medicos_municipio.js \
 **Source:** http://dados.gov.br/dataset/cgeo_vw_razao_medicos_1000_hab \
 **Structure:**
 ```javascript 
 {
   "dataset" : String,
+  "estado" : String,
+  "cidade" : String,
+  "total_medicos" : Number,
+  "estimativa" : Number,
+  "medico_mil_habitante" : Float,
+  "regiao" : Geometry
+}
+```
+
+---
+
+#### Habitantes entre de 15 a 49 anos de idade - relação por sexo
+**Name:** razao_pupulacao_15_49_sexo \
+**File:** /dataset/loaded/bulk_razao_pupulacao_15_49_sexo.txt \
+**Loader:** /loader/loader_razao_pupulacao_15_49_sexo.js \
+**Source:** http://dados.gov.br/dataset/cgeo_vw_per_mulheres_15a49anos \
+**Structure:**
+```javascript 
+{
+  "dataset" : String,
+  "idade" : {
+    "min" : Number,
+    "max" : Number
+  },
   "estado" : String,
   "cidade" : String,
   "total_medicos" : Number,
