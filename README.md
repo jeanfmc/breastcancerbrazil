@@ -90,8 +90,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "dataset" : String,
   "cidade" : String,
   "nota" : Float,
-  "data" : Date,
-  "regiao" : Geometry
+  "data" : Date
 }
 ```
 
@@ -136,7 +135,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
     "max" : Number
   },
   "estado" : String,
-  "exame_total_" : Number,
+  "exame_total" : Number,
   "exame_idade" : Number
 }
 ```
@@ -198,8 +197,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "total_homem" : Number,
   "total_mulher" : Number,
-  "total" : Number,
-  "regiao" : Geometry
+  "total" : Number
 }
 ```
 
@@ -218,8 +216,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "total_medicos" : Number,
   "estimativa" : Number,
-  "medico_mil_habitante" : Float,
-  "regiao" : Geometry
+  "medico_mil_habitante" : Float
 }
 ```
 
@@ -242,8 +239,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "ano" : Number,
   "total_populacao" : Number,
-  "total_mulher" : Number,
-  "regiao" : Geometry
+  "total_mulher" : Number
 }
 ```
 
@@ -266,8 +262,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "ano" : Number,
   "total_populacao" : Number,
-  "total_idade" : Number,
-  "regiao" : Geometry
+  "total_idade" : Number
 }
 ```
 
@@ -290,8 +285,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "ano" : Number,
   "total_populacao" : Number,
-  "total_idade" : Number,
-  "regiao" : Geometry
+  "total_idade" : Number
 }
 ```
 
@@ -314,8 +308,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "ano" : Number,
   "total_populacao" : Number,
-  "total_idade" : Number,
-  "regiao" : Geometry
+  "total_idade" : Number
 }
 ```
 
@@ -334,8 +327,7 @@ All dataset are provided on the dataset folder and formatted to be used on the b
   "cidade" : String,
   "ano" : Number,
   "pib" : Float,
-  "pib_percapita" : Float,
-  "regiao" : Geometry
+  "pib_percapita" : Float
 }
 ```
 

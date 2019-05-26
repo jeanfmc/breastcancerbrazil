@@ -34,8 +34,6 @@ function loadData(id, url, result){
 					content.pib = parseFloat(resultSet[a].properties.PIB);
 					content.pib_percapita = parseFloat(resultSet[a].properties.PIB_percapita);
 					
-					content.regiao = resultSet[a].geometry.coordinates[0];
-					
 					fs.appendFileSync(fileOutputName,'{"index":{"_id":"'+id+'"}}\n',function(){});
 					fs.appendFileSync(fileOutputName,JSON.stringify(content),function(){});
 					fs.appendFileSync(fileOutputName,"\n",function(){});

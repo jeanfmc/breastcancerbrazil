@@ -33,7 +33,6 @@ function loadData(id, url, result){
 					content.total_homem = parseInt(resultSet[a].properties.Populacao_Masculina,0);
 					content.total_mulher = parseInt(resultSet[a].properties.Populacao_Feminina,0);
 					content.total = content.total_homem+content.total_mulher;
-					content.regiao = resultSet[a].geometry.coordinates[0];
 					
 					fs.appendFileSync(fileOutputName,'{"index":{"_id":"'+id+'"}}\n',function(){});
 					fs.appendFileSync(fileOutputName,JSON.stringify(content),function(){});

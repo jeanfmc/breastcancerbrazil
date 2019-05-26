@@ -35,8 +35,6 @@ function loadData(id, url, result){
 					content.estimativa = parseInt(resultSet[a].properties.Pop_est_2009,0);
 					content.medico_mil_habitante = parseFloat(resultSet[a].properties.razao_medicos_1000_hab);
 					
-					content.regiao = resultSet[a].geometry.coordinates[0];
-					
 					fs.appendFileSync(fileOutputName,'{"index":{"_id":"'+id+'"}}\n',function(){});
 					fs.appendFileSync(fileOutputName,JSON.stringify(content),function(){});
 					fs.appendFileSync(fileOutputName,"\n",function(){});

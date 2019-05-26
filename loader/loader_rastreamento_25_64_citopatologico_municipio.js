@@ -29,6 +29,7 @@ function loadData(id, url, result){
 					content.exame = parseInt(resultSet[a].valor,0);
 					content.municipio = parseInt(resultSet[a].municipio_ibge,0);
 					content.ano = parseInt(resultSet[a].ano,0);
+					
 					fs.appendFileSync(fileOutputName,'{"index":{"_id":"'+id+'"}}\n',function(){});
 					fs.appendFileSync(fileOutputName,JSON.stringify(content),function(){});
 					fs.appendFileSync(fileOutputName,"\n",function(){});

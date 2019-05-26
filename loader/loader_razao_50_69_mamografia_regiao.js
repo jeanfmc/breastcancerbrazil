@@ -30,7 +30,6 @@ function loadData(id, url, result){
 					content.cidade = resultSet[a].properties[0].no_cidade;
 					content.nota = parseFloat(resultSet[a].properties[1].nota);
 					content.data = new Date(resultSet[a].properties[2].data_ref);
-					content.regiao = resultSet[a].geometry.coordinates[0];
 					
 					fs.appendFileSync(fileOutputName,'{"index":{"_id":"'+id+'"}}\n',function(){});
 					fs.appendFileSync(fileOutputName,JSON.stringify(content),function(){});
