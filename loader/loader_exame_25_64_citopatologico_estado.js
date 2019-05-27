@@ -14,21 +14,21 @@ fs.writeFileSync(fileOutputName,"", function(){});
 
 url = "http://sage.saude.gov.br/graficos/saudeMulher/examesCitopatologicos2011.php?output=json";
 result = {"dataset":datasetname, "ano":2011,"idade":{min:25,max:64}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/saudeMulher/examesCitopatologicos2012.php?output=json";
 result = {"dataset":datasetname, "ano":2012,"idade":{min:25,max:64}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/saudeMulher/examesCitopatologicos2013.php?output=json";
 result = {"dataset":datasetname, "ano":2013,"idade":{min:25,max:64}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/saudeMulher/examesCitopatologicos2014.php?output=json";
 result = {"dataset":datasetname, "ano":2014,"idade":{min:25,max:64}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
-function mortalidadeCancer(id, url, result){
+function mortalidadeCancer(url, result){
 	request({
 		url: url,
     	json: true

@@ -14,29 +14,29 @@ fs.writeFileSync(fileOutputName,"", function(){});
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo1524.php?output=json";
 result = {"dataset":datasetname, "grupo":"15_24","idade":{min:15,max:24}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo2534.php?output=json";
 result = {"dataset":datasetname, "grupo":"25_34","idade":{min:25,max:34}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo3544.php?output=json";
 result = {"dataset":datasetname, "grupo":"35_44","idade":{min:35,max:44}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo4554.php?output=json";
 result = {"dataset":datasetname, "grupo":"45_54","idade":{min:45,max:54}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo5564.php?output=json";
 result = {"dataset":datasetname, "grupo":"55_64","idade":{min:55,max:64}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
 url = "http://sage.saude.gov.br/graficos/cancerMamaColo/cancerColo65mais.php?output=json";
 result = {"dataset":datasetname, "grupo":"65_99","idade":{min:65,max:99}}
-mortalidadeCancer(id, url, result);
+mortalidadeCancer(url, result);
 
-function mortalidadeCancer(id, url, result){
+function mortalidadeCancer(url, result){
 	request({
 		url: url,
     	json: true
