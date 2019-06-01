@@ -190,939 +190,939 @@
 {"dataset":"mortalidade_cancer_mama","grupo":"40_49","idade":{"min":40,"max":49},"ano":2015,"mortes":834,"etnia":"Parda "}
 {"index":{"_id":"1000095"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"40_49","idade":{"min":40,"max":49},"ano":2015,"mortes":194,"etnia":"Preta "}
-{"index":{"_id":"1000000"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":373,"etnia":"Branca "}
-{"index":{"_id":"1000001"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":4,"etnia":"Amarela "}
-{"index":{"_id":"1000002"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000003"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000004"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000005"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":186,"etnia":"Preta "}
-{"index":{"_id":"1000006"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":394,"etnia":"Branca "}
-{"index":{"_id":"1000007"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":3,"etnia":"Amarela "}
-{"index":{"_id":"1000008"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000009"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000010"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000011"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":194,"etnia":"Preta "}
-{"index":{"_id":"1000012"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":425,"etnia":"Branca "}
-{"index":{"_id":"1000013"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":5,"etnia":"Amarela "}
-{"index":{"_id":"1000014"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000015"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000016"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000017"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":201,"etnia":"Preta "}
-{"index":{"_id":"1000018"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":408,"etnia":"Branca "}
-{"index":{"_id":"1000019"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000020"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000021"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000022"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000023"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":198,"etnia":"Preta "}
-{"index":{"_id":"1000024"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":403,"etnia":"Branca "}
-{"index":{"_id":"1000025"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":3,"etnia":"Amarela "}
-{"index":{"_id":"1000026"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000027"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000028"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000029"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":228,"etnia":"Preta "}
-{"index":{"_id":"1000030"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":380,"etnia":"Branca "}
-{"index":{"_id":"1000031"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":3,"etnia":"Amarela "}
-{"index":{"_id":"1000032"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000033"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000034"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000035"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":234,"etnia":"Preta "}
-{"index":{"_id":"1000036"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":412,"etnia":"Branca "}
-{"index":{"_id":"1000037"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000038"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000039"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000040"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000041"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":273,"etnia":"Preta "}
-{"index":{"_id":"1000042"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":404,"etnia":"Branca "}
-{"index":{"_id":"1000043"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000044"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000045"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000046"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000047"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":281,"etnia":"Preta "}
-{"index":{"_id":"1000048"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":411,"etnia":"Branca "}
-{"index":{"_id":"1000049"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000050"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000051"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000052"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000053"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":324,"etnia":"Preta "}
-{"index":{"_id":"1000054"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":466,"etnia":"Branca "}
-{"index":{"_id":"1000055"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000056"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000057"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000058"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000059"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":315,"etnia":"Preta "}
-{"index":{"_id":"1000060"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":421,"etnia":"Branca "}
-{"index":{"_id":"1000061"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":5,"etnia":"Amarela "}
-{"index":{"_id":"1000062"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000063"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000064"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000065"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":340,"etnia":"Preta "}
-{"index":{"_id":"1000066"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":453,"etnia":"Branca "}
-{"index":{"_id":"1000067"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000068"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000069"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000070"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000071"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":366,"etnia":"Preta "}
-{"index":{"_id":"1000072"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":469,"etnia":"Branca "}
-{"index":{"_id":"1000073"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":7,"etnia":"Amarela "}
-{"index":{"_id":"1000074"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":44,"etnia":"Ignorada "}
-{"index":{"_id":"1000075"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000076"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":324,"etnia":"Parda "}
-{"index":{"_id":"1000077"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":68,"etnia":"Preta "}
-{"index":{"_id":"1000078"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":466,"etnia":"Branca "}
-{"index":{"_id":"1000079"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000080"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":41,"etnia":"Ignorada "}
-{"index":{"_id":"1000081"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000082"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":352,"etnia":"Parda "}
-{"index":{"_id":"1000083"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":72,"etnia":"Preta "}
-{"index":{"_id":"1000084"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":481,"etnia":"Branca "}
-{"index":{"_id":"1000085"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000086"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":39,"etnia":"Ignorada "}
-{"index":{"_id":"1000087"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000088"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":323,"etnia":"Parda "}
-{"index":{"_id":"1000089"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":87,"etnia":"Preta "}
-{"index":{"_id":"1000090"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":518,"etnia":"Branca "}
-{"index":{"_id":"1000091"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000092"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":49,"etnia":"Ignorada "}
-{"index":{"_id":"1000093"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000094"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":351,"etnia":"Parda "}
-{"index":{"_id":"1000095"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":79,"etnia":"Preta "}
-{"index":{"_id":"1000000"}}
+{"index":{"_id":"1000096"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":2430,"etnia":"Branca "}
-{"index":{"_id":"1000001"}}
+{"index":{"_id":"1000097"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":40,"etnia":"Amarela "}
-{"index":{"_id":"1000002"}}
+{"index":{"_id":"1000098"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000003"}}
+{"index":{"_id":"1000099"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":4,"etnia":"Indígena "}
-{"index":{"_id":"1000004"}}
+{"index":{"_id":"1000100"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000005"}}
+{"index":{"_id":"1000101"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2000,"mortes":837,"etnia":"Preta "}
-{"index":{"_id":"1000006"}}
+{"index":{"_id":"1000102"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":2634,"etnia":"Branca "}
-{"index":{"_id":"1000007"}}
+{"index":{"_id":"1000103"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":31,"etnia":"Amarela "}
-{"index":{"_id":"1000008"}}
+{"index":{"_id":"1000104"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000009"}}
+{"index":{"_id":"1000105"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":4,"etnia":"Indígena "}
-{"index":{"_id":"1000010"}}
+{"index":{"_id":"1000106"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000011"}}
+{"index":{"_id":"1000107"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2001,"mortes":910,"etnia":"Preta "}
-{"index":{"_id":"1000012"}}
+{"index":{"_id":"1000108"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":2774,"etnia":"Branca "}
-{"index":{"_id":"1000013"}}
+{"index":{"_id":"1000109"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":28,"etnia":"Amarela "}
-{"index":{"_id":"1000014"}}
+{"index":{"_id":"1000110"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000015"}}
+{"index":{"_id":"1000111"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000016"}}
+{"index":{"_id":"1000112"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000017"}}
+{"index":{"_id":"1000113"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2002,"mortes":1007,"etnia":"Preta "}
-{"index":{"_id":"1000018"}}
+{"index":{"_id":"1000114"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":2838,"etnia":"Branca "}
-{"index":{"_id":"1000019"}}
+{"index":{"_id":"1000115"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":28,"etnia":"Amarela "}
-{"index":{"_id":"1000020"}}
+{"index":{"_id":"1000116"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000021"}}
+{"index":{"_id":"1000117"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000022"}}
+{"index":{"_id":"1000118"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000023"}}
+{"index":{"_id":"1000119"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2003,"mortes":1042,"etnia":"Preta "}
-{"index":{"_id":"1000024"}}
+{"index":{"_id":"1000120"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":3034,"etnia":"Branca "}
-{"index":{"_id":"1000025"}}
+{"index":{"_id":"1000121"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":30,"etnia":"Amarela "}
-{"index":{"_id":"1000026"}}
+{"index":{"_id":"1000122"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000027"}}
+{"index":{"_id":"1000123"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000028"}}
+{"index":{"_id":"1000124"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000029"}}
+{"index":{"_id":"1000125"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2004,"mortes":1165,"etnia":"Preta "}
-{"index":{"_id":"1000030"}}
+{"index":{"_id":"1000126"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":3041,"etnia":"Branca "}
-{"index":{"_id":"1000031"}}
+{"index":{"_id":"1000127"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":38,"etnia":"Amarela "}
-{"index":{"_id":"1000032"}}
+{"index":{"_id":"1000128"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000033"}}
+{"index":{"_id":"1000129"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":4,"etnia":"Indígena "}
-{"index":{"_id":"1000034"}}
+{"index":{"_id":"1000130"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000035"}}
+{"index":{"_id":"1000131"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2005,"mortes":1291,"etnia":"Preta "}
-{"index":{"_id":"1000036"}}
+{"index":{"_id":"1000132"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":3141,"etnia":"Branca "}
-{"index":{"_id":"1000037"}}
+{"index":{"_id":"1000133"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000038"}}
+{"index":{"_id":"1000134"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000039"}}
+{"index":{"_id":"1000135"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000040"}}
+{"index":{"_id":"1000136"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000041"}}
+{"index":{"_id":"1000137"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2006,"mortes":1452,"etnia":"Preta "}
-{"index":{"_id":"1000042"}}
+{"index":{"_id":"1000138"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":3172,"etnia":"Branca "}
-{"index":{"_id":"1000043"}}
+{"index":{"_id":"1000139"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000044"}}
+{"index":{"_id":"1000140"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000045"}}
+{"index":{"_id":"1000141"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":4,"etnia":"Indígena "}
-{"index":{"_id":"1000046"}}
+{"index":{"_id":"1000142"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000047"}}
+{"index":{"_id":"1000143"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2007,"mortes":1481,"etnia":"Preta "}
-{"index":{"_id":"1000048"}}
+{"index":{"_id":"1000144"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":3369,"etnia":"Branca "}
-{"index":{"_id":"1000049"}}
+{"index":{"_id":"1000145"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000050"}}
+{"index":{"_id":"1000146"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000051"}}
+{"index":{"_id":"1000147"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":5,"etnia":"Indígena "}
-{"index":{"_id":"1000052"}}
+{"index":{"_id":"1000148"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000053"}}
+{"index":{"_id":"1000149"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2008,"mortes":1667,"etnia":"Preta "}
-{"index":{"_id":"1000054"}}
+{"index":{"_id":"1000150"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":3363,"etnia":"Branca "}
-{"index":{"_id":"1000055"}}
+{"index":{"_id":"1000151"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":19,"etnia":"Amarela "}
-{"index":{"_id":"1000056"}}
+{"index":{"_id":"1000152"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000057"}}
+{"index":{"_id":"1000153"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000058"}}
+{"index":{"_id":"1000154"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000059"}}
+{"index":{"_id":"1000155"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2009,"mortes":1732,"etnia":"Preta "}
-{"index":{"_id":"1000060"}}
+{"index":{"_id":"1000156"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":3646,"etnia":"Branca "}
-{"index":{"_id":"1000061"}}
+{"index":{"_id":"1000157"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000062"}}
+{"index":{"_id":"1000158"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000063"}}
+{"index":{"_id":"1000159"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000064"}}
+{"index":{"_id":"1000160"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000065"}}
+{"index":{"_id":"1000161"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2010,"mortes":1917,"etnia":"Preta "}
-{"index":{"_id":"1000066"}}
+{"index":{"_id":"1000162"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":3667,"etnia":"Branca "}
-{"index":{"_id":"1000067"}}
+{"index":{"_id":"1000163"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":26,"etnia":"Amarela "}
-{"index":{"_id":"1000068"}}
+{"index":{"_id":"1000164"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000069"}}
+{"index":{"_id":"1000165"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":5,"etnia":"Indígena "}
-{"index":{"_id":"1000070"}}
+{"index":{"_id":"1000166"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000071"}}
+{"index":{"_id":"1000167"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2011,"mortes":2042,"etnia":"Preta "}
-{"index":{"_id":"1000072"}}
+{"index":{"_id":"1000168"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":3783,"etnia":"Branca "}
-{"index":{"_id":"1000073"}}
+{"index":{"_id":"1000169"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":41,"etnia":"Amarela "}
-{"index":{"_id":"1000074"}}
+{"index":{"_id":"1000170"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":290,"etnia":"Ignorada "}
-{"index":{"_id":"1000075"}}
+{"index":{"_id":"1000171"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":8,"etnia":"Indígena "}
-{"index":{"_id":"1000076"}}
+{"index":{"_id":"1000172"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":1682,"etnia":"Parda "}
-{"index":{"_id":"1000077"}}
+{"index":{"_id":"1000173"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2012,"mortes":453,"etnia":"Preta "}
-{"index":{"_id":"1000078"}}
+{"index":{"_id":"1000174"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":3910,"etnia":"Branca "}
-{"index":{"_id":"1000079"}}
+{"index":{"_id":"1000175"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":36,"etnia":"Amarela "}
-{"index":{"_id":"1000080"}}
+{"index":{"_id":"1000176"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":313,"etnia":"Ignorada "}
-{"index":{"_id":"1000081"}}
+{"index":{"_id":"1000177"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":5,"etnia":"Indígena "}
-{"index":{"_id":"1000082"}}
+{"index":{"_id":"1000178"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":1873,"etnia":"Parda "}
-{"index":{"_id":"1000083"}}
+{"index":{"_id":"1000179"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2013,"mortes":523,"etnia":"Preta "}
-{"index":{"_id":"1000084"}}
+{"index":{"_id":"1000180"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":3920,"etnia":"Branca "}
-{"index":{"_id":"1000085"}}
+{"index":{"_id":"1000181"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000086"}}
+{"index":{"_id":"1000182"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":281,"etnia":"Ignorada "}
-{"index":{"_id":"1000087"}}
+{"index":{"_id":"1000183"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000088"}}
+{"index":{"_id":"1000184"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":1915,"etnia":"Parda "}
-{"index":{"_id":"1000089"}}
+{"index":{"_id":"1000185"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"50_69","idade":{"min":50,"max":69},"ano":2014,"mortes":556,"etnia":"Preta "}
-{"index":{"_id":"1000000"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":45,"etnia":"Branca "}
-{"index":{"_id":"1000001"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000002"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000003"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000004"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000005"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":20,"etnia":"Preta "}
-{"index":{"_id":"1000006"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":37,"etnia":"Branca "}
-{"index":{"_id":"1000007"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000008"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000009"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000010"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000011"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":19,"etnia":"Preta "}
-{"index":{"_id":"1000012"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":43,"etnia":"Branca "}
-{"index":{"_id":"1000013"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000014"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000015"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000016"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000017"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":30,"etnia":"Preta "}
-{"index":{"_id":"1000018"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":37,"etnia":"Branca "}
-{"index":{"_id":"1000019"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000020"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000021"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000022"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000023"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":23,"etnia":"Preta "}
-{"index":{"_id":"1000024"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":38,"etnia":"Branca "}
-{"index":{"_id":"1000025"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000026"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000027"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000028"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000029"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":35,"etnia":"Preta "}
-{"index":{"_id":"1000030"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":47,"etnia":"Branca "}
-{"index":{"_id":"1000031"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000032"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000033"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000034"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000035"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":34,"etnia":"Preta "}
-{"index":{"_id":"1000036"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":43,"etnia":"Branca "}
-{"index":{"_id":"1000037"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":2,"etnia":"Amarela "}
-{"index":{"_id":"1000038"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000039"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000040"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000041"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":29,"etnia":"Preta "}
-{"index":{"_id":"1000042"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":53,"etnia":"Branca "}
-{"index":{"_id":"1000043"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":6,"etnia":"Amarela "}
-{"index":{"_id":"1000044"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000045"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000046"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000047"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":43,"etnia":"Preta "}
-{"index":{"_id":"1000048"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":67,"etnia":"Branca "}
-{"index":{"_id":"1000049"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000050"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000051"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000052"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000053"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":42,"etnia":"Preta "}
-{"index":{"_id":"1000054"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":40,"etnia":"Branca "}
-{"index":{"_id":"1000055"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000056"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000057"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000058"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000059"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":53,"etnia":"Preta "}
-{"index":{"_id":"1000060"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":49,"etnia":"Branca "}
-{"index":{"_id":"1000061"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000062"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000063"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000064"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000065"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":45,"etnia":"Preta "}
-{"index":{"_id":"1000066"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":76,"etnia":"Branca "}
-{"index":{"_id":"1000067"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000068"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000069"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000070"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000071"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":39,"etnia":"Preta "}
-{"index":{"_id":"1000072"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":32,"etnia":"Branca "}
-{"index":{"_id":"1000073"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":1,"etnia":"Amarela "}
-{"index":{"_id":"1000074"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":4,"etnia":"Ignorada "}
-{"index":{"_id":"1000075"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000076"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":38,"etnia":"Parda "}
-{"index":{"_id":"1000077"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":9,"etnia":"Preta "}
-{"index":{"_id":"1000078"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":59,"etnia":"Branca "}
-{"index":{"_id":"1000079"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000080"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":5,"etnia":"Ignorada "}
-{"index":{"_id":"1000081"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000082"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":29,"etnia":"Parda "}
-{"index":{"_id":"1000083"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":8,"etnia":"Preta "}
-{"index":{"_id":"1000084"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":59,"etnia":"Branca "}
-{"index":{"_id":"1000085"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000086"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":4,"etnia":"Ignorada "}
-{"index":{"_id":"1000087"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000088"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":43,"etnia":"Parda "}
-{"index":{"_id":"1000089"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":5,"etnia":"Preta "}
-{"index":{"_id":"1000090"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":69,"etnia":"Branca "}
-{"index":{"_id":"1000091"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000092"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000093"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000094"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":50,"etnia":"Parda "}
-{"index":{"_id":"1000095"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":4,"etnia":"Preta "}
-{"index":{"_id":"1000000"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000001"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":33,"etnia":"Amarela "}
-{"index":{"_id":"1000002"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000003"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000004"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000005"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":356,"etnia":"Preta "}
-{"index":{"_id":"1000006"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":1775,"etnia":"Branca "}
-{"index":{"_id":"1000007"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":18,"etnia":"Amarela "}
-{"index":{"_id":"1000008"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000009"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000010"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000011"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":406,"etnia":"Preta "}
-{"index":{"_id":"1000012"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":1794,"etnia":"Branca "}
-{"index":{"_id":"1000013"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":13,"etnia":"Amarela "}
-{"index":{"_id":"1000014"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000015"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000016"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000017"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":440,"etnia":"Preta "}
-{"index":{"_id":"1000018"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":1995,"etnia":"Branca "}
-{"index":{"_id":"1000019"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":19,"etnia":"Amarela "}
-{"index":{"_id":"1000020"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000021"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":1,"etnia":"Indígena "}
-{"index":{"_id":"1000022"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000023"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":471,"etnia":"Preta "}
-{"index":{"_id":"1000024"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":2054,"etnia":"Branca "}
-{"index":{"_id":"1000025"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":18,"etnia":"Amarela "}
-{"index":{"_id":"1000026"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000027"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000028"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000029"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":536,"etnia":"Preta "}
-{"index":{"_id":"1000030"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":2141,"etnia":"Branca "}
-{"index":{"_id":"1000031"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":23,"etnia":"Amarela "}
-{"index":{"_id":"1000032"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000033"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":7,"etnia":"Indígena "}
-{"index":{"_id":"1000034"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000035"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":569,"etnia":"Preta "}
-{"index":{"_id":"1000036"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":2231,"etnia":"Branca "}
-{"index":{"_id":"1000037"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":19,"etnia":"Amarela "}
-{"index":{"_id":"1000038"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000039"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000040"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000041"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":680,"etnia":"Preta "}
-{"index":{"_id":"1000042"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":2312,"etnia":"Branca "}
-{"index":{"_id":"1000043"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":16,"etnia":"Amarela "}
-{"index":{"_id":"1000044"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000045"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000046"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000047"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":741,"etnia":"Preta "}
-{"index":{"_id":"1000048"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":2469,"etnia":"Branca "}
-{"index":{"_id":"1000049"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":16,"etnia":"Amarela "}
-{"index":{"_id":"1000050"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000051"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000052"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000053"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":783,"etnia":"Preta "}
-{"index":{"_id":"1000054"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":2444,"etnia":"Branca "}
-{"index":{"_id":"1000055"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":23,"etnia":"Amarela "}
-{"index":{"_id":"1000056"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000057"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000058"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000059"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":853,"etnia":"Preta "}
-{"index":{"_id":"1000060"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":2620,"etnia":"Branca "}
-{"index":{"_id":"1000061"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":25,"etnia":"Amarela "}
-{"index":{"_id":"1000062"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000063"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000064"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000065"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":935,"etnia":"Preta "}
-{"index":{"_id":"1000066"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":2752,"etnia":"Branca "}
-{"index":{"_id":"1000067"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":41,"etnia":"Amarela "}
-{"index":{"_id":"1000068"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000069"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":3,"etnia":"Indígena "}
-{"index":{"_id":"1000070"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000071"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":929,"etnia":"Preta "}
-{"index":{"_id":"1000072"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":2737,"etnia":"Branca "}
-{"index":{"_id":"1000073"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":38,"etnia":"Amarela "}
-{"index":{"_id":"1000074"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":179,"etnia":"Ignorada "}
-{"index":{"_id":"1000075"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000076"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":800,"etnia":"Parda "}
-{"index":{"_id":"1000077"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":273,"etnia":"Preta "}
-{"index":{"_id":"1000078"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":2910,"etnia":"Branca "}
-{"index":{"_id":"1000079"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":40,"etnia":"Amarela "}
-{"index":{"_id":"1000080"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":213,"etnia":"Ignorada "}
-{"index":{"_id":"1000081"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":2,"etnia":"Indígena "}
-{"index":{"_id":"1000082"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":818,"etnia":"Parda "}
-{"index":{"_id":"1000083"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":268,"etnia":"Preta "}
-{"index":{"_id":"1000084"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":2971,"etnia":"Branca "}
-{"index":{"_id":"1000085"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":35,"etnia":"Amarela "}
-{"index":{"_id":"1000086"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":177,"etnia":"Ignorada "}
-{"index":{"_id":"1000087"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000088"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":890,"etnia":"Parda "}
-{"index":{"_id":"1000089"}}
-{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":287,"etnia":"Preta "}
-{"index":{"_id":"1000000"}}
+{"index":{"_id":"1000186"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000001"}}
+{"index":{"_id":"1000187"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000002"}}
+{"index":{"_id":"1000188"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000003"}}
+{"index":{"_id":"1000189"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000004"}}
+{"index":{"_id":"1000190"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000005"}}
+{"index":{"_id":"1000191"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2000,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000006"}}
+{"index":{"_id":"1000192"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000007"}}
+{"index":{"_id":"1000193"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000008"}}
+{"index":{"_id":"1000194"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000009"}}
+{"index":{"_id":"1000195"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000010"}}
+{"index":{"_id":"1000196"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000011"}}
+{"index":{"_id":"1000197"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2001,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000012"}}
+{"index":{"_id":"1000198"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000013"}}
+{"index":{"_id":"1000199"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000014"}}
+{"index":{"_id":"1000200"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000015"}}
+{"index":{"_id":"1000201"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000016"}}
+{"index":{"_id":"1000202"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000017"}}
+{"index":{"_id":"1000203"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2002,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000018"}}
+{"index":{"_id":"1000204"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000019"}}
+{"index":{"_id":"1000205"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000020"}}
+{"index":{"_id":"1000206"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000021"}}
+{"index":{"_id":"1000207"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000022"}}
+{"index":{"_id":"1000208"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000023"}}
+{"index":{"_id":"1000209"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2003,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000024"}}
+{"index":{"_id":"1000210"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000025"}}
+{"index":{"_id":"1000211"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000026"}}
+{"index":{"_id":"1000212"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000027"}}
+{"index":{"_id":"1000213"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000028"}}
+{"index":{"_id":"1000214"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000029"}}
+{"index":{"_id":"1000215"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2004,"mortes":3,"etnia":"Preta "}
-{"index":{"_id":"1000030"}}
+{"index":{"_id":"1000216"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":2,"etnia":"Branca "}
-{"index":{"_id":"1000031"}}
+{"index":{"_id":"1000217"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000032"}}
+{"index":{"_id":"1000218"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000033"}}
+{"index":{"_id":"1000219"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000034"}}
+{"index":{"_id":"1000220"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000035"}}
+{"index":{"_id":"1000221"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2005,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000036"}}
+{"index":{"_id":"1000222"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000037"}}
+{"index":{"_id":"1000223"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000038"}}
+{"index":{"_id":"1000224"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000039"}}
+{"index":{"_id":"1000225"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000040"}}
+{"index":{"_id":"1000226"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000041"}}
+{"index":{"_id":"1000227"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2006,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000042"}}
+{"index":{"_id":"1000228"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000043"}}
+{"index":{"_id":"1000229"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000044"}}
+{"index":{"_id":"1000230"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000045"}}
+{"index":{"_id":"1000231"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000046"}}
+{"index":{"_id":"1000232"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000047"}}
+{"index":{"_id":"1000233"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2007,"mortes":2,"etnia":"Preta "}
-{"index":{"_id":"1000048"}}
+{"index":{"_id":"1000234"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":2,"etnia":"Branca "}
-{"index":{"_id":"1000049"}}
+{"index":{"_id":"1000235"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000050"}}
+{"index":{"_id":"1000236"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000051"}}
+{"index":{"_id":"1000237"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000052"}}
+{"index":{"_id":"1000238"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000053"}}
+{"index":{"_id":"1000239"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2008,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000054"}}
+{"index":{"_id":"1000240"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000055"}}
+{"index":{"_id":"1000241"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000056"}}
+{"index":{"_id":"1000242"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000057"}}
+{"index":{"_id":"1000243"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000058"}}
+{"index":{"_id":"1000244"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000059"}}
+{"index":{"_id":"1000245"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2009,"mortes":4,"etnia":"Preta "}
-{"index":{"_id":"1000060"}}
+{"index":{"_id":"1000246"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000061"}}
+{"index":{"_id":"1000247"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000062"}}
+{"index":{"_id":"1000248"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000063"}}
+{"index":{"_id":"1000249"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000064"}}
+{"index":{"_id":"1000250"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000065"}}
+{"index":{"_id":"1000251"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2010,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000066"}}
+{"index":{"_id":"1000252"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000067"}}
+{"index":{"_id":"1000253"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000068"}}
+{"index":{"_id":"1000254"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000069"}}
+{"index":{"_id":"1000255"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000070"}}
+{"index":{"_id":"1000256"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000071"}}
+{"index":{"_id":"1000257"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2011,"mortes":1,"etnia":"Preta "}
-{"index":{"_id":"1000072"}}
+{"index":{"_id":"1000258"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":1,"etnia":"Branca "}
-{"index":{"_id":"1000073"}}
+{"index":{"_id":"1000259"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000074"}}
+{"index":{"_id":"1000260"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000075"}}
+{"index":{"_id":"1000261"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000076"}}
+{"index":{"_id":"1000262"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":2,"etnia":"Parda "}
-{"index":{"_id":"1000077"}}
+{"index":{"_id":"1000263"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2012,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000078"}}
+{"index":{"_id":"1000264"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000079"}}
+{"index":{"_id":"1000265"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000080"}}
+{"index":{"_id":"1000266"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":1,"etnia":"Ignorada "}
-{"index":{"_id":"1000081"}}
+{"index":{"_id":"1000267"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000082"}}
+{"index":{"_id":"1000268"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":3,"etnia":"Parda "}
-{"index":{"_id":"1000083"}}
+{"index":{"_id":"1000269"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2013,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000084"}}
+{"index":{"_id":"1000270"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000085"}}
+{"index":{"_id":"1000271"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000086"}}
+{"index":{"_id":"1000272"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000087"}}
+{"index":{"_id":"1000273"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000088"}}
+{"index":{"_id":"1000274"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":1,"etnia":"Parda "}
-{"index":{"_id":"1000089"}}
+{"index":{"_id":"1000275"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2014,"mortes":0,"etnia":"Preta "}
-{"index":{"_id":"1000090"}}
+{"index":{"_id":"1000276"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Branca "}
-{"index":{"_id":"1000091"}}
+{"index":{"_id":"1000277"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Amarela "}
-{"index":{"_id":"1000092"}}
+{"index":{"_id":"1000278"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Ignorada "}
-{"index":{"_id":"1000093"}}
+{"index":{"_id":"1000279"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Indígena "}
-{"index":{"_id":"1000094"}}
+{"index":{"_id":"1000280"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Parda "}
-{"index":{"_id":"1000095"}}
+{"index":{"_id":"1000281"}}
 {"dataset":"mortalidade_cancer_mama","grupo":"10_19","idade":{"min":10,"max":19},"ano":2015,"mortes":0,"etnia":"Preta "}
+{"index":{"_id":"1000282"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":45,"etnia":"Branca "}
+{"index":{"_id":"1000283"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000284"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000285"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000286"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000287"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2000,"mortes":20,"etnia":"Preta "}
+{"index":{"_id":"1000288"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":37,"etnia":"Branca "}
+{"index":{"_id":"1000289"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000290"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000291"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000292"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000293"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2001,"mortes":19,"etnia":"Preta "}
+{"index":{"_id":"1000294"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":43,"etnia":"Branca "}
+{"index":{"_id":"1000295"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000296"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000297"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000298"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000299"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2002,"mortes":30,"etnia":"Preta "}
+{"index":{"_id":"1000300"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":37,"etnia":"Branca "}
+{"index":{"_id":"1000301"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000302"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000303"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000304"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000305"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2003,"mortes":23,"etnia":"Preta "}
+{"index":{"_id":"1000306"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":38,"etnia":"Branca "}
+{"index":{"_id":"1000307"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000308"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000309"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000310"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000311"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2004,"mortes":35,"etnia":"Preta "}
+{"index":{"_id":"1000312"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":47,"etnia":"Branca "}
+{"index":{"_id":"1000313"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000314"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000315"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000316"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000317"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2005,"mortes":34,"etnia":"Preta "}
+{"index":{"_id":"1000318"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":43,"etnia":"Branca "}
+{"index":{"_id":"1000319"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000320"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000321"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000322"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000323"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2006,"mortes":29,"etnia":"Preta "}
+{"index":{"_id":"1000324"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":53,"etnia":"Branca "}
+{"index":{"_id":"1000325"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":6,"etnia":"Amarela "}
+{"index":{"_id":"1000326"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000327"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000328"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000329"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2007,"mortes":43,"etnia":"Preta "}
+{"index":{"_id":"1000330"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":67,"etnia":"Branca "}
+{"index":{"_id":"1000331"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000332"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000333"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":3,"etnia":"Indígena "}
+{"index":{"_id":"1000334"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000335"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2008,"mortes":42,"etnia":"Preta "}
+{"index":{"_id":"1000336"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":40,"etnia":"Branca "}
+{"index":{"_id":"1000337"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000338"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000339"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000340"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000341"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2009,"mortes":53,"etnia":"Preta "}
+{"index":{"_id":"1000342"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":49,"etnia":"Branca "}
+{"index":{"_id":"1000343"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000344"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000345"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000346"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000347"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2010,"mortes":45,"etnia":"Preta "}
+{"index":{"_id":"1000348"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":76,"etnia":"Branca "}
+{"index":{"_id":"1000349"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000350"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000351"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000352"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000353"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2011,"mortes":39,"etnia":"Preta "}
+{"index":{"_id":"1000354"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":32,"etnia":"Branca "}
+{"index":{"_id":"1000355"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":1,"etnia":"Amarela "}
+{"index":{"_id":"1000356"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":4,"etnia":"Ignorada "}
+{"index":{"_id":"1000357"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000358"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":38,"etnia":"Parda "}
+{"index":{"_id":"1000359"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2012,"mortes":9,"etnia":"Preta "}
+{"index":{"_id":"1000360"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":59,"etnia":"Branca "}
+{"index":{"_id":"1000361"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000362"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":5,"etnia":"Ignorada "}
+{"index":{"_id":"1000363"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000364"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":29,"etnia":"Parda "}
+{"index":{"_id":"1000365"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2013,"mortes":8,"etnia":"Preta "}
+{"index":{"_id":"1000366"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":59,"etnia":"Branca "}
+{"index":{"_id":"1000367"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000368"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":4,"etnia":"Ignorada "}
+{"index":{"_id":"1000369"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000370"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":43,"etnia":"Parda "}
+{"index":{"_id":"1000371"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2014,"mortes":5,"etnia":"Preta "}
+{"index":{"_id":"1000372"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":69,"etnia":"Branca "}
+{"index":{"_id":"1000373"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000374"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000375"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000376"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":50,"etnia":"Parda "}
+{"index":{"_id":"1000377"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"20_29","idade":{"min":20,"max":29},"ano":2015,"mortes":4,"etnia":"Preta "}
+{"index":{"_id":"1000378"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Branca "}
+{"index":{"_id":"1000379"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":33,"etnia":"Amarela "}
+{"index":{"_id":"1000380"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000381"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":3,"etnia":"Indígena "}
+{"index":{"_id":"1000382"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000383"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2000,"mortes":356,"etnia":"Preta "}
+{"index":{"_id":"1000384"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":1775,"etnia":"Branca "}
+{"index":{"_id":"1000385"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":18,"etnia":"Amarela "}
+{"index":{"_id":"1000386"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000387"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000388"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000389"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2001,"mortes":406,"etnia":"Preta "}
+{"index":{"_id":"1000390"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":1794,"etnia":"Branca "}
+{"index":{"_id":"1000391"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":13,"etnia":"Amarela "}
+{"index":{"_id":"1000392"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000393"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000394"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000395"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2002,"mortes":440,"etnia":"Preta "}
+{"index":{"_id":"1000396"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":1995,"etnia":"Branca "}
+{"index":{"_id":"1000397"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":19,"etnia":"Amarela "}
+{"index":{"_id":"1000398"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000399"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000400"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000401"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2003,"mortes":471,"etnia":"Preta "}
+{"index":{"_id":"1000402"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":2054,"etnia":"Branca "}
+{"index":{"_id":"1000403"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":18,"etnia":"Amarela "}
+{"index":{"_id":"1000404"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000405"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000406"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000407"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2004,"mortes":536,"etnia":"Preta "}
+{"index":{"_id":"1000408"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":2141,"etnia":"Branca "}
+{"index":{"_id":"1000409"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":23,"etnia":"Amarela "}
+{"index":{"_id":"1000410"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000411"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":7,"etnia":"Indígena "}
+{"index":{"_id":"1000412"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000413"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2005,"mortes":569,"etnia":"Preta "}
+{"index":{"_id":"1000414"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":2231,"etnia":"Branca "}
+{"index":{"_id":"1000415"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":19,"etnia":"Amarela "}
+{"index":{"_id":"1000416"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000417"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000418"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000419"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2006,"mortes":680,"etnia":"Preta "}
+{"index":{"_id":"1000420"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":2312,"etnia":"Branca "}
+{"index":{"_id":"1000421"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":16,"etnia":"Amarela "}
+{"index":{"_id":"1000422"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000423"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000424"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000425"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2007,"mortes":741,"etnia":"Preta "}
+{"index":{"_id":"1000426"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":2469,"etnia":"Branca "}
+{"index":{"_id":"1000427"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":16,"etnia":"Amarela "}
+{"index":{"_id":"1000428"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000429"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":3,"etnia":"Indígena "}
+{"index":{"_id":"1000430"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000431"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2008,"mortes":783,"etnia":"Preta "}
+{"index":{"_id":"1000432"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":2444,"etnia":"Branca "}
+{"index":{"_id":"1000433"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":23,"etnia":"Amarela "}
+{"index":{"_id":"1000434"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000435"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000436"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000437"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2009,"mortes":853,"etnia":"Preta "}
+{"index":{"_id":"1000438"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":2620,"etnia":"Branca "}
+{"index":{"_id":"1000439"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":25,"etnia":"Amarela "}
+{"index":{"_id":"1000440"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000441"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000442"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000443"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2010,"mortes":935,"etnia":"Preta "}
+{"index":{"_id":"1000444"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":2752,"etnia":"Branca "}
+{"index":{"_id":"1000445"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":41,"etnia":"Amarela "}
+{"index":{"_id":"1000446"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000447"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":3,"etnia":"Indígena "}
+{"index":{"_id":"1000448"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000449"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2011,"mortes":929,"etnia":"Preta "}
+{"index":{"_id":"1000450"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":2737,"etnia":"Branca "}
+{"index":{"_id":"1000451"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":38,"etnia":"Amarela "}
+{"index":{"_id":"1000452"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":179,"etnia":"Ignorada "}
+{"index":{"_id":"1000453"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000454"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":800,"etnia":"Parda "}
+{"index":{"_id":"1000455"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2012,"mortes":273,"etnia":"Preta "}
+{"index":{"_id":"1000456"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":2910,"etnia":"Branca "}
+{"index":{"_id":"1000457"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":40,"etnia":"Amarela "}
+{"index":{"_id":"1000458"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":213,"etnia":"Ignorada "}
+{"index":{"_id":"1000459"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000460"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":818,"etnia":"Parda "}
+{"index":{"_id":"1000461"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2013,"mortes":268,"etnia":"Preta "}
+{"index":{"_id":"1000462"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":2971,"etnia":"Branca "}
+{"index":{"_id":"1000463"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":35,"etnia":"Amarela "}
+{"index":{"_id":"1000464"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":177,"etnia":"Ignorada "}
+{"index":{"_id":"1000465"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000466"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":890,"etnia":"Parda "}
+{"index":{"_id":"1000467"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"70_99","idade":{"min":70,"max":99},"ano":2014,"mortes":287,"etnia":"Preta "}
+{"index":{"_id":"1000468"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":373,"etnia":"Branca "}
+{"index":{"_id":"1000469"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":4,"etnia":"Amarela "}
+{"index":{"_id":"1000470"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000471"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000472"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000473"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2000,"mortes":186,"etnia":"Preta "}
+{"index":{"_id":"1000474"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":394,"etnia":"Branca "}
+{"index":{"_id":"1000475"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":3,"etnia":"Amarela "}
+{"index":{"_id":"1000476"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000477"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000478"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000479"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2001,"mortes":194,"etnia":"Preta "}
+{"index":{"_id":"1000480"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":425,"etnia":"Branca "}
+{"index":{"_id":"1000481"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":5,"etnia":"Amarela "}
+{"index":{"_id":"1000482"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000483"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000484"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000485"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2002,"mortes":201,"etnia":"Preta "}
+{"index":{"_id":"1000486"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":408,"etnia":"Branca "}
+{"index":{"_id":"1000487"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000488"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000489"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000490"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000491"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2003,"mortes":198,"etnia":"Preta "}
+{"index":{"_id":"1000492"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":403,"etnia":"Branca "}
+{"index":{"_id":"1000493"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":3,"etnia":"Amarela "}
+{"index":{"_id":"1000494"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000495"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000496"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000497"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2004,"mortes":228,"etnia":"Preta "}
+{"index":{"_id":"1000498"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":380,"etnia":"Branca "}
+{"index":{"_id":"1000499"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":3,"etnia":"Amarela "}
+{"index":{"_id":"1000500"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000501"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000502"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000503"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2005,"mortes":234,"etnia":"Preta "}
+{"index":{"_id":"1000504"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":412,"etnia":"Branca "}
+{"index":{"_id":"1000505"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000506"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000507"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":2,"etnia":"Indígena "}
+{"index":{"_id":"1000508"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000509"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2006,"mortes":273,"etnia":"Preta "}
+{"index":{"_id":"1000510"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":404,"etnia":"Branca "}
+{"index":{"_id":"1000511"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Amarela "}
+{"index":{"_id":"1000512"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000513"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000514"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000515"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2007,"mortes":281,"etnia":"Preta "}
+{"index":{"_id":"1000516"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":411,"etnia":"Branca "}
+{"index":{"_id":"1000517"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000518"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000519"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000520"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000521"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2008,"mortes":324,"etnia":"Preta "}
+{"index":{"_id":"1000522"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":466,"etnia":"Branca "}
+{"index":{"_id":"1000523"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000524"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000525"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000526"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000527"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2009,"mortes":315,"etnia":"Preta "}
+{"index":{"_id":"1000528"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":421,"etnia":"Branca "}
+{"index":{"_id":"1000529"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":5,"etnia":"Amarela "}
+{"index":{"_id":"1000530"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000531"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000532"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000533"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2010,"mortes":340,"etnia":"Preta "}
+{"index":{"_id":"1000534"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":453,"etnia":"Branca "}
+{"index":{"_id":"1000535"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000536"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":0,"etnia":"Ignorada "}
+{"index":{"_id":"1000537"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000538"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":0,"etnia":"Parda "}
+{"index":{"_id":"1000539"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2011,"mortes":366,"etnia":"Preta "}
+{"index":{"_id":"1000540"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":469,"etnia":"Branca "}
+{"index":{"_id":"1000541"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":7,"etnia":"Amarela "}
+{"index":{"_id":"1000542"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":44,"etnia":"Ignorada "}
+{"index":{"_id":"1000543"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000544"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":324,"etnia":"Parda "}
+{"index":{"_id":"1000545"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2012,"mortes":68,"etnia":"Preta "}
+{"index":{"_id":"1000546"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":466,"etnia":"Branca "}
+{"index":{"_id":"1000547"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000548"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":41,"etnia":"Ignorada "}
+{"index":{"_id":"1000549"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":1,"etnia":"Indígena "}
+{"index":{"_id":"1000550"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":352,"etnia":"Parda "}
+{"index":{"_id":"1000551"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2013,"mortes":72,"etnia":"Preta "}
+{"index":{"_id":"1000552"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":481,"etnia":"Branca "}
+{"index":{"_id":"1000553"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000554"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":39,"etnia":"Ignorada "}
+{"index":{"_id":"1000555"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000556"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":323,"etnia":"Parda "}
+{"index":{"_id":"1000557"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2014,"mortes":87,"etnia":"Preta "}
+{"index":{"_id":"1000558"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":518,"etnia":"Branca "}
+{"index":{"_id":"1000559"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":2,"etnia":"Amarela "}
+{"index":{"_id":"1000560"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":49,"etnia":"Ignorada "}
+{"index":{"_id":"1000561"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":0,"etnia":"Indígena "}
+{"index":{"_id":"1000562"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":351,"etnia":"Parda "}
+{"index":{"_id":"1000563"}}
+{"dataset":"mortalidade_cancer_mama","grupo":"30_39","idade":{"min":30,"max":39},"ano":2015,"mortes":79,"etnia":"Preta "}
